@@ -6,3 +6,4 @@ outputs/*.csv.gz
 *.bak
 .env
 data/
+matrices/

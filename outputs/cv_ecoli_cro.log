@@ -1,0 +1,9 @@
+nohup: ignoring input
+=== Escherichia coli / Ceftriaxone ===
+DRIAMS-A: n=4,961 | direnc=0.219
+  [patient] grup sayisi: 2,441
+    tohum 0: AUROC 0.878
+    tohum 1: AUROC 0.875
+    tohum 2: AUROC 0.875
+  [isolate] grup sayisi: 4,961
+    tohum 0: AUROC 0.901
