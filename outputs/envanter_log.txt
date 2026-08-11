@@ -1,0 +1,83 @@
+Bulunan merkezler: DRIAMS-A, DRIAMS-B, DRIAMS-C, DRIAMS-D
+
+[DRIAMS-A] id dosyalari okunuyor...
+  izolat: 111,257  |  spektrum: 111,257  |  ham satir: 9,500,232
+[DRIAMS-B] id dosyalari okunuyor...
+  izolat:   5,897  |  spektrum:   2,386  |  ham satir:   259,468
+[DRIAMS-C] id dosyalari okunuyor...
+  izolat:   4,696  |  spektrum:   4,737  |  ham satir:   262,976
+[DRIAMS-D] id dosyalari okunuyor...
+  izolat:  10,436  |  spektrum:  10,436  |  ham satir:   553,108
+
+Toplam satir: 10,575,784
+Test edilmis (R/I/S): 766,975
+Spektrumu mevcut ve test edilmis: 766,975
+
+=== MERKEZ x YIL ===
+    site year  n_izolat  n_etiket  n_tur  n_ilac
+DRIAMS-A 2015      1015     14563    102      65
+DRIAMS-A 2016     12084    172942    396      79
+DRIAMS-A 2017     15235    223356    360      81
+DRIAMS-A 2018      9997    152965    260      76
+DRIAMS-B 2018      2384     35920    103      40
+DRIAMS-C 2018      4696     54684    121      49
+DRIAMS-D 2018     10369    112545     52      36
+
+=== UYGUN CIFTLER (n >= 100, direnc orani %5-95) ===
+    site                    species                        drug    n direnc_orani eksiklik_orani
+DRIAMS-A           Escherichia coli                 Ceftriaxone 4961        0.219          0.322
+DRIAMS-A           Escherichia coli               Ciprofloxacin 4911        0.299          0.329
+DRIAMS-A           Escherichia coli                    Cefepime 4890        0.172          0.332
+DRIAMS-A           Escherichia coli               Cotrimoxazole 4888        0.326          0.332
+DRIAMS-A           Escherichia coli                  Tobramycin 4876        0.130          0.334
+DRIAMS-A           Escherichia coli      Ampicillin-Amoxicillin 4866        0.599          0.335
+DRIAMS-A           Escherichia coli                    Amikacin 4858        0.068          0.336
+DRIAMS-A           Escherichia coli                Levofloxacin 4858        0.297          0.336
+DRIAMS-A           Escherichia coli Amoxicillin-Clavulanic acid 4826        0.244          0.341
+DRIAMS-A           Escherichia coli                 Ceftazidime 4822        0.181          0.341
+DRIAMS-A           Escherichia coli     Piperacillin-Tazobactam 4799        0.073          0.344
+DRIAMS-A Staphylococcus epidermidis                  Rifampicin 4758        0.092          0.493
+DRIAMS-A Staphylococcus epidermidis               Ciprofloxacin 4679        0.574          0.502
+DRIAMS-A Staphylococcus epidermidis                   Oxacillin 4664        0.713          0.503
+DRIAMS-A Staphylococcus epidermidis                Fusidic acid 4589        0.525          0.511
+DRIAMS-A Staphylococcus epidermidis               Cotrimoxazole 4545        0.344          0.516
+DRIAMS-A Staphylococcus epidermidis Amoxicillin-Clavulanic acid 4262        0.705          0.546
+DRIAMS-A Staphylococcus epidermidis                   Cefazolin 4261        0.705          0.546
+DRIAMS-A Staphylococcus epidermidis                    Cefepime 4261        0.705          0.546
+DRIAMS-A Staphylococcus epidermidis                 Ceftriaxone 4261        0.705          0.546
+DRIAMS-A Staphylococcus epidermidis                  Cefuroxime 4261        0.705          0.546
+DRIAMS-A Staphylococcus epidermidis                    Imipenem 4261        0.705          0.546
+DRIAMS-A Staphylococcus epidermidis                   Meropenem 4261        0.705          0.546
+DRIAMS-A Staphylococcus epidermidis     Piperacillin-Tazobactam 4261        0.705          0.546
+DRIAMS-A Staphylococcus epidermidis                Erythromycin 4232        0.612          0.549
+DRIAMS-A Staphylococcus epidermidis                  Gentamicin 4221        0.441          0.550
+DRIAMS-A Staphylococcus epidermidis                 Clindamycin 4192        0.507          0.553
+DRIAMS-A Staphylococcus epidermidis                Tetracycline 4132        0.564          0.560
+DRIAMS-A      Staphylococcus aureus                   Oxacillin 3790        0.192          0.458
+DRIAMS-A      Staphylococcus aureus                Fusidic acid 3766        0.067          0.462
+DRIAMS-A      Staphylococcus aureus               Ciprofloxacin 3757        0.164          0.463
+DRIAMS-A      Staphylococcus aureus                   Meropenem 3643        0.195          0.479
+DRIAMS-A      Staphylococcus aureus Amoxicillin-Clavulanic acid 3640        0.196          0.480
+DRIAMS-A      Staphylococcus aureus                   Cefazolin 3640        0.196          0.480
+DRIAMS-A      Staphylococcus aureus                    Cefepime 3640        0.196          0.480
+DRIAMS-A      Staphylococcus aureus                 Ceftriaxone 3640        0.196          0.480
+DRIAMS-A      Staphylococcus aureus                  Cefuroxime 3640        0.196          0.480
+DRIAMS-A      Staphylococcus aureus                    Imipenem 3640        0.196          0.480
+DRIAMS-A      Staphylococcus aureus     Piperacillin-Tazobactam 3640        0.196          0.480
+DRIAMS-A      Staphylococcus aureus                Tetracycline 3609        0.075          0.484
+
+=== MERKEZLER ARASI ORTAK UYGUN CIFT ===
+hedef     DRIAMS-A  DRIAMS-B  DRIAMS-C  DRIAMS-D
+kaynak                                          
+DRIAMS-A       239        38        38        48
+DRIAMS-B        38        52        26        26
+DRIAMS-C        38        26        60        30
+DRIAMS-D        48        26        30        84
+
+Cikti klasoru: /home/hk/projects/maldi-shift/outputs
+  driams_long.parquet            367.77 MB
+  envanter_log.txt                 0.00 MB
+  ortak_ciftler.csv                0.00 MB
+  ozet_merkez_yil.csv              0.00 MB
+  ozet_tur_ilac.csv                0.65 MB
+  uygun_ciftler.csv                0.04 MB

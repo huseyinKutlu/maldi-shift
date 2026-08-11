@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+outputs/*.parquet
+outputs/*.npy
+outputs/*.csv.gz
+*.bak
+.env
+data/
