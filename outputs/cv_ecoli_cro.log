@@ -7,3 +7,23 @@ DRIAMS-A: n=4,961 | direnc=0.219
     tohum 2: AUROC 0.875
   [isolate] grup sayisi: 4,961
     tohum 0: AUROC 0.901
+    tohum 1: AUROC 0.902
+    tohum 2: AUROC 0.903
+  dis model konfig: {'num_leaves': 15, 'min_child_samples': 50, 'learning_rate': 0.05, 'n_estimators': 500} (ic AUROC 0.874)
+  DRIAMS-B: n=213 direnc=0.211 AUROC=0.825 PR-AUC=0.641 Brier=0.123 egim=0.79
+  DRIAMS-C: n=916 direnc=0.165 AUROC=0.666 PR-AUC=0.337 Brier=0.133 egim=0.38
+  DRIAMS-D: n=1,994 direnc=0.099 AUROC=0.769 PR-AUC=0.462 Brier=0.073 egim=0.70
+
+=== OZET ===
+          auroc         prauc         brier        cal_slope       
+           mean    std   mean    std   mean    std      mean    std
+grouping                                                           
+isolate   0.902  0.010  0.809  0.022  0.109  0.009      0.54  0.088
+patient   0.876  0.013  0.776  0.021  0.111  0.009      0.55  0.153
+
+    site    n  pos  auroc  prauc  brier  cal_slope
+DRIAMS-B  213   45  0.825  0.641  0.123      0.786
+DRIAMS-C  916  151  0.666  0.337  0.133      0.384
+DRIAMS-D 1994  198  0.769  0.462  0.073      0.704
+
+kayit: outputs/cv/Escherichia_coli__Ceftriaxone.csv

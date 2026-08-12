@@ -1,0 +1,29 @@
+nohup: ignoring input
+[23:29] BASLADI: Escherichia coli / Ciprofloxacin
+[01:02] BITTI: ecoli_cip
+    site    n  pos  auroc  prauc  brier  cal_slope
+DRIAMS-B  213   59  0.823  0.739  0.145      0.394
+DRIAMS-C  889  191  0.818  0.684  0.121      0.453
+DRIAMS-D 1939  371  0.729  0.524  0.139      0.407
+
+kayit: outputs/cv/Escherichia_coli__Ciprofloxacin.csv
+----------------------------------------
+[01:02] BASLADI: Klebsiella pneumoniae / Ceftriaxone
+[02:00] BITTI: kpneu_cro
+    site    n  pos  auroc  prauc  brier  cal_slope
+DRIAMS-B  152   18  0.491  0.184  0.111      0.025
+DRIAMS-C  366   55  0.574  0.201  0.149      0.126
+DRIAMS-D 2151  123  0.656  0.261  0.054      0.364
+
+kayit: outputs/cv/Klebsiella_pneumoniae__Ceftriaxone.csv
+----------------------------------------
+[02:00] BASLADI: Pseudomonas aeruginosa / Ciprofloxacin
+[03:08] BITTI: paer_cip
+    site   n  pos  auroc  prauc  brier  cal_slope
+DRIAMS-B 142   16  0.673  0.297  0.106      0.661
+DRIAMS-C 357   33  0.721  0.253  0.085      0.583
+DRIAMS-D 310   46  0.524  0.154  0.142      0.063
+
+kayit: outputs/cv/Pseudomonas_aeruginosa__Ciprofloxacin.csv
+----------------------------------------
+[03:08] TUM DENEYLER TAMAM

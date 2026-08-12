@@ -1,0 +1,28 @@
+=== Klebsiella pneumoniae / Ceftriaxone ===
+DRIAMS-A: n=2,860 | direnc=0.157
+  [patient] grup sayisi: 1,419
+    tohum 0: AUROC 0.793
+    tohum 1: AUROC 0.789
+    tohum 2: AUROC 0.793
+  [isolate] grup sayisi: 2,860
+    tohum 0: AUROC 0.853
+    tohum 1: AUROC 0.842
+    tohum 2: AUROC 0.852
+  dis model konfig: {'num_leaves': 63, 'min_child_samples': 20, 'learning_rate': 0.03, 'n_estimators': 700} (ic AUROC 0.806)
+  DRIAMS-B: n=152 direnc=0.118 AUROC=0.491 PR-AUC=0.184 Brier=0.111 egim=0.03
+  DRIAMS-C: n=366 direnc=0.150 AUROC=0.574 PR-AUC=0.201 Brier=0.149 egim=0.13
+  DRIAMS-D: n=2,151 direnc=0.057 AUROC=0.656 PR-AUC=0.261 Brier=0.054 egim=0.36
+
+=== OZET ===
+          auroc         prauc         brier        cal_slope       
+           mean    std   mean    std   mean    std      mean    std
+grouping                                                           
+isolate   0.849  0.021  0.703  0.037  0.102  0.010     0.582  0.113
+patient   0.791  0.040  0.622  0.058  0.107  0.012     0.510  0.136
+
+    site    n  pos  auroc  prauc  brier  cal_slope
+DRIAMS-B  152   18  0.491  0.184  0.111      0.025
+DRIAMS-C  366   55  0.574  0.201  0.149      0.126
+DRIAMS-D 2151  123  0.656  0.261  0.054      0.364
+
+kayit: outputs/cv/Klebsiella_pneumoniae__Ceftriaxone.csv

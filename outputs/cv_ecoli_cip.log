@@ -1,0 +1,28 @@
+=== Escherichia coli / Ciprofloxacin ===
+DRIAMS-A: n=4,911 | direnc=0.299
+  [patient] grup sayisi: 2,429
+    tohum 0: AUROC 0.824
+    tohum 1: AUROC 0.825
+    tohum 2: AUROC 0.829
+  [isolate] grup sayisi: 4,911
+    tohum 0: AUROC 0.853
+    tohum 1: AUROC 0.857
+    tohum 2: AUROC 0.863
+  dis model konfig: {'num_leaves': 63, 'min_child_samples': 20, 'learning_rate': 0.03, 'n_estimators': 700} (ic AUROC 0.816)
+  DRIAMS-B: n=213 direnc=0.277 AUROC=0.823 PR-AUC=0.739 Brier=0.145 egim=0.39
+  DRIAMS-C: n=889 direnc=0.215 AUROC=0.818 PR-AUC=0.684 Brier=0.121 egim=0.45
+  DRIAMS-D: n=1,939 direnc=0.191 AUROC=0.729 PR-AUC=0.524 Brier=0.139 egim=0.41
+
+=== OZET ===
+          auroc         prauc         brier        cal_slope       
+           mean    std   mean    std   mean    std      mean    std
+grouping                                                           
+isolate   0.858  0.011  0.781  0.017  0.157  0.010     0.509  0.078
+patient   0.826  0.022  0.743  0.030  0.161  0.016     0.512  0.133
+
+    site    n  pos  auroc  prauc  brier  cal_slope
+DRIAMS-B  213   59  0.823  0.739  0.145      0.394
+DRIAMS-C  889  191  0.818  0.684  0.121      0.453
+DRIAMS-D 1939  371  0.729  0.524  0.139      0.407
+
+kayit: outputs/cv/Escherichia_coli__Ciprofloxacin.csv
