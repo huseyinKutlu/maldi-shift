@@ -1,0 +1,21 @@
+tur,merkez,auroc
+Escherichia coli,DRIAMS-A,0.999
+Escherichia coli,DRIAMS-B,0.994
+Escherichia coli,DRIAMS-C,0.998
+Escherichia coli,DRIAMS-D,0.999
+Escherichia coli,ORTALAMA,0.998
+Staphylococcus aureus,DRIAMS-A,1.0
+Staphylococcus aureus,DRIAMS-B,0.999
+Staphylococcus aureus,DRIAMS-C,0.998
+Staphylococcus aureus,DRIAMS-D,1.0
+Staphylococcus aureus,ORTALAMA,0.999
+Klebsiella pneumoniae,DRIAMS-A,0.999
+Klebsiella pneumoniae,DRIAMS-B,0.998
+Klebsiella pneumoniae,DRIAMS-C,0.998
+Klebsiella pneumoniae,DRIAMS-D,0.999
+Klebsiella pneumoniae,ORTALAMA,0.999
+Pseudomonas aeruginosa,DRIAMS-A,0.999
+Pseudomonas aeruginosa,DRIAMS-B,0.998
+Pseudomonas aeruginosa,DRIAMS-C,0.994
+Pseudomonas aeruginosa,DRIAMS-D,0.998
+Pseudomonas aeruginosa,ORTALAMA,0.997

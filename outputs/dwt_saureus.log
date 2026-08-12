@@ -1,0 +1,30 @@
+nohup: ignoring input
+merkez ornekleri yukleniyor...
+  6,000 spektrum, 4 merkez
+Staphylococcus aureus/Oxacillin: n=3,790 direnc=0.192
+  dis merkez: DRIAMS-B, DRIAMS-C
+[cA5] 194 katsayi ...
+    {'band': 'cA5', 'n_coef': 194, 'merkez_auc': 0.976, 'ic_auroc': np.float64(0.842), 'ic_prauc': np.float64(0.709), 'B_auroc': 0.763, 'B_prauc': 0.292, 'C_auroc': 0.672, 'C_prauc': 0.125}
+[cD5] 194 katsayi ...
+    {'band': 'cD5', 'n_coef': 194, 'merkez_auc': 0.97, 'ic_auroc': np.float64(0.864), 'ic_prauc': np.float64(0.738), 'B_auroc': 0.844, 'B_prauc': 0.445, 'C_auroc': 0.607, 'C_prauc': 0.123}
+[cD4] 381 katsayi ...
+    {'band': 'cD4', 'n_coef': 381, 'merkez_auc': 0.975, 'ic_auroc': np.float64(0.889), 'ic_prauc': np.float64(0.781), 'B_auroc': 0.765, 'B_prauc': 0.239, 'C_auroc': 0.594, 'C_prauc': 0.099}
+[cD3] 756 katsayi ...
+    {'band': 'cD3', 'n_coef': 756, 'merkez_auc': 0.976, 'ic_auroc': np.float64(0.884), 'ic_prauc': np.float64(0.776), 'B_auroc': 0.732, 'B_prauc': 0.183, 'C_auroc': 0.624, 'C_prauc': 0.125}
+[cD2] 1505 katsayi ...
+    {'band': 'cD2', 'n_coef': 1505, 'merkez_auc': 0.983, 'ic_auroc': np.float64(0.883), 'ic_prauc': np.float64(0.779), 'B_auroc': 0.768, 'B_prauc': 0.207, 'C_auroc': 0.627, 'C_prauc': 0.172}
+[cD1] 3003 katsayi ...
+    {'band': 'cD1', 'n_coef': 3003, 'merkez_auc': 0.998, 'ic_auroc': np.float64(0.848), 'ic_prauc': np.float64(0.715), 'B_auroc': 0.656, 'B_prauc': 0.102, 'C_auroc': 0.652, 'C_prauc': 0.179}
+[TAM] referans ...
+
+=== ALT BANT TESHISI ===
+band  n_coef  merkez_auc  ic_auroc  ic_prauc  B_auroc  B_prauc  C_auroc  C_prauc
+ cA5     194       0.976     0.842     0.709    0.763    0.292    0.672    0.125
+ cD5     194       0.970     0.864     0.738    0.844    0.445    0.607    0.123
+ cD4     381       0.975     0.889     0.781    0.765    0.239    0.594    0.099
+ cD3     756       0.976     0.884     0.776    0.732    0.183    0.624    0.125
+ cD2    1505       0.983     0.883     0.779    0.768    0.207    0.627    0.172
+ cD1    3003       0.998     0.848     0.715    0.656    0.102    0.652    0.179
+ TAM    6000       0.992     0.893     0.801    0.823    0.513    0.703    0.157
+
+kayit: outputs/dwt/Staphylococcus_aureus__Oxacillin.csv

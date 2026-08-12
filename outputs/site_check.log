@@ -1,0 +1,30 @@
+nohup: ignoring input
+Escherichia coli: 2,613 spektrum {np.str_('DRIAMS-A'): np.int64(800), np.str_('DRIAMS-B'): np.int64(213), np.str_('DRIAMS-C'): np.int64(800), np.str_('DRIAMS-D'): np.int64(800)}
+   DRIAMS-A: AUROC 0.999
+   DRIAMS-B: AUROC 0.994
+   DRIAMS-C: AUROC 0.998
+   DRIAMS-D: AUROC 0.999
+Staphylococcus aureus: 2,691 spektrum {np.str_('DRIAMS-A'): np.int64(800), np.str_('DRIAMS-B'): np.int64(353), np.str_('DRIAMS-C'): np.int64(738), np.str_('DRIAMS-D'): np.int64(800)}
+   DRIAMS-A: AUROC 1.000
+   DRIAMS-B: AUROC 0.999
+   DRIAMS-C: AUROC 0.998
+   DRIAMS-D: AUROC 1.000
+Klebsiella pneumoniae: 2,118 spektrum {np.str_('DRIAMS-A'): np.int64(800), np.str_('DRIAMS-B'): np.int64(152), np.str_('DRIAMS-C'): np.int64(366), np.str_('DRIAMS-D'): np.int64(800)}
+   DRIAMS-A: AUROC 0.999
+   DRIAMS-B: AUROC 0.998
+   DRIAMS-C: AUROC 0.998
+   DRIAMS-D: AUROC 0.999
+Pseudomonas aeruginosa: 1,661 spektrum {np.str_('DRIAMS-A'): np.int64(800), np.str_('DRIAMS-B'): np.int64(142), np.str_('DRIAMS-C'): np.int64(357), np.str_('DRIAMS-D'): np.int64(362)}
+   DRIAMS-A: AUROC 0.999
+   DRIAMS-B: AUROC 0.998
+   DRIAMS-C: AUROC 0.994
+   DRIAMS-D: AUROC 0.998
+
+=== TUR-ICI MERKEZ AYIRT EDILEBILIRLIGI ===
+                   tur   merkez  auroc
+      Escherichia coli ORTALAMA  0.998
+ Staphylococcus aureus ORTALAMA  0.999
+ Klebsiella pneumoniae ORTALAMA  0.999
+Pseudomonas aeruginosa ORTALAMA  0.997
+
+kayit: outputs/site_check.csv
