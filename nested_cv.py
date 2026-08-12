@@ -128,6 +128,8 @@ def main():
     ap.add_argument("--out", default="outputs/cv")
     ap.add_argument("--seeds", type=int, default=3)
     ap.add_argument("--folds", type=int, default=5)
+    ap.add_argument("--mz-min", type=float, default=2000.0)
+    ap.add_argument("--mz-max", type=float, default=20000.0)
     a = ap.parse_args()
 
     root = Path(a.root).expanduser()
@@ -149,6 +151,9 @@ def main():
     tr = tr[tr.code.isin(idx.keys())]
     y = tr.label_RI.to_numpy(dtype=int)
     X = gather_rows(xs, [idx[c] for c in tr.code])
+    b0=int(max(0,(a.mz_min-2000)//3)); b1=int(min(6000,(a.mz_max-2000)//3))
+    X = X[:, b0:b1]
+    print(f"  mz {a.mz_min:.0f}-{a.mz_max:.0f} -> bin {b0}:{b1} ({b1-b0} ozellik)")
     print(f"{a.train_site}: n={len(y):,} | direnc={y.mean():.3f}", flush=True)
 
     for mode in ["patient", "isolate"]:
@@ -181,6 +186,7 @@ def main():
         if te.empty or te.label_RI.nunique() < 2:
             print(f"  {site}: yetersiz, atlandi"); continue
         X2 = gather_rows(xs2, [idx2[c] for c in te.code])
+        X2 = X2[:, b0:b1]
         y2 = te.label_RI.to_numpy(dtype=int)
         r = metrics(y2, m.predict_proba(X2)[:, 1])
         r.update(dict(kind="external", grouping="-", seed=0, fold=-1,

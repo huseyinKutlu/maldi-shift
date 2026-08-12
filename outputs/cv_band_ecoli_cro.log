@@ -1,0 +1,29 @@
+=== Escherichia coli / Ceftriaxone ===
+  mz 4000-20000 -> bin 666:6000 (5334 ozellik)
+DRIAMS-A: n=4,961 | direnc=0.219
+  [patient] grup sayisi: 2,441
+    tohum 0: AUROC 0.853
+    tohum 1: AUROC 0.852
+    tohum 2: AUROC 0.851
+  [isolate] grup sayisi: 4,961
+    tohum 0: AUROC 0.876
+    tohum 1: AUROC 0.873
+    tohum 2: AUROC 0.879
+  dis model konfig: {'num_leaves': 31, 'min_child_samples': 50, 'learning_rate': 0.05, 'n_estimators': 500} (ic AUROC 0.845)
+  DRIAMS-B: n=213 direnc=0.211 AUROC=0.848 PR-AUC=0.598 Brier=0.125 egim=0.52
+  DRIAMS-C: n=916 direnc=0.165 AUROC=0.665 PR-AUC=0.320 Brier=0.141 egim=0.26
+  DRIAMS-D: n=1,994 direnc=0.099 AUROC=0.723 PR-AUC=0.378 Brier=0.080 egim=0.48
+
+=== OZET ===
+          auroc         prauc        brier        cal_slope       
+           mean    std   mean   std   mean    std      mean    std
+grouping                                                          
+isolate   0.876  0.014  0.718  0.03  0.138  0.012     0.570  0.115
+patient   0.852  0.013  0.679  0.03  0.145  0.011     0.514  0.089
+
+    site    n  pos  auroc  prauc  brier  cal_slope
+DRIAMS-B  213   45  0.848  0.598  0.125      0.519
+DRIAMS-C  916  151  0.665  0.320  0.141      0.265
+DRIAMS-D 1994  198  0.723  0.378  0.080      0.483
+
+kayit: outputs/cv_band/Escherichia_coli__Ceftriaxone.csv

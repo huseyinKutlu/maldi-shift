@@ -1,0 +1,29 @@
+=== Pseudomonas aeruginosa / Ciprofloxacin ===
+  mz 4000-20000 -> bin 666:6000 (5334 ozellik)
+DRIAMS-A: n=3,153 | direnc=0.205
+  [patient] grup sayisi: 1,245
+    tohum 0: AUROC 0.681
+    tohum 1: AUROC 0.694
+    tohum 2: AUROC 0.689
+  [isolate] grup sayisi: 3,153
+    tohum 0: AUROC 0.778
+    tohum 1: AUROC 0.777
+    tohum 2: AUROC 0.773
+  dis model konfig: {'num_leaves': 63, 'min_child_samples': 20, 'learning_rate': 0.03, 'n_estimators': 700} (ic AUROC 0.683)
+  DRIAMS-B: n=142 direnc=0.113 AUROC=0.686 PR-AUC=0.324 Brier=0.112 egim=0.40
+  DRIAMS-C: n=357 direnc=0.092 AUROC=0.752 PR-AUC=0.325 Brier=0.090 egim=0.51
+  DRIAMS-D: n=310 direnc=0.148 AUROC=0.508 PR-AUC=0.168 Brier=0.147 egim=0.04
+
+=== OZET ===
+          auroc         prauc         brier        cal_slope       
+           mean    std   mean    std   mean    std      mean    std
+grouping                                                           
+isolate   0.776  0.023  0.521  0.035  0.177  0.009     0.447  0.064
+patient   0.688  0.051  0.390  0.076  0.180  0.014     0.362  0.156
+
+    site   n  pos  auroc  prauc  brier  cal_slope
+DRIAMS-B 142   16  0.686  0.324  0.112      0.399
+DRIAMS-C 357   33  0.752  0.325  0.090      0.514
+DRIAMS-D 310   46  0.508  0.168  0.147      0.043
+
+kayit: outputs/cv_band/Pseudomonas_aeruginosa__Ciprofloxacin.csv

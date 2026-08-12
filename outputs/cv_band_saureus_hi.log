@@ -1,0 +1,29 @@
+nohup: ignoring input
+=== Staphylococcus aureus / Oxacillin ===
+  mz 4000-20000 -> bin 666:6000 (5334 ozellik)
+DRIAMS-A: n=3,790 | direnc=0.192
+  [patient] grup sayisi: 1,841
+    tohum 0: AUROC 0.876
+    tohum 1: AUROC 0.879
+    tohum 2: AUROC 0.871
+  [isolate] grup sayisi: 3,790
+    tohum 0: AUROC 0.903
+    tohum 1: AUROC 0.907
+    tohum 2: AUROC 0.905
+  dis model konfig: {'num_leaves': 63, 'min_child_samples': 20, 'learning_rate': 0.03, 'n_estimators': 700} (ic AUROC 0.878)
+  DRIAMS-B: n=346 direnc=0.061 AUROC=0.849 PR-AUC=0.288 Brier=0.058 egim=0.39
+  DRIAMS-C: n=738 direnc=0.056 AUROC=0.653 PR-AUC=0.093 Brier=0.063 egim=0.15
+  DRIAMS-D: etiket yok, atlandi
+
+=== OZET ===
+          auroc         prauc         brier        cal_slope       
+           mean    std   mean    std   mean    std      mean    std
+grouping                                                           
+isolate   0.905  0.018  0.800  0.030  0.104  0.010     0.557  0.103
+patient   0.875  0.020  0.761  0.034  0.107  0.014     0.568  0.189
+
+    site   n  pos  auroc  prauc  brier  cal_slope
+DRIAMS-B 346   21  0.849  0.288  0.058      0.387
+DRIAMS-C 738   41  0.653  0.093  0.063      0.150
+
+kayit: outputs/cv_band/Staphylococcus_aureus__Oxacillin.csv

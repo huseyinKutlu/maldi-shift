@@ -1,0 +1,36 @@
+nohup: ignoring input
+egitiliyor: Escherichia coli / Ciprofloxacin ...
+  n=4,911 direnc=0.299 | top-10 m/z: 5891, 11780, 5894, 6902, 6809, 8504, 6812, 11777, 6866, 8447
+egitiliyor: Escherichia coli / Ceftriaxone ...
+  n=4,961 direnc=0.219 | top-10 m/z: 2153, 2150, 2135, 2912, 2066, 2024, 2258, 11780, 8450, 8447
+egitiliyor: Klebsiella pneumoniae / Ceftriaxone ...
+  n=2,860 direnc=0.157 | top-10 m/z: 2135, 2153, 2234, 2591, 2900, 2138, 2003, 5411, 6833, 2813
+egitiliyor: Staphylococcus aureus / Oxacillin ...
+  n=3,790 direnc=0.192 | top-10 m/z: 2855, 2066, 2162, 2852, 6926, 2063, 5000, 2822, 2165, 4640
+egitiliyor: Pseudomonas aeruginosa / Ciprofloxacin ...
+  n=3,153 direnc=0.205 | top-10 m/z: 2066, 2330, 8315, 2867, 9524, 3806, 11585, 9518, 6482, 11594
+
+=== ATIF BENZERLIGI: Spearman (tum binler) ===
+              E.coli-Cipr  E.coli-Ceft  K.pneum-Ceft  S.aureu-Oxac  P.aerug-Cipr
+E.coli-Cipr         1.000        0.168         0.098         0.076         0.079
+E.coli-Ceft         0.168        1.000         0.083         0.067         0.057
+K.pneum-Ceft        0.098        0.083         1.000         0.033         0.070
+S.aureu-Oxac        0.076        0.067         0.033         1.000         0.037
+P.aerug-Cipr        0.079        0.057         0.070         0.037         1.000
+
+=== ATIF BENZERLIGI: Jaccard (top-100 bin) ===
+              E.coli-Cipr  E.coli-Ceft  K.pneum-Ceft  S.aureu-Oxac  P.aerug-Cipr
+E.coli-Cipr         1.000        0.282         0.042         0.015         0.015
+E.coli-Ceft         0.282        1.000         0.117         0.064         0.031
+K.pneum-Ceft        0.042        0.117         1.000         0.031         0.020
+S.aureu-Oxac        0.015        0.064         0.031         1.000         0.042
+P.aerug-Cipr        0.015        0.031         0.020         0.042         1.000
+
+=== PSM-mec BOLGESI (2400-2440 Da) SIRALAMASI ===
+  E.coli-Cipr            en iyi sira   320/6000  (m/z 2423, agirlik 0.00040)
+  E.coli-Ceft            en iyi sira    81/6000  (m/z 2432, agirlik 0.00164)
+  K.pneum-Ceft           en iyi sira    12/6000  (m/z 2405, agirlik 0.00458)
+  S.aureu-Oxac           en iyi sira    11/6000  (m/z 2408, agirlik 0.00927)
+  P.aerug-Cipr           en iyi sira   297/6000  (m/z 2417, agirlik 0.00071)
+
+kayit: outputs/xai

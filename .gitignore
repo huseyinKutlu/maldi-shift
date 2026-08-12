@@ -7,3 +7,4 @@ outputs/*.csv.gz
 .env
 data/
 matrices/
+DRIAMS-*/

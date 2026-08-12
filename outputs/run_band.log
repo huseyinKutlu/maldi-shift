@@ -1,0 +1,46 @@
+nohup: ignoring input
+[13:16] BASLADI: Klebsiella pneumoniae / Ceftriaxone  (mz 4000+)
+[14:07] BITTI: kpneu_cro
+patient   0.752  0.056  0.513  0.083  0.136  0.005     0.450  0.129
+
+    site    n  pos  auroc  prauc  brier  cal_slope
+DRIAMS-B  152   18  0.331  0.105  0.276     -0.220
+DRIAMS-C  366   55  0.616  0.216  0.141      0.219
+DRIAMS-D 2151  123  0.642  0.140  0.054      0.332
+
+kayit: outputs/cv_band/Klebsiella_pneumoniae__Ceftriaxone.csv
+----------------------------------------
+[14:07] BASLADI: Escherichia coli / Ceftriaxone  (mz 4000+)
+[15:25] BITTI: ecoli_cro
+patient   0.852  0.013  0.679  0.03  0.145  0.011     0.514  0.089
+
+    site    n  pos  auroc  prauc  brier  cal_slope
+DRIAMS-B  213   45  0.848  0.598  0.125      0.519
+DRIAMS-C  916  151  0.665  0.320  0.141      0.265
+DRIAMS-D 1994  198  0.723  0.378  0.080      0.483
+
+kayit: outputs/cv_band/Escherichia_coli__Ceftriaxone.csv
+----------------------------------------
+[15:25] BASLADI: Escherichia coli / Ciprofloxacin  (mz 4000+)
+[16:41] BITTI: ecoli_cip
+patient   0.817  0.020  0.731  0.031  0.170  0.014     0.438  0.047
+
+    site    n  pos  auroc  prauc  brier  cal_slope
+DRIAMS-B  213   59  0.861  0.791  0.116      0.796
+DRIAMS-C  889  191  0.823  0.684  0.113      0.780
+DRIAMS-D 1939  371  0.729  0.508  0.130      0.583
+
+kayit: outputs/cv_band/Escherichia_coli__Ciprofloxacin.csv
+----------------------------------------
+[16:41] BASLADI: Pseudomonas aeruginosa / Ciprofloxacin  (mz 4000+)
+[17:38] BITTI: paer_cip
+patient   0.688  0.051  0.390  0.076  0.180  0.014     0.362  0.156
+
+    site   n  pos  auroc  prauc  brier  cal_slope
+DRIAMS-B 142   16  0.686  0.324  0.112      0.399
+DRIAMS-C 357   33  0.752  0.325  0.090      0.514
+DRIAMS-D 310   46  0.508  0.168  0.147      0.043
+
+kayit: outputs/cv_band/Pseudomonas_aeruginosa__Ciprofloxacin.csv
+----------------------------------------
+[17:38] BANT ABLASYONU TAMAM
