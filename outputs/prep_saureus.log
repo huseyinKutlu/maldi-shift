@@ -1,0 +1,20 @@
+nohup: ignoring input
+merkez seti (Escherichia coli): 2,013 spektrum
+AMR (Staphylococcus aureus/Oxacillin): n=3,790 dis=['DRIAMS-B', 'DRIAMS-C']
+  ham     : {'adim': 'ham', 'merkez_auroc': 0.997, 'amr_ic_auroc': 0.896, 'amr_ic_prauc': 0.806, 'B_auroc': 0.807, 'B_prauc': 0.453, 'C_auroc': 0.684, 'C_prauc': 0.185}
+  sqrt    : {'adim': 'sqrt', 'merkez_auroc': 0.997, 'amr_ic_auroc': 0.899, 'amr_ic_prauc': 0.81, 'B_auroc': 0.823, 'B_prauc': 0.486, 'C_auroc': 0.689, 'C_prauc': 0.155}
+  smooth  : {'adim': 'smooth', 'merkez_auroc': 0.995, 'amr_ic_auroc': 0.901, 'amr_ic_prauc': 0.806, 'B_auroc': 0.868, 'B_prauc': 0.509, 'C_auroc': 0.717, 'C_prauc': 0.174}
+  snip    : {'adim': 'snip', 'merkez_auroc': 0.994, 'amr_ic_auroc': 0.898, 'amr_ic_prauc': 0.808, 'B_auroc': 0.827, 'B_prauc': 0.509, 'C_auroc': 0.702, 'C_prauc': 0.157}
+  tic     : {'adim': 'tic', 'merkez_auroc': 0.994, 'amr_ic_auroc': 0.899, 'amr_ic_prauc': 0.807, 'B_auroc': 0.809, 'B_prauc': 0.44, 'C_auroc': 0.678, 'C_prauc': 0.134}
+  align   : {'adim': 'align', 'merkez_auroc': 0.987, 'amr_ic_auroc': 0.902, 'amr_ic_prauc': 0.816, 'B_auroc': 0.88, 'B_prauc': 0.52, 'C_auroc': 0.684, 'C_prauc': 0.176}
+
+=== ON ISLEME ZINCIRI ===
+  adim  merkez_auroc  amr_ic_auroc  amr_ic_prauc  B_auroc  B_prauc  C_auroc  C_prauc
+   ham         0.997         0.896         0.806    0.807    0.453    0.684    0.185
+  sqrt         0.997         0.899         0.810    0.823    0.486    0.689    0.155
+smooth         0.995         0.901         0.806    0.868    0.509    0.717    0.174
+  snip         0.994         0.898         0.808    0.827    0.509    0.702    0.157
+   tic         0.994         0.899         0.807    0.809    0.440    0.678    0.134
+ align         0.987         0.902         0.816    0.880    0.520    0.684    0.176
+
+kayit: outputs/prep/Staphylococcus_aureus__Oxacillin.csv
