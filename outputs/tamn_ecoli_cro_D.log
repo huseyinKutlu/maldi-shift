@@ -1,0 +1,43 @@
+nohup: ignoring input
+cihaz: cuda
+kaynak (hedef haric): n=6,090 direnc=0.211
+hedef DRIAMS-D: n=1,994 direnc=0.099
+  tekrar 1/5 bitti
+  tekrar 2/5 bitti
+  tekrar 3/5 bitti
+  tekrar 4/5 bitti
+  tekrar 5/5 bitti
+
+=== TAMN: DSBN + ADAPTER ===
+
+PRAUC:
+kol  adapter  calib  direct  fullft  local
+n                                         
+0        NaN    NaN   0.209     NaN    NaN
+25     0.214  0.236     NaN   0.220  0.148
+50     0.182  0.209     NaN   0.196  0.142
+100    0.189  0.209     NaN   0.205  0.135
+200    0.209  0.209     NaN   0.212  0.152
+500    0.205  0.209     NaN   0.216  0.190
+
+AUROC:
+kol  adapter  calib  direct  fullft  local
+n                                         
+0        NaN    NaN   0.625     NaN    NaN
+25     0.641  0.640     NaN   0.629  0.589
+50     0.588  0.625     NaN   0.617  0.542
+100    0.597  0.625     NaN   0.631  0.588
+200    0.598  0.625     NaN   0.623  0.577
+500    0.603  0.625     NaN   0.631  0.603
+
+EGIM:
+kol  adapter  calib  direct  fullft  local
+n                                         
+0        NaN    NaN   0.119     NaN    NaN
+25     0.119  6.431     NaN   0.115  0.067
+50     0.057  0.609     NaN   0.094  0.062
+100    0.078  1.709     NaN   0.111  0.178
+200    0.078  1.446     NaN   0.112  0.201
+500    0.083  0.935     NaN   0.125  0.264
+
+kayit: outputs/tamn/Escherichia_coli__Ceftriaxone__DRIAMS-D_raw.csv
