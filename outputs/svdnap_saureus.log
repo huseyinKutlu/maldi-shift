@@ -1,0 +1,37 @@
+nohup: ignoring input
+nuisance alt uzayi...
+  nuisance icin 15 tur kullanilacak
+  nuisance matrisi: (52, 6000)
+  ilk 10 yonun varyans payi: 0.251, 0.130, 0.074, 0.056, 0.048, 0.045, 0.044, 0.038, 0.032, 0.029
+Staphylococcus aureus/Oxacillin: n=3,790 direnc=0.192
+  dis merkez: DRIAMS-B, DRIAMS-C
+SVD (200 bilesen) ...
+  lgbm   k=  0: {'model': 'lgbm', 'corank': 0, 'ic_auroc': 0.882, 'ic_prauc': 0.773, 'B_auroc': 0.675, 'B_prauc': 0.131, 'C_auroc': 0.64, 'C_prauc': 0.118}
+  logreg k=  0: {'model': 'logreg', 'corank': 0, 'ic_auroc': 0.888, 'ic_prauc': 0.761, 'B_auroc': 0.559, 'B_prauc': 0.085, 'C_auroc': 0.657, 'C_prauc': 0.152}
+  lgbm   k=  2: {'model': 'lgbm', 'corank': 2, 'ic_auroc': 0.884, 'ic_prauc': 0.773, 'B_auroc': 0.703, 'B_prauc': 0.215, 'C_auroc': 0.642, 'C_prauc': 0.1}
+  logreg k=  2: {'model': 'logreg', 'corank': 2, 'ic_auroc': 0.89, 'ic_prauc': 0.761, 'B_auroc': 0.567, 'B_prauc': 0.09, 'C_auroc': 0.664, 'C_prauc': 0.153}
+  lgbm   k=  5: {'model': 'lgbm', 'corank': 5, 'ic_auroc': 0.872, 'ic_prauc': 0.759, 'B_auroc': 0.732, 'B_prauc': 0.223, 'C_auroc': 0.695, 'C_prauc': 0.135}
+  logreg k=  5: {'model': 'logreg', 'corank': 5, 'ic_auroc': 0.888, 'ic_prauc': 0.766, 'B_auroc': 0.628, 'B_prauc': 0.104, 'C_auroc': 0.675, 'C_prauc': 0.17}
+  lgbm   k= 10: {'model': 'lgbm', 'corank': 10, 'ic_auroc': 0.875, 'ic_prauc': 0.762, 'B_auroc': 0.745, 'B_prauc': 0.228, 'C_auroc': 0.659, 'C_prauc': 0.131}
+  logreg k= 10: {'model': 'logreg', 'corank': 10, 'ic_auroc': 0.891, 'ic_prauc': 0.774, 'B_auroc': 0.612, 'B_prauc': 0.104, 'C_auroc': 0.678, 'C_prauc': 0.168}
+  lgbm   k= 20: {'model': 'lgbm', 'corank': 20, 'ic_auroc': 0.876, 'ic_prauc': 0.761, 'B_auroc': 0.703, 'B_prauc': 0.119, 'C_auroc': 0.682, 'C_prauc': 0.112}
+  logreg k= 20: {'model': 'logreg', 'corank': 20, 'ic_auroc': 0.889, 'ic_prauc': 0.771, 'B_auroc': 0.598, 'B_prauc': 0.09, 'C_auroc': 0.682, 'C_prauc': 0.147}
+  lgbm   k= 40: {'model': 'lgbm', 'corank': 40, 'ic_auroc': 0.872, 'ic_prauc': 0.75, 'B_auroc': 0.695, 'B_prauc': 0.16, 'C_auroc': 0.651, 'C_prauc': 0.123}
+  logreg k= 40: {'model': 'logreg', 'corank': 40, 'ic_auroc': 0.889, 'ic_prauc': 0.751, 'B_auroc': 0.64, 'B_prauc': 0.099, 'C_auroc': 0.669, 'C_prauc': 0.137}
+
+=== SVD + NAP ===
+ model  corank  ic_auroc  ic_prauc  B_auroc  B_prauc  C_auroc  C_prauc
+  lgbm       0     0.882     0.773    0.675    0.131    0.640    0.118
+logreg       0     0.888     0.761    0.559    0.085    0.657    0.152
+  lgbm       2     0.884     0.773    0.703    0.215    0.642    0.100
+logreg       2     0.890     0.761    0.567    0.090    0.664    0.153
+  lgbm       5     0.872     0.759    0.732    0.223    0.695    0.135
+logreg       5     0.888     0.766    0.628    0.104    0.675    0.170
+  lgbm      10     0.875     0.762    0.745    0.228    0.659    0.131
+logreg      10     0.891     0.774    0.612    0.104    0.678    0.168
+  lgbm      20     0.876     0.761    0.703    0.119    0.682    0.112
+logreg      20     0.889     0.771    0.598    0.090    0.682    0.147
+  lgbm      40     0.872     0.750    0.695    0.160    0.651    0.123
+logreg      40     0.889     0.751    0.640    0.099    0.669    0.137
+
+kayit: outputs/svdnap/Staphylococcus_aureus__Oxacillin__d200.csv
