@@ -1,0 +1,46 @@
+kaynak DRIAMS-A: n=4,911 direnc=0.299
+hedef DRIAMS-D: n=1,939 direnc=0.191 grup=1,939
+  tekrar 1/10 bitti (test n=969)
+  tekrar 2/10 bitti (test n=970)
+  tekrar 3/10 bitti (test n=970)
+  tekrar 4/10 bitti (test n=970)
+  tekrar 5/10 bitti (test n=969)
+  tekrar 6/10 bitti (test n=969)
+  tekrar 7/10 bitti (test n=970)
+  tekrar 8/10 bitti (test n=970)
+  tekrar 9/10 bitti (test n=970)
+  tekrar 10/10 bitti (test n=969)
+
+=== OGRENME EGRISI ===
+
+PRAUC:
+strateji  finetune  local  pooled  recal  source
+n                                               
+0              NaN    NaN     NaN    NaN   0.513
+25           0.479  0.244   0.526  0.492     NaN
+50           0.467  0.229   0.540  0.513     NaN
+100          0.488  0.232   0.548  0.513     NaN
+200          0.478  0.307   0.546  0.513     NaN
+500          0.471  0.395   0.552  0.513     NaN
+
+AUROC:
+strateji  finetune  local  pooled  recal  source
+n                                               
+0              NaN    NaN     NaN    NaN   0.725
+25           0.708  0.566   0.726  0.721     NaN
+50           0.699  0.543   0.736  0.725     NaN
+100          0.706  0.556   0.739  0.725     NaN
+200          0.710  0.610   0.736  0.725     NaN
+500          0.716  0.649   0.739  0.725     NaN
+
+EGIM:
+strateji  finetune  local  pooled  recal  source
+n                                               
+0              NaN    NaN     NaN    NaN     0.6
+25            0.43   0.14    0.61   0.82     NaN
+50            0.42   0.09    0.64   0.96     NaN
+100           0.45   0.12    0.67  10.20     NaN
+200           0.43   0.28    0.66   1.01     NaN
+500           0.45   0.43    0.71   1.09     NaN
+
+kayit: outputs/curve2/Escherichia_coli__Ciprofloxacin__DRIAMS-D.csv

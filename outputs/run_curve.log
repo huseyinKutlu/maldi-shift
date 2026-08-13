@@ -1,0 +1,79 @@
+nohup: ignoring input
+[20:49] BASLADI: Escherichia coli / Ciprofloxacin -> DRIAMS-D
+[20:59] BITTI: ecoli_cip_D
+PRAUC:
+strateji  finetune  local  pooled  recal  source
+n                                               
+0              NaN    NaN     NaN    NaN   0.513
+25           0.479  0.244   0.526  0.492     NaN
+50           0.467  0.229   0.540  0.513     NaN
+100          0.488  0.232   0.548  0.513     NaN
+200          0.478  0.307   0.546  0.513     NaN
+500          0.471  0.395   0.552  0.513     NaN
+
+----------------------------------------
+[20:59] BASLADI: Klebsiella pneumoniae / Ceftriaxone -> DRIAMS-D
+[21:11] BITTI: kpneu_cro_D
+PRAUC:
+strateji  finetune  local  pooled  recal  source
+n                                               
+0              NaN    NaN     NaN    NaN   0.256
+25           0.176  0.092   0.284  0.157     NaN
+50           0.120  0.088   0.247  0.211     NaN
+100          0.081  0.089   0.249  0.224     NaN
+200          0.077  0.110   0.249  0.256     NaN
+500          0.075  0.128   0.251  0.256     NaN
+1000         0.082  0.143   0.254  0.256     NaN
+
+----------------------------------------
+[21:11] BASLADI: Escherichia coli / Ceftriaxone -> DRIAMS-C
+[21:20] BITTI: ecoli_cro_C
+PRAUC:
+strateji  finetune  local  pooled  recal  source
+n                                               
+0              NaN    NaN     NaN    NaN   0.363
+25           0.333  0.236   0.351  0.341     NaN
+50           0.326  0.230   0.344  0.363     NaN
+100          0.359  0.283   0.357  0.363     NaN
+200          0.315  0.318   0.373  0.363     NaN
+400          0.345  0.369   0.386  0.363     NaN
+
+----------------------------------------
+[21:20] BASLADI: Escherichia coli / Ciprofloxacin -> DRIAMS-C
+[21:30] BITTI: ecoli_cip_C
+PRAUC:
+strateji  finetune  local  pooled  recal  source
+n                                               
+0              NaN    NaN     NaN    NaN   0.678
+25           0.641  0.258   0.666  0.623     NaN
+50           0.651  0.291   0.672  0.678     NaN
+100          0.655  0.355   0.677  0.678     NaN
+200          0.662  0.474   0.679  0.678     NaN
+400          0.674  0.560   0.682  0.678     NaN
+
+----------------------------------------
+[21:30] BASLADI: Staphylococcus aureus / Oxacillin -> DRIAMS-C
+[21:37] BITTI: saureus_oxa_C
+PRAUC:
+strateji  finetune  local  pooled  recal  source
+n                                               
+0              NaN    NaN     NaN    NaN   0.158
+25           0.113  0.089   0.127  0.118     NaN
+50           0.138  0.083   0.226  0.138     NaN
+100          0.134  0.097   0.200  0.160     NaN
+200          0.139  0.092   0.218  0.158     NaN
+300          0.135  0.128   0.252  0.158     NaN
+
+----------------------------------------
+[21:37] BASLADI: Escherichia coli / Ceftriaxone -> DRIAMS-B
+[21:42] BITTI: ecoli_cro_B
+PRAUC:
+strateji  finetune  local  pooled  recal  source
+n                                               
+0              NaN    NaN     NaN    NaN   0.634
+25           0.576  0.321   0.661  0.634     NaN
+50           0.596  0.361   0.662  0.634     NaN
+100          0.642  0.419   0.686  0.634     NaN
+
+----------------------------------------
+[21:42] TUM EGRILER TAMAM

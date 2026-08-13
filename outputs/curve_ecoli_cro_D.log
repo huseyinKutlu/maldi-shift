@@ -1,0 +1,47 @@
+nohup: ignoring input
+kaynak DRIAMS-A: n=4,961 direnc=0.219
+hedef DRIAMS-D: n=1,994 direnc=0.099 grup=1,994
+  tekrar 1/10 bitti (test n=997)
+  tekrar 2/10 bitti (test n=997)
+  tekrar 3/10 bitti (test n=997)
+  tekrar 4/10 bitti (test n=997)
+  tekrar 5/10 bitti (test n=997)
+  tekrar 6/10 bitti (test n=997)
+  tekrar 7/10 bitti (test n=997)
+  tekrar 8/10 bitti (test n=997)
+  tekrar 9/10 bitti (test n=997)
+  tekrar 10/10 bitti (test n=997)
+
+=== OGRENME EGRISI ===
+
+PRAUC:
+strateji  finetune  local  pooled  recal  source
+n                                               
+0              NaN    NaN     NaN    NaN   0.457
+25           0.402  0.151   0.480  0.454     NaN
+50           0.411  0.140   0.485  0.414     NaN
+100          0.397  0.163   0.492  0.457     NaN
+200          0.332  0.202   0.506  0.457     NaN
+500          0.341  0.301   0.515  0.457     NaN
+
+AUROC:
+strateji  finetune  local  pooled  recal  source
+n                                               
+0              NaN    NaN     NaN    NaN    0.76
+25           0.723  0.581   0.766  0.762     NaN
+50           0.727  0.558   0.774  0.703     NaN
+100          0.732  0.591   0.774  0.760     NaN
+200          0.731  0.633   0.776  0.760     NaN
+500          0.734  0.681   0.769  0.760     NaN
+
+EGIM:
+strateji  finetune  local  pooled  recal  source
+n                                               
+0              NaN    NaN     NaN    NaN    0.69
+25            0.46   0.17    0.74   1.05     NaN
+50            0.47   0.14    0.74 -19.85     NaN
+100           0.47   0.23    0.74   1.21     NaN
+200           0.33   0.35    0.75   1.13     NaN
+500           0.31   0.50    0.72   1.03     NaN
+
+kayit: outputs/curve/Escherichia_coli__Ceftriaxone__DRIAMS-D.csv
