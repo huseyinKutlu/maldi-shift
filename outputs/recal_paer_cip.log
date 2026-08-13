@@ -1,0 +1,62 @@
+Pseudomonas aeruginosa/Ciprofloxacin: kaynak n=3,153 direnc=0.205
+
+DRIAMS-B: n=142 direnc=0.113
+  ham      : AUROC 0.673 PR-AUC 0.297 Brier 0.106 egim 0.66
+  platt     n_cal=  25: AUROC 0.621 PR-AUC 0.269 Brier 0.109 egim -1.59
+  isotonic  n_cal=  25: AUROC 0.630 PR-AUC 0.188 Brier 0.112 egim 0.11
+  platt     n_cal=  50: AUROC 0.652 PR-AUC 0.309 Brier 0.099 egim 1.11
+  isotonic  n_cal=  50: AUROC 0.663 PR-AUC 0.215 Brier 0.105 egim 0.53
+  platt     n_cal= 100: AUROC 0.684 PR-AUC 0.351 Brier 0.103 egim 1.62
+  isotonic  n_cal= 100: AUROC 0.696 PR-AUC 0.281 Brier 0.109 egim 0.95
+
+DRIAMS-C: n=357 direnc=0.092
+  ham      : AUROC 0.721 PR-AUC 0.253 Brier 0.085 egim 0.58
+  platt     n_cal=  25: AUROC 0.624 PR-AUC 0.213 Brier 0.090 egim -1.06
+  isotonic  n_cal=  25: AUROC 0.657 PR-AUC 0.164 Brier 0.092 egim 0.15
+  platt     n_cal=  50: AUROC 0.659 PR-AUC 0.234 Brier 0.085 egim -5.94
+  isotonic  n_cal=  50: AUROC 0.669 PR-AUC 0.172 Brier 0.089 egim 0.24
+  platt     n_cal= 100: AUROC 0.722 PR-AUC 0.249 Brier 0.080 egim 1.02
+  isotonic  n_cal= 100: AUROC 0.704 PR-AUC 0.184 Brier 0.086 egim 0.37
+  platt     n_cal= 200: AUROC 0.713 PR-AUC 0.270 Brier 0.081 egim 1.04
+  isotonic  n_cal= 200: AUROC 0.705 PR-AUC 0.196 Brier 0.085 egim 0.41
+
+DRIAMS-D: n=310 direnc=0.148
+  ham      : AUROC 0.524 PR-AUC 0.154 Brier 0.142 egim 0.06
+  platt     n_cal=  25: AUROC 0.499 PR-AUC 0.148 Brier 0.139 egim -0.08
+  isotonic  n_cal=  25: AUROC 0.513 PR-AUC 0.153 Brier 0.148 egim 0.06
+  platt     n_cal=  50: AUROC 0.486 PR-AUC 0.145 Brier 0.133 egim -0.10
+  isotonic  n_cal=  50: AUROC 0.517 PR-AUC 0.153 Brier 0.137 egim 0.37
+  platt     n_cal= 100: AUROC 0.487 PR-AUC 0.145 Brier 0.129 egim 0.13
+  isotonic  n_cal= 100: AUROC 0.511 PR-AUC 0.152 Brier 0.133 egim 0.23
+  platt     n_cal= 200: AUROC 0.450 PR-AUC 0.151 Brier 0.129 egim -2.81
+  isotonic  n_cal= 200: AUROC 0.501 PR-AUC 0.152 Brier 0.131 egim 0.36
+
+=== YENIDEN KALIBRASYON ===
+    site   yontem  n_cal  auroc  prauc  brier   egim  kesisim
+DRIAMS-B      ham      0  0.673  0.297  0.106  0.661    0.812
+DRIAMS-B    platt     25  0.621  0.269  0.109 -1.590   -5.874
+DRIAMS-B isotonic     25  0.630  0.188  0.112  0.114   -1.478
+DRIAMS-B    platt     50  0.652  0.309  0.099  1.111    0.141
+DRIAMS-B isotonic     50  0.663  0.215  0.105  0.530   -0.787
+DRIAMS-B    platt    100  0.684  0.351  0.103  1.623    1.110
+DRIAMS-B isotonic    100  0.696  0.281  0.109  0.954   -0.253
+DRIAMS-C      ham      0  0.721  0.253  0.085  0.583    0.089
+DRIAMS-C    platt     25  0.624  0.213  0.090 -1.062   -4.932
+DRIAMS-C isotonic     25  0.657  0.164  0.092  0.148   -1.598
+DRIAMS-C    platt     50  0.659  0.234  0.085 -5.938  -17.252
+DRIAMS-C isotonic     50  0.669  0.172  0.089  0.237   -1.480
+DRIAMS-C    platt    100  0.722  0.249  0.080  1.022   -0.074
+DRIAMS-C isotonic    100  0.704  0.184  0.086  0.371   -1.345
+DRIAMS-C    platt    200  0.713  0.270  0.081  1.036    0.092
+DRIAMS-C isotonic    200  0.705  0.196  0.085  0.413   -1.235
+DRIAMS-D      ham      0  0.524  0.154  0.142  0.063   -1.501
+DRIAMS-D    platt     25  0.499  0.148  0.139 -0.083   -1.776
+DRIAMS-D isotonic     25  0.513  0.153  0.148  0.058   -1.829
+DRIAMS-D    platt     50  0.486  0.145  0.133 -0.097   -1.969
+DRIAMS-D isotonic     50  0.517  0.153  0.137  0.368   -1.148
+DRIAMS-D    platt    100  0.487  0.145  0.129  0.128   -1.567
+DRIAMS-D isotonic    100  0.511  0.152  0.133  0.235   -1.300
+DRIAMS-D    platt    200  0.450  0.151  0.129 -2.809   -6.862
+DRIAMS-D isotonic    200  0.501  0.152  0.131  0.357   -1.158
+
+kayit: outputs/recal/Pseudomonas_aeruginosa__Ciprofloxacin.csv

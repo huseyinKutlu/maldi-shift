@@ -1,0 +1,102 @@
+nohup: ignoring input
+[09:43] BASLADI: Escherichia coli / Ceftriaxone
+[09:43] BITTI: ecoli_cro
+DRIAMS-C isotonic     25  0.633  0.264  0.144  0.129   -1.178
+DRIAMS-C    platt     50  0.602  0.310  0.133 -3.623   -7.704
+DRIAMS-C isotonic     50  0.649  0.285  0.136  0.341   -1.014
+DRIAMS-C    platt    100  0.670  0.355  0.129  0.927   -0.063
+DRIAMS-C isotonic    100  0.655  0.302  0.135  0.209   -1.186
+DRIAMS-C    platt    200  0.670  0.354  0.129  1.035    0.071
+DRIAMS-C isotonic    200  0.655  0.304  0.132  0.350   -1.009
+DRIAMS-C    platt    400  0.669  0.357  0.127  0.999    0.002
+DRIAMS-C isotonic    400  0.655  0.318  0.129  0.473   -0.823
+DRIAMS-D      ham      0  0.762  0.458  0.074  0.690    0.336
+DRIAMS-D    platt     25  0.688  0.402  0.082  0.554   -0.916
+DRIAMS-D isotonic     25  0.708  0.292  0.083  0.273   -1.015
+DRIAMS-D    platt     50  0.761  0.456  0.075  0.917   -0.059
+DRIAMS-D isotonic     50  0.726  0.364  0.080  0.245   -1.260
+DRIAMS-D    platt    100  0.762  0.456  0.072  1.032    0.082
+DRIAMS-D isotonic    100  0.739  0.366  0.075  0.269   -1.535
+DRIAMS-D    platt    200  0.764  0.461  0.072  1.087    0.201
+DRIAMS-D isotonic    200  0.749  0.380  0.074  0.390   -1.297
+DRIAMS-D    platt    400  0.762  0.455  0.072  1.028    0.059
+DRIAMS-D isotonic    400  0.748  0.392  0.072  0.477   -1.139
+
+kayit: outputs/recal/Escherichia_coli__Ceftriaxone.csv
+----------------------------------------
+[09:43] BASLADI: Escherichia coli / Ciprofloxacin
+[09:43] BITTI: ecoli_cip
+DRIAMS-C isotonic     25  0.776  0.569  0.133 0.277   -0.663
+DRIAMS-C    platt     50  0.810  0.682  0.117 0.954   -0.080
+DRIAMS-C isotonic     50  0.790  0.591  0.126 0.260   -0.911
+DRIAMS-C    platt    100  0.812  0.684  0.113 1.069    0.026
+DRIAMS-C isotonic    100  0.799  0.620  0.116 0.341   -0.901
+DRIAMS-C    platt    200  0.810  0.681  0.113 0.995   -0.096
+DRIAMS-C isotonic    200  0.800  0.625  0.114 0.420   -0.870
+DRIAMS-C    platt    400  0.812  0.684  0.110 1.032   -0.023
+DRIAMS-C isotonic    400  0.805  0.634  0.111 0.443   -0.865
+DRIAMS-D      ham      0  0.720  0.501  0.131 0.591   -0.139
+DRIAMS-D    platt     25  0.720  0.502  0.137 1.765    2.371
+DRIAMS-D isotonic     25  0.693  0.397  0.148 0.219   -0.899
+DRIAMS-D    platt     50  0.719  0.501  0.138 2.094    1.690
+DRIAMS-D isotonic     50  0.696  0.406  0.147 0.239   -0.977
+DRIAMS-D    platt    100  0.720  0.502  0.132 0.969    0.004
+DRIAMS-D isotonic    100  0.704  0.425  0.136 0.221   -1.038
+DRIAMS-D    platt    200  0.719  0.499  0.130 0.987   -0.054
+DRIAMS-D isotonic    200  0.710  0.438  0.131 0.310   -1.025
+DRIAMS-D    platt    400  0.719  0.499  0.130 1.002    0.020
+DRIAMS-D isotonic    400  0.712  0.452  0.130 0.467   -0.768
+
+kayit: outputs/recal/Escherichia_coli__Ciprofloxacin.csv
+----------------------------------------
+[09:43] BASLADI: Klebsiella pneumoniae / Ceftriaxone
+[09:43] BITTI: kpneu_cro
+DRIAMS-C      ham      0  0.566  0.215  0.145  0.156   -0.885
+DRIAMS-C    platt     25  0.502  0.178  0.140 -0.762   -2.945
+DRIAMS-C isotonic     25  0.550  0.173  0.146  0.118   -1.466
+DRIAMS-C    platt     50  0.524  0.191  0.131  0.708   -0.302
+DRIAMS-C isotonic     50  0.560  0.180  0.141  0.083   -1.529
+DRIAMS-C    platt    100  0.521  0.194  0.130  0.055   -1.633
+DRIAMS-C isotonic    100  0.546  0.174  0.137  0.138   -1.467
+DRIAMS-C    platt    200  0.545  0.230  0.134  1.362    0.706
+DRIAMS-C isotonic    200  0.564  0.195  0.139  0.264   -1.205
+DRIAMS-D      ham      0  0.638  0.253  0.052  0.465    0.218
+DRIAMS-D    platt     25  0.531  0.174  0.058  0.065   -2.849
+DRIAMS-D isotonic     25  0.591  0.094  0.058  0.136   -2.253
+DRIAMS-D    platt     50  0.598  0.224  0.053  0.339   -1.911
+DRIAMS-D isotonic     50  0.610  0.133  0.058  0.092   -2.117
+DRIAMS-D    platt    100  0.569  0.203  0.052  0.674   -1.129
+DRIAMS-D isotonic    100  0.603  0.160  0.052  0.213   -2.079
+DRIAMS-D    platt    200  0.627  0.243  0.050 -0.421   -3.979
+DRIAMS-D isotonic    200  0.619  0.186  0.051  0.213   -2.137
+DRIAMS-D    platt    400  0.643  0.256  0.050  1.232    0.630
+DRIAMS-D isotonic    400  0.627  0.207  0.050  0.516   -1.300
+
+kayit: outputs/recal/Klebsiella_pneumoniae__Ceftriaxone.csv
+----------------------------------------
+[09:43] BASLADI: Pseudomonas aeruginosa / Ciprofloxacin
+[09:44] BITTI: paer_cip
+DRIAMS-B    platt    100  0.684  0.351  0.103  1.623    1.110
+DRIAMS-B isotonic    100  0.696  0.281  0.109  0.954   -0.253
+DRIAMS-C      ham      0  0.721  0.253  0.085  0.583    0.089
+DRIAMS-C    platt     25  0.624  0.213  0.090 -1.062   -4.932
+DRIAMS-C isotonic     25  0.657  0.164  0.092  0.148   -1.598
+DRIAMS-C    platt     50  0.659  0.234  0.085 -5.938  -17.252
+DRIAMS-C isotonic     50  0.669  0.172  0.089  0.237   -1.480
+DRIAMS-C    platt    100  0.722  0.249  0.080  1.022   -0.074
+DRIAMS-C isotonic    100  0.704  0.184  0.086  0.371   -1.345
+DRIAMS-C    platt    200  0.713  0.270  0.081  1.036    0.092
+DRIAMS-C isotonic    200  0.705  0.196  0.085  0.413   -1.235
+DRIAMS-D      ham      0  0.524  0.154  0.142  0.063   -1.501
+DRIAMS-D    platt     25  0.499  0.148  0.139 -0.083   -1.776
+DRIAMS-D isotonic     25  0.513  0.153  0.148  0.058   -1.829
+DRIAMS-D    platt     50  0.486  0.145  0.133 -0.097   -1.969
+DRIAMS-D isotonic     50  0.517  0.153  0.137  0.368   -1.148
+DRIAMS-D    platt    100  0.487  0.145  0.129  0.128   -1.567
+DRIAMS-D isotonic    100  0.511  0.152  0.133  0.235   -1.300
+DRIAMS-D    platt    200  0.450  0.151  0.129 -2.809   -6.862
+DRIAMS-D isotonic    200  0.501  0.152  0.131  0.357   -1.158
+
+kayit: outputs/recal/Pseudomonas_aeruginosa__Ciprofloxacin.csv
+----------------------------------------
+[09:44] YENIDEN KALIBRASYON TAMAM

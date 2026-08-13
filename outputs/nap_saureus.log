@@ -1,0 +1,30 @@
+nohup: ignoring input
+nuisance alt uzayi kuruluyor...
+  nuisance icin 15 tur kullanilacak
+  nuisance matrisi: (52, 6000)
+  ilk 10 yonun varyans payi: 0.251, 0.130, 0.074, 0.056, 0.048, 0.045, 0.044, 0.038, 0.032, 0.029
+Staphylococcus aureus/Oxacillin: n=3,790 direnc=0.192
+  dis merkez: DRIAMS-B, DRIAMS-C
+  k=  0: {'corank': 0, 'ic_auroc': 0.893, 'ic_prauc': 0.801, 'B_auroc': 0.823, 'B_prauc': 0.513, 'B_egim': 0.79, 'C_auroc': 0.703, 'C_prauc': 0.157, 'C_egim': 0.35}
+  k=  1: {'corank': 1, 'ic_auroc': 0.898, 'ic_prauc': 0.809, 'B_auroc': 0.801, 'B_prauc': 0.468, 'B_egim': 0.7, 'C_auroc': 0.668, 'C_prauc': 0.157, 'C_egim': 0.3}
+  k=  2: {'corank': 2, 'ic_auroc': 0.895, 'ic_prauc': 0.805, 'B_auroc': 0.864, 'B_prauc': 0.43, 'B_egim': 0.78, 'C_auroc': 0.691, 'C_prauc': 0.19, 'C_egim': 0.35}
+  k=  3: {'corank': 3, 'ic_auroc': 0.896, 'ic_prauc': 0.809, 'B_auroc': 0.8, 'B_prauc': 0.343, 'B_egim': 0.65, 'C_auroc': 0.695, 'C_prauc': 0.189, 'C_egim': 0.34}
+  k=  5: {'corank': 5, 'ic_auroc': 0.898, 'ic_prauc': 0.809, 'B_auroc': 0.803, 'B_prauc': 0.318, 'B_egim': 0.63, 'C_auroc': 0.692, 'C_prauc': 0.189, 'C_egim': 0.35}
+  k=  8: {'corank': 8, 'ic_auroc': 0.895, 'ic_prauc': 0.804, 'B_auroc': 0.859, 'B_prauc': 0.477, 'B_egim': 0.85, 'C_auroc': 0.678, 'C_prauc': 0.16, 'C_egim': 0.3}
+  k= 12: {'corank': 12, 'ic_auroc': 0.894, 'ic_prauc': 0.805, 'B_auroc': 0.821, 'B_prauc': 0.428, 'B_egim': 0.72, 'C_auroc': 0.671, 'C_prauc': 0.134, 'C_egim': 0.27}
+  k= 20: {'corank': 20, 'ic_auroc': 0.896, 'ic_prauc': 0.806, 'B_auroc': 0.811, 'B_prauc': 0.314, 'B_egim': 0.5, 'C_auroc': 0.68, 'C_prauc': 0.127, 'C_egim': 0.24}
+  k= 30: {'corank': 30, 'ic_auroc': 0.894, 'ic_prauc': 0.803, 'B_auroc': 0.808, 'B_prauc': 0.322, 'B_egim': 0.52, 'C_auroc': 0.68, 'C_prauc': 0.132, 'C_egim': 0.24}
+
+=== NAP CORANK TARAMASI ===
+ corank  ic_auroc  ic_prauc  B_auroc  B_prauc  B_egim  C_auroc  C_prauc  C_egim
+      0     0.893     0.801    0.823    0.513    0.79    0.703    0.157    0.35
+      1     0.898     0.809    0.801    0.468    0.70    0.668    0.157    0.30
+      2     0.895     0.805    0.864    0.430    0.78    0.691    0.190    0.35
+      3     0.896     0.809    0.800    0.343    0.65    0.695    0.189    0.34
+      5     0.898     0.809    0.803    0.318    0.63    0.692    0.189    0.35
+      8     0.895     0.804    0.859    0.477    0.85    0.678    0.160    0.30
+     12     0.894     0.805    0.821    0.428    0.72    0.671    0.134    0.27
+     20     0.896     0.806    0.811    0.314    0.50    0.680    0.127    0.24
+     30     0.894     0.803    0.808    0.322    0.52    0.680    0.132    0.24
+
+kayit: outputs/nap/Staphylococcus_aureus__Oxacillin.csv

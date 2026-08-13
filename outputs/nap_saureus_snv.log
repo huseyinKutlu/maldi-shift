@@ -1,0 +1,21 @@
+nohup: ignoring input
+nuisance alt uzayi kuruluyor...
+  nuisance icin 15 tur kullanilacak
+  nuisance matrisi: (52, 6000)
+  ilk 10 yonun varyans payi: 0.251, 0.130, 0.074, 0.056, 0.048, 0.045, 0.044, 0.038, 0.032, 0.029
+Staphylococcus aureus/Oxacillin: n=3,790 direnc=0.192
+  dis merkez: DRIAMS-B, DRIAMS-C
+  SNV uygulandi
+  k=  0: {'corank': 0, 'ic_auroc': 0.899, 'ic_prauc': 0.808, 'B_auroc': 0.82, 'B_prauc': 0.404, 'B_egim': 0.7, 'C_auroc': 0.693, 'C_prauc': 0.223, 'C_egim': 0.35}
+  k=  3: {'corank': 3, 'ic_auroc': 0.893, 'ic_prauc': 0.803, 'B_auroc': 0.826, 'B_prauc': 0.338, 'B_egim': 0.68, 'C_auroc': 0.715, 'C_prauc': 0.204, 'C_egim': 0.37}
+  k=  8: {'corank': 8, 'ic_auroc': 0.895, 'ic_prauc': 0.812, 'B_auroc': 0.832, 'B_prauc': 0.405, 'B_egim': 0.71, 'C_auroc': 0.68, 'C_prauc': 0.145, 'C_egim': 0.27}
+  k= 20: {'corank': 20, 'ic_auroc': 0.895, 'ic_prauc': 0.805, 'B_auroc': 0.82, 'B_prauc': 0.368, 'B_egim': 0.56, 'C_auroc': 0.681, 'C_prauc': 0.153, 'C_egim': 0.26}
+
+=== NAP CORANK TARAMASI ===
+ corank  ic_auroc  ic_prauc  B_auroc  B_prauc  B_egim  C_auroc  C_prauc  C_egim
+      0     0.899     0.808    0.820    0.404    0.70    0.693    0.223    0.35
+      3     0.893     0.803    0.826    0.338    0.68    0.715    0.204    0.37
+      8     0.895     0.812    0.832    0.405    0.71    0.680    0.145    0.27
+     20     0.895     0.805    0.820    0.368    0.56    0.681    0.153    0.26
+
+kayit: outputs/nap/Staphylococcus_aureus__Oxacillin__snv.csv

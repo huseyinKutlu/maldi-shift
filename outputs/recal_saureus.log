@@ -1,0 +1,47 @@
+nohup: ignoring input
+Staphylococcus aureus/Oxacillin: kaynak n=3,790 direnc=0.192
+
+DRIAMS-B: n=346 direnc=0.061
+  ham      : AUROC 0.823 PR-AUC 0.513 Brier 0.041 egim 0.79
+  platt     n_cal=  25: AUROC 0.789 PR-AUC 0.484 Brier 0.051 egim 0.42
+  isotonic  n_cal=  25: AUROC 0.783 PR-AUC 0.339 Brier 0.054 egim 0.31
+  platt     n_cal=  50: AUROC 0.815 PR-AUC 0.514 Brier 0.050 egim 1.19
+  isotonic  n_cal=  50: AUROC 0.738 PR-AUC 0.318 Brier 0.050 egim 0.31
+  platt     n_cal= 100: AUROC 0.825 PR-AUC 0.534 Brier 0.044 egim 1.13
+  isotonic  n_cal= 100: AUROC 0.808 PR-AUC 0.394 Brier 0.049 egim 0.37
+  platt     n_cal= 200: AUROC 0.845 PR-AUC 0.552 Brier 0.041 egim 1.40
+  isotonic  n_cal= 200: AUROC 0.836 PR-AUC 0.466 Brier 0.042 egim 0.97
+
+DRIAMS-C: n=738 direnc=0.056
+  ham      : AUROC 0.703 PR-AUC 0.157 Brier 0.057 egim 0.35
+  platt     n_cal=  25: AUROC 0.631 PR-AUC 0.134 Brier 0.062 egim 0.40
+  isotonic  n_cal=  25: AUROC 0.650 PR-AUC 0.093 Brier 0.065 egim 0.22
+  platt     n_cal=  50: AUROC 0.631 PR-AUC 0.137 Brier 0.055 egim -2.61
+  isotonic  n_cal=  50: AUROC 0.628 PR-AUC 0.089 Brier 0.055 egim 0.13
+  platt     n_cal= 100: AUROC 0.654 PR-AUC 0.139 Brier 0.053 egim 0.84
+  isotonic  n_cal= 100: AUROC 0.664 PR-AUC 0.100 Brier 0.058 egim 0.18
+  platt     n_cal= 200: AUROC 0.682 PR-AUC 0.163 Brier 0.052 egim 1.23
+  isotonic  n_cal= 200: AUROC 0.689 PR-AUC 0.112 Brier 0.054 egim 0.61
+
+=== YENIDEN KALIBRASYON ===
+    site   yontem  n_cal  auroc  prauc  brier   egim  kesisim
+DRIAMS-B      ham      0  0.823  0.513  0.041  0.788   -0.574
+DRIAMS-B    platt     25  0.789  0.484  0.051  0.424   -2.122
+DRIAMS-B isotonic     25  0.783  0.339  0.054  0.309   -1.404
+DRIAMS-B    platt     50  0.815  0.514  0.050  1.193    2.119
+DRIAMS-B isotonic     50  0.738  0.318  0.050  0.313   -0.111
+DRIAMS-B    platt    100  0.825  0.534  0.044  1.130    0.303
+DRIAMS-B isotonic    100  0.808  0.394  0.049  0.372   -1.336
+DRIAMS-B    platt    200  0.845  0.552  0.041  1.405    0.428
+DRIAMS-B isotonic    200  0.836  0.466  0.042  0.966   -0.623
+DRIAMS-C      ham      0  0.703  0.157  0.057  0.349   -1.508
+DRIAMS-C    platt     25  0.631  0.134  0.062  0.401   -1.816
+DRIAMS-C isotonic     25  0.650  0.093  0.065  0.215   -2.045
+DRIAMS-C    platt     50  0.631  0.137  0.055 -2.612   -9.595
+DRIAMS-C isotonic     50  0.628  0.089  0.055  0.130   -2.004
+DRIAMS-C    platt    100  0.654  0.139  0.053  0.838   -0.842
+DRIAMS-C isotonic    100  0.664  0.100  0.058  0.178   -2.082
+DRIAMS-C    platt    200  0.682  0.163  0.052  1.230    0.648
+DRIAMS-C isotonic    200  0.689  0.112  0.054  0.613   -0.921
+
+kayit: outputs/recal/Staphylococcus_aureus__Oxacillin.csv

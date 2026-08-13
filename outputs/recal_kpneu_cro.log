@@ -1,0 +1,66 @@
+Klebsiella pneumoniae/Ceftriaxone: kaynak n=2,860 direnc=0.157
+
+DRIAMS-B: n=152 direnc=0.118
+  ham      : AUROC 0.557 PR-AUC 0.209 Brier 0.110 egim 0.16
+  platt     n_cal=  25: AUROC 0.508 PR-AUC 0.171 Brier 0.113 egim 0.25
+  isotonic  n_cal=  25: AUROC 0.523 PR-AUC 0.131 Brier 0.123 egim 0.21
+  platt     n_cal=  50: AUROC 0.509 PR-AUC 0.187 Brier 0.108 egim -0.19
+  isotonic  n_cal=  50: AUROC 0.530 PR-AUC 0.131 Brier 0.114 egim 0.22
+  platt     n_cal= 100: AUROC 0.528 PR-AUC 0.211 Brier 0.104 egim 2.71
+  isotonic  n_cal= 100: AUROC 0.544 PR-AUC 0.154 Brier 0.107 egim 1.02
+
+DRIAMS-C: n=366 direnc=0.150
+  ham      : AUROC 0.566 PR-AUC 0.215 Brier 0.145 egim 0.16
+  platt     n_cal=  25: AUROC 0.502 PR-AUC 0.178 Brier 0.140 egim -0.76
+  isotonic  n_cal=  25: AUROC 0.550 PR-AUC 0.173 Brier 0.146 egim 0.12
+  platt     n_cal=  50: AUROC 0.524 PR-AUC 0.191 Brier 0.131 egim 0.71
+  isotonic  n_cal=  50: AUROC 0.560 PR-AUC 0.180 Brier 0.141 egim 0.08
+  platt     n_cal= 100: AUROC 0.521 PR-AUC 0.194 Brier 0.130 egim 0.06
+  isotonic  n_cal= 100: AUROC 0.546 PR-AUC 0.174 Brier 0.137 egim 0.14
+  platt     n_cal= 200: AUROC 0.545 PR-AUC 0.230 Brier 0.134 egim 1.36
+  isotonic  n_cal= 200: AUROC 0.564 PR-AUC 0.195 Brier 0.139 egim 0.26
+
+DRIAMS-D: n=2,151 direnc=0.057
+  ham      : AUROC 0.638 PR-AUC 0.253 Brier 0.052 egim 0.47
+  platt     n_cal=  25: AUROC 0.531 PR-AUC 0.174 Brier 0.058 egim 0.06
+  isotonic  n_cal=  25: AUROC 0.591 PR-AUC 0.094 Brier 0.058 egim 0.14
+  platt     n_cal=  50: AUROC 0.598 PR-AUC 0.224 Brier 0.053 egim 0.34
+  isotonic  n_cal=  50: AUROC 0.610 PR-AUC 0.133 Brier 0.058 egim 0.09
+  platt     n_cal= 100: AUROC 0.569 PR-AUC 0.203 Brier 0.052 egim 0.67
+  isotonic  n_cal= 100: AUROC 0.603 PR-AUC 0.160 Brier 0.052 egim 0.21
+  platt     n_cal= 200: AUROC 0.627 PR-AUC 0.243 Brier 0.050 egim -0.42
+  isotonic  n_cal= 200: AUROC 0.619 PR-AUC 0.186 Brier 0.051 egim 0.21
+  platt     n_cal= 400: AUROC 0.643 PR-AUC 0.256 Brier 0.050 egim 1.23
+  isotonic  n_cal= 400: AUROC 0.627 PR-AUC 0.207 Brier 0.050 egim 0.52
+
+=== YENIDEN KALIBRASYON ===
+    site   yontem  n_cal  auroc  prauc  brier   egim  kesisim
+DRIAMS-B      ham      0  0.557  0.209  0.110  0.163   -1.471
+DRIAMS-B    platt     25  0.508  0.171  0.113  0.251   -1.397
+DRIAMS-B isotonic     25  0.523  0.131  0.123  0.214   -1.603
+DRIAMS-B    platt     50  0.509  0.187  0.108 -0.189   -3.036
+DRIAMS-B isotonic     50  0.530  0.131  0.114  0.222   -1.709
+DRIAMS-B    platt    100  0.528  0.211  0.104  2.713    3.294
+DRIAMS-B isotonic    100  0.544  0.154  0.107  1.021   -0.090
+DRIAMS-C      ham      0  0.566  0.215  0.145  0.156   -0.885
+DRIAMS-C    platt     25  0.502  0.178  0.140 -0.762   -2.945
+DRIAMS-C isotonic     25  0.550  0.173  0.146  0.118   -1.466
+DRIAMS-C    platt     50  0.524  0.191  0.131  0.708   -0.302
+DRIAMS-C isotonic     50  0.560  0.180  0.141  0.083   -1.529
+DRIAMS-C    platt    100  0.521  0.194  0.130  0.055   -1.633
+DRIAMS-C isotonic    100  0.546  0.174  0.137  0.138   -1.467
+DRIAMS-C    platt    200  0.545  0.230  0.134  1.362    0.706
+DRIAMS-C isotonic    200  0.564  0.195  0.139  0.264   -1.205
+DRIAMS-D      ham      0  0.638  0.253  0.052  0.465    0.218
+DRIAMS-D    platt     25  0.531  0.174  0.058  0.065   -2.849
+DRIAMS-D isotonic     25  0.591  0.094  0.058  0.136   -2.253
+DRIAMS-D    platt     50  0.598  0.224  0.053  0.339   -1.911
+DRIAMS-D isotonic     50  0.610  0.133  0.058  0.092   -2.117
+DRIAMS-D    platt    100  0.569  0.203  0.052  0.674   -1.129
+DRIAMS-D isotonic    100  0.603  0.160  0.052  0.213   -2.079
+DRIAMS-D    platt    200  0.627  0.243  0.050 -0.421   -3.979
+DRIAMS-D isotonic    200  0.619  0.186  0.051  0.213   -2.137
+DRIAMS-D    platt    400  0.643  0.256  0.050  1.232    0.630
+DRIAMS-D isotonic    400  0.627  0.207  0.050  0.516   -1.300
+
+kayit: outputs/recal/Klebsiella_pneumoniae__Ceftriaxone.csv
