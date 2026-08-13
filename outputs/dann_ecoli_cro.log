@@ -1,0 +1,21 @@
+nohup: ignoring input
+cihaz: cuda
+Escherichia coli/Ceftriaxone: n=4,961 direnc=0.219
+  dis merkez: DRIAMS-B, DRIAMS-C, DRIAMS-D
+dahili CV (kaynak-only) ...
+  dahili: AUROC 0.756 PR-AUC 0.594
+  source  : {'method': 'source', 'ic_auroc': 0.756, 'ic_prauc': 0.594, 'B_auroc': 0.655, 'B_prauc': 0.341, 'C_auroc': 0.556, 'C_prauc': 0.194, 'D_auroc': 0.672, 'D_prauc': 0.211}
+  bnadapt : {'method': 'bnadapt', 'ic_auroc': 0.756, 'ic_prauc': 0.594, 'B_auroc': 0.635, 'B_prauc': 0.368, 'C_auroc': 0.533, 'C_prauc': 0.18, 'D_auroc': 0.625, 'D_prauc': 0.165}
+  coral   : {'method': 'coral', 'ic_auroc': 0.756, 'ic_prauc': 0.594, 'B_auroc': 0.517, 'B_prauc': 0.214, 'C_auroc': 0.528, 'C_prauc': 0.178, 'D_auroc': 0.63, 'D_prauc': 0.175}
+  mmd     : {'method': 'mmd', 'ic_auroc': 0.756, 'ic_prauc': 0.594, 'B_auroc': 0.519, 'B_prauc': 0.206, 'C_auroc': 0.513, 'C_prauc': 0.186, 'D_auroc': 0.645, 'D_prauc': 0.182}
+  dann    : {'method': 'dann', 'ic_auroc': 0.756, 'ic_prauc': 0.594, 'B_auroc': 0.553, 'B_prauc': 0.242, 'C_auroc': 0.502, 'C_prauc': 0.165, 'D_auroc': 0.646, 'D_prauc': 0.185}
+
+=== DOGRUSAL OLMAYAN ALAN UYARLAMA ===
+ method  ic_auroc  ic_prauc  B_auroc  B_prauc  C_auroc  C_prauc  D_auroc  D_prauc
+ source     0.756     0.594    0.655    0.341    0.556    0.194    0.672    0.211
+bnadapt     0.756     0.594    0.635    0.368    0.533    0.180    0.625    0.165
+  coral     0.756     0.594    0.517    0.214    0.528    0.178    0.630    0.175
+    mmd     0.756     0.594    0.519    0.206    0.513    0.186    0.645    0.182
+   dann     0.756     0.594    0.553    0.242    0.502    0.165    0.646    0.185
+
+kayit: outputs/dann/Escherichia_coli__Ceftriaxone.csv
