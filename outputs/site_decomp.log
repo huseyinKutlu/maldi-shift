@@ -1,0 +1,54 @@
+nohup: ignoring input
+
+[1] tur-kosullu merkez tahmini
+  1_tur            Escherichia coli                   AUROC 0.996 (4 sinif)
+  1_tur            Staphylococcus aureus              AUROC 0.999 (4 sinif)
+  1_tur            Klebsiella pneumoniae              AUROC 0.997 (4 sinif)
+  1_tur            Pseudomonas aeruginosa             AUROC 0.996 (4 sinif)
+
+[2] tur + yil(2018) kosullu merkez tahmini
+  2_tur_yil        Escherichia coli | 2018            AUROC 0.997 (4 sinif)
+  2_tur_yil        Staphylococcus aureus | 2018       AUROC 0.998 (4 sinif)
+  2_tur_yil        Klebsiella pneumoniae | 2018       AUROC 0.997 (4 sinif)
+  2_tur_yil        Pseudomonas aeruginosa | 2018      AUROC 0.997 (4 sinif)
+
+[3] tur + direnc kosullu merkez tahmini
+  3_tur_direnc     Escherichia coli/Ceftriaxone | duyarli AUROC 0.997 (4 sinif)
+  3_tur_direnc     Escherichia coli/Ceftriaxone | direncli AUROC 0.993 (3 sinif)
+  3_tur_direnc     Escherichia coli/Ciprofloxacin | duyarli AUROC 0.997 (4 sinif)
+  3_tur_direnc     Escherichia coli/Ciprofloxacin | direncli AUROC 0.996 (3 sinif)
+  3_tur_direnc     Staphylococcus aureus/Oxacillin | duyarli AUROC 0.998 (3 sinif)
+
+[4] DRIAMS-A ici, tur-kosullu workstation tahmini
+  4_workstation    Escherichia coli                   AUROC 0.855 (8 sinif)
+  4_workstation    Staphylococcus aureus              AUROC 0.805 (7 sinif)
+  4_workstation    Klebsiella pneumoniae              AUROC 0.833 (8 sinif)
+  4_workstation    Pseudomonas aeruginosa             AUROC 0.846 (7 sinif)
+
+[5] DRIAMS-A ici, tur+workstation kosullu yil tahmini
+  5_yil            Escherichia coli | DeepTissue      AUROC 0.922 (3 sinif)
+  5_yil            Escherichia coli | Genital         AUROC 0.921 (3 sinif)
+  5_yil            Escherichia coli | Respiratory     AUROC 0.875 (3 sinif)
+  5_yil            Escherichia coli | Stool           AUROC 0.909 (3 sinif)
+  5_yil            Escherichia coli | Blood           AUROC 0.932 (3 sinif)
+  5_yil            Escherichia coli | HospitalHygiene AUROC 0.939 (3 sinif)
+  5_yil            Escherichia coli | Urine           AUROC 0.931 (3 sinif)
+  5_yil            Escherichia coli | Varia           AUROC 0.867 (3 sinif)
+  5_yil            Staphylococcus aureus | Blood      AUROC 0.949 (3 sinif)
+  5_yil            Staphylococcus aureus | Respiratory AUROC 0.944 (3 sinif)
+  5_yil            Staphylococcus aureus | DeepTissue AUROC 0.953 (3 sinif)
+  5_yil            Staphylococcus aureus | HospitalHygiene AUROC 0.958 (3 sinif)
+  5_yil            Staphylococcus aureus | Varia      AUROC 0.942 (3 sinif)
+  5_yil            Staphylococcus aureus | Urine      AUROC 0.913 (3 sinif)
+  5_yil            Staphylococcus aureus | Genital    AUROC 0.935 (2 sinif)
+
+=== OZET (katman ortalamasi) ===
+                mean    min    max  size
+katman                                  
+1_tur          0.997  0.996  0.999     4
+2_tur_yil      0.997  0.997  0.998     4
+3_tur_direnc   0.996  0.993  0.998     5
+4_workstation  0.835  0.805  0.855     4
+5_yil          0.926  0.867  0.958    15
+
+kayit: outputs/site_decomposition.csv
