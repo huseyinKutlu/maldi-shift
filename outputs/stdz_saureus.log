@@ -1,0 +1,22 @@
+nohup: ignoring input
+sozde-standart matrisleri...
+  DRIAMS-A: 6 tur
+  DRIAMS-B: 6 tur
+  DRIAMS-C: 5 tur
+  DRIAMS-D: 6 tur
+Staphylococcus aureus/Oxacillin: n=3,790 direnc=0.192
+  dis merkez: DRIAMS-B, DRIAMS-C
+  dahili: AUROC 0.893 PR-AUC 0.801
+  none  : {'yontem': 'none', 'ic_auroc': 0.893, 'ic_prauc': 0.801, 'B_auroc': 0.823, 'B_prauc': 0.513, 'B_egim': 0.79, 'C_auroc': 0.703, 'C_prauc': 0.157, 'C_egim': 0.35, 'merkez_auroc': 0.998}
+  proto : {'yontem': 'proto', 'ic_auroc': 0.893, 'ic_prauc': 0.801, 'B_auroc': 0.781, 'B_prauc': 0.335, 'B_egim': 0.85, 'C_auroc': 0.712, 'C_prauc': 0.158, 'C_egim': 0.41, 'merkez_auroc': 1.0}
+  ds    : {'yontem': 'ds', 'ic_auroc': 0.893, 'ic_prauc': 0.801, 'B_auroc': 0.525, 'B_prauc': 0.066, 'B_egim': 0.64, 'C_auroc': 0.499, 'C_prauc': 0.056, 'C_egim': 0.66, 'merkez_auroc': 1.0}
+  pds   : {'yontem': 'pds', 'ic_auroc': 0.893, 'ic_prauc': 0.801, 'B_auroc': 0.533, 'B_prauc': 0.065, 'B_egim': 0.64, 'C_auroc': 0.5, 'C_prauc': 0.056, 'C_egim': 0.67, 'merkez_auroc': 1.0}
+
+=== CIHAZ STANDARDIZASYONU ===
+yontem  ic_auroc  ic_prauc  B_auroc  B_prauc  B_egim  C_auroc  C_prauc  C_egim  merkez_auroc
+  none     0.893     0.801    0.823    0.513    0.79    0.703    0.157    0.35         0.998
+ proto     0.893     0.801    0.781    0.335    0.85    0.712    0.158    0.41         1.000
+    ds     0.893     0.801    0.525    0.066    0.64    0.499    0.056    0.66         1.000
+   pds     0.893     0.801    0.533    0.065    0.64    0.500    0.056    0.67         1.000
+
+kayit: outputs/stdz/Staphylococcus_aureus__Oxacillin.csv

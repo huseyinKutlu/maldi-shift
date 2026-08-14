@@ -1,0 +1,17 @@
+nohup: ignoring input
+merkez seti: 1,713 spektrum
+Staphylococcus aureus/Oxacillin: n=3,790 direnc=0.192
+  dis merkez: DRIAMS-B, DRIAMS-C
+  k=0: {'k': 0, 'n_egitim': 3790, 'ic_auroc': 0.893, 'ic_prauc': 0.801, 'B_auroc': 0.823, 'B_prauc': 0.513, 'B_egim': 0.79, 'C_auroc': 0.703, 'C_prauc': 0.157, 'C_egim': 0.35, 'merkez_auroc': 0.996}
+  k=2: {'k': 2, 'n_egitim': 11370, 'ic_auroc': 0.893, 'ic_prauc': 0.802, 'B_auroc': 0.836, 'B_prauc': 0.464, 'B_egim': 0.94, 'C_auroc': 0.677, 'C_prauc': 0.179, 'C_egim': 0.44, 'merkez_auroc': 0.994}
+  k=5: {'k': 5, 'n_egitim': 22740, 'ic_auroc': 0.902, 'ic_prauc': 0.813, 'B_auroc': 0.864, 'B_prauc': 0.404, 'B_egim': 1.17, 'C_auroc': 0.691, 'C_prauc': 0.155, 'C_egim': 0.5, 'merkez_auroc': 0.998}
+  k=10: {'k': 10, 'n_egitim': 41690, 'ic_auroc': 0.897, 'ic_prauc': 0.807, 'B_auroc': 0.863, 'B_prauc': 0.433, 'B_egim': 1.06, 'C_auroc': 0.666, 'C_prauc': 0.151, 'C_egim': 0.47, 'merkez_auroc': 0.999}
+
+=== FIZIK-BILGILI ARTIRMA ===
+ k  n_egitim  ic_auroc  ic_prauc  B_auroc  B_prauc  B_egim  C_auroc  C_prauc  C_egim  merkez_auroc
+ 0      3790     0.893     0.801    0.823    0.513    0.79    0.703    0.157    0.35         0.996
+ 2     11370     0.893     0.802    0.836    0.464    0.94    0.677    0.179    0.44         0.994
+ 5     22740     0.902     0.813    0.864    0.404    1.17    0.691    0.155    0.50         0.998
+10     41690     0.897     0.807    0.863    0.433    1.06    0.666    0.151    0.47         0.999
+
+kayit: outputs/aug/Staphylococcus_aureus__Oxacillin.csv
