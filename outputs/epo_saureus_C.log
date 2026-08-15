@@ -1,0 +1,98 @@
+nohup: ignoring input
+D icin 24 tur (dislanan: Staphylococcus aureus, Klebsiella pneumoniae)
+Staphylococcus aureus/Oxacillin: kaynak n=3,790 | hedef DRIAMS-C n=738
+  teshis[gorulen] Escherichia coli: 1,413 spektrum
+  teshis[gorulmeyen] Klebsiella pneumoniae: 1,318 spektrum
+  teshis[gorev] Staphylococcus aureus: 1,553 spektrum
+
+--- Protokol A_transductive (D merkezleri: 4) ---
+  D: (2800, 6000) | ilk 5 varyans payi: 0.234, 0.137, 0.075, 0.058, 0.038 | kumulatif@50: 0.960
+  k=  0 rho=0.00: dis_PR=0.157 ic_PR=0.801 site_gorulmeyen=0.994
+  k=  1 rho=0.50: dis_PR=0.178 ic_PR=0.809 site_gorulmeyen=0.993
+  k=  1 rho=1.00: dis_PR=0.180 ic_PR=0.809 site_gorulmeyen=0.992
+  k=  2 rho=0.50: dis_PR=0.172 ic_PR=0.808 site_gorulmeyen=0.993
+  k=  2 rho=1.00: dis_PR=0.185 ic_PR=0.810 site_gorulmeyen=0.993
+  k=  5 rho=0.50: dis_PR=0.229 ic_PR=0.805 site_gorulmeyen=0.992
+  k=  5 rho=1.00: dis_PR=0.185 ic_PR=0.806 site_gorulmeyen=0.992
+  k= 10 rho=0.50: dis_PR=0.196 ic_PR=0.805 site_gorulmeyen=0.992
+  k= 10 rho=1.00: dis_PR=0.189 ic_PR=0.805 site_gorulmeyen=0.99
+  k= 20 rho=0.50: dis_PR=0.240 ic_PR=0.806 site_gorulmeyen=0.992
+  k= 20 rho=1.00: dis_PR=0.224 ic_PR=0.808 site_gorulmeyen=0.99
+  k= 50 rho=0.50: dis_PR=0.173 ic_PR=0.806 site_gorulmeyen=0.993
+  k= 50 rho=1.00: dis_PR=0.159 ic_PR=0.801 site_gorulmeyen=0.988
+
+--- Protokol B_unseen_site (D merkezleri: 3) ---
+  D: (2080, 6000) | ilk 5 varyans payi: 0.250, 0.157, 0.086, 0.064, 0.041 | kumulatif@50: 0.973
+  k=  0 rho=0.00: dis_PR=0.157 ic_PR=0.801 site_gorulmeyen=0.994
+  k=  1 rho=0.50: dis_PR=0.197 ic_PR=0.805 site_gorulmeyen=0.993
+  k=  1 rho=1.00: dis_PR=0.197 ic_PR=0.811 site_gorulmeyen=0.993
+  k=  2 rho=0.50: dis_PR=0.207 ic_PR=0.803 site_gorulmeyen=0.993
+  k=  2 rho=1.00: dis_PR=0.139 ic_PR=0.806 site_gorulmeyen=0.993
+  k=  5 rho=0.50: dis_PR=0.185 ic_PR=0.803 site_gorulmeyen=0.993
+  k=  5 rho=1.00: dis_PR=0.203 ic_PR=0.809 site_gorulmeyen=0.991
+  k= 10 rho=0.50: dis_PR=0.163 ic_PR=0.807 site_gorulmeyen=0.992
+  k= 10 rho=1.00: dis_PR=0.177 ic_PR=0.806 site_gorulmeyen=0.991
+  k= 20 rho=0.50: dis_PR=0.161 ic_PR=0.811 site_gorulmeyen=0.992
+  k= 20 rho=1.00: dis_PR=0.195 ic_PR=0.804 site_gorulmeyen=0.99
+  k= 50 rho=0.50: dis_PR=0.171 ic_PR=0.803 site_gorulmeyen=0.993
+  k= 50 rho=1.00: dis_PR=0.187 ic_PR=0.809 site_gorulmeyen=0.988
+
+=== BOOTSTRAP SPECIES-CONDITIONED EPO ===
+      protokol  k  rho  ic_auroc  ic_prauc  dis_auroc  dis_prauc  dis_egim  site_gorulen  site_gorulmeyen  site_gorev
+A_transductive  0  0.0     0.893     0.801      0.703      0.157      0.35         0.993            0.994       0.997
+A_transductive  1  0.5     0.896     0.809      0.681      0.178      0.34         0.993            0.993       0.996
+A_transductive  1  1.0     0.899     0.809      0.685      0.180      0.34         0.991            0.992       0.996
+A_transductive  2  0.5     0.896     0.808      0.652      0.172      0.29         0.992            0.993       0.996
+A_transductive  2  1.0     0.897     0.810      0.679      0.185      0.34         0.992            0.993       0.996
+A_transductive  5  0.5     0.893     0.805      0.689      0.229      0.35         0.991            0.992       0.996
+A_transductive  5  1.0     0.893     0.806      0.684      0.185      0.33         0.989            0.992       0.995
+A_transductive 10  0.5     0.893     0.805      0.700      0.196      0.37         0.991            0.992       0.996
+A_transductive 10  1.0     0.892     0.805      0.656      0.189      0.29         0.987            0.990       0.995
+A_transductive 20  0.5     0.893     0.806      0.704      0.240      0.41         0.990            0.992       0.995
+A_transductive 20  1.0     0.896     0.808      0.725      0.224      0.41         0.986            0.990       0.994
+A_transductive 50  0.5     0.894     0.806      0.693      0.173      0.34         0.990            0.993       0.995
+A_transductive 50  1.0     0.891     0.801      0.688      0.159      0.34         0.970            0.988       0.993
+ B_unseen_site  0  0.0     0.893     0.801      0.703      0.157      0.35         0.993            0.994       0.997
+ B_unseen_site  1  0.5     0.895     0.805      0.692      0.197      0.37         0.992            0.993       0.996
+ B_unseen_site  1  1.0     0.902     0.811      0.678      0.197      0.33         0.991            0.993       0.996
+ B_unseen_site  2  0.5     0.893     0.803      0.684      0.207      0.35         0.992            0.993       0.996
+ B_unseen_site  2  1.0     0.895     0.806      0.685      0.139      0.35         0.991            0.993       0.996
+ B_unseen_site  5  0.5     0.890     0.803      0.667      0.185      0.33         0.991            0.993       0.996
+ B_unseen_site  5  1.0     0.898     0.809      0.685      0.203      0.36         0.989            0.991       0.995
+ B_unseen_site 10  0.5     0.896     0.807      0.669      0.163      0.32         0.992            0.992       0.996
+ B_unseen_site 10  1.0     0.897     0.806      0.695      0.177      0.32         0.989            0.991       0.995
+ B_unseen_site 20  0.5     0.898     0.811      0.664      0.161      0.31         0.993            0.992       0.996
+ B_unseen_site 20  1.0     0.894     0.804      0.698      0.195      0.34         0.989            0.990       0.995
+ B_unseen_site 50  0.5     0.895     0.803      0.681      0.171      0.29         0.992            0.993       0.995
+ B_unseen_site 50  1.0     0.901     0.809      0.692      0.187      0.35         0.982            0.988       0.994
+
+=== PARETO ===
+A_transductive: taban site=0.994 dis_PR=0.157 | Pareto'da 12 ayar
+ k  rho  site_gorulmeyen  dis_prauc  ic_prauc
+ 1  0.5            0.993      0.178     0.809
+ 1  1.0            0.992      0.180     0.809
+ 2  0.5            0.993      0.172     0.808
+ 2  1.0            0.993      0.185     0.810
+ 5  0.5            0.992      0.229     0.805
+ 5  1.0            0.992      0.185     0.806
+10  0.5            0.992      0.196     0.805
+10  1.0            0.990      0.189     0.805
+20  0.5            0.992      0.240     0.806
+20  1.0            0.990      0.224     0.808
+50  0.5            0.993      0.173     0.806
+50  1.0            0.988      0.159     0.801
+B_unseen_site: taban site=0.994 dis_PR=0.157 | Pareto'da 11 ayar
+ k  rho  site_gorulmeyen  dis_prauc  ic_prauc
+ 1  0.5            0.993      0.197     0.805
+ 1  1.0            0.993      0.197     0.811
+ 2  0.5            0.993      0.207     0.803
+ 5  0.5            0.993      0.185     0.803
+ 5  1.0            0.991      0.203     0.809
+10  0.5            0.992      0.163     0.807
+10  1.0            0.991      0.177     0.806
+20  0.5            0.992      0.161     0.811
+20  1.0            0.990      0.195     0.804
+50  0.5            0.993      0.171     0.803
+50  1.0            0.988      0.187     0.809
+
+kayit: outputs/epo/Staphylococcus_aureus__Oxacillin__DRIAMS-C.csv

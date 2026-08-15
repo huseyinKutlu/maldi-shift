@@ -1,0 +1,28 @@
+nohup: ignoring input
+Protokol B | D: 24 tur, 3 merkez
+Staphylococcus aureus/Oxacillin: kaynak n=3,790 | hedef n=738 direnc=0.056
+  tekrar 1/10 (test n=246)
+  tekrar 2/10 (test n=246)
+  tekrar 3/10 (test n=246)
+  tekrar 4/10 (test n=246)
+  tekrar 5/10 (test n=246)
+  tekrar 6/10 (test n=246)
+  tekrar 7/10 (test n=246)
+  tekrar 8/10 (test n=246)
+  tekrar 9/10 (test n=246)
+  tekrar 10/10 (test n=246)
+
+=== ORTALAMALAR (%95 GA) ===
+  k=  0 rho=0.00 | PR-AUC 0.173 [0.142-0.203] | site 0.9903 [0.9899-0.9906]
+  k=  2 rho=0.50 | PR-AUC 0.193 [0.151-0.235] | site 0.9896 [0.9892-0.9900]
+  k= 20 rho=0.50 | PR-AUC 0.204 [0.166-0.242] | site 0.9897 [0.9891-0.9902]
+  k= 20 rho=1.00 | PR-AUC 0.207 [0.165-0.248] | site 0.9874 [0.9868-0.9880]
+  k= 30 rho=0.75 | PR-AUC 0.199 [0.147-0.250] | site 0.9862 [0.9855-0.9868]
+
+=== ESLESTIRILMIS FARK (ayar - taban), %95 GA ===
+  k=  2 rho=0.50 | dPR +0.020 [-0.012,+0.055] | dSite -0.0007 [-0.0011,-0.0002] | anlamli: hayir
+  k= 20 rho=0.50 | dPR +0.031 [+0.005,+0.058] | dSite -0.0006 [-0.0012,-0.0002] | anlamli: EVET
+  k= 20 rho=1.00 | dPR +0.034 [+0.003,+0.068] | dSite -0.0029 [-0.0035,-0.0023] | anlamli: EVET
+  k= 30 rho=0.75 | dPR +0.026 [-0.018,+0.071] | dSite -0.0041 [-0.0049,-0.0035] | anlamli: hayir
+
+kayit: outputs/epo_val/Staphylococcus_aureus__Oxacillin__DRIAMS-C__protB_diff.csv

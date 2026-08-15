@@ -1,0 +1,69 @@
+nohup: ignoring input
+Staphylococcus aureus/Oxacillin: kaynak n=3,790 | hedef n=738 direnc=0.056
+  tekrar 1/10 (adapt=492, test=246)
+  tekrar 2/10 (adapt=492, test=246)
+  tekrar 3/10 (adapt=492, test=246)
+  tekrar 4/10 (adapt=492, test=246)
+  tekrar 5/10 (adapt=492, test=246)
+  tekrar 6/10 (adapt=492, test=246)
+  tekrar 7/10 (adapt=492, test=246)
+  tekrar 8/10 (adapt=492, test=246)
+  tekrar 9/10 (adapt=492, test=246)
+  tekrar 10/10 (adapt=492, test=246)
+
+=== TABAN CIZGILERI ===
+  raw6000    PR-AUC 0.173 [0.142-0.203]
+  svd_none   PR-AUC 0.154 [0.137-0.171]
+
+=== OT: ETIKETSIZ HEDEF SPEKTRUM EGRISI (PR-AUC) ===
+yontem  sinkhorn                            sinkhorn_l1l2                             
+reg         0.05            0.50                     0.05              0.50           
+reg_cl       0.1 1.0    NaN  0.1 1.0    NaN           0.1    1.0 NaN    0.1    1.0 NaN
+n_unlab                                                                               
+100          NaN NaN  0.096  NaN NaN  0.071         0.220  0.187 NaN  0.210  0.192 NaN
+250          NaN NaN  0.087  NaN NaN  0.078         0.221  0.199 NaN  0.212  0.220 NaN
+492          NaN NaN  0.105  NaN NaN  0.088         0.188  0.168 NaN  0.186  0.182 NaN
+
+=== ALAN AYIRT EDILEBILIRLIGI (once -> sonra) ===
+                                   dom_once  dom_sonra
+yontem        reg  reg_cl n_unlab                     
+sinkhorn      0.05 NaN    100         0.984      0.902
+                          250         0.987      0.943
+                          492         0.989      0.961
+              0.50 NaN    100         0.984      1.000
+                          250         0.987      1.000
+                          492         0.989      1.000
+sinkhorn_l1l2 0.05 0.1    100         0.984      0.992
+                          250         0.987      0.997
+                          492         0.989      0.998
+                   1.0    100         0.984      0.992
+                          250         0.987      0.997
+                          492         0.989      0.998
+              0.50 0.1    100         0.984      0.992
+                          250         0.987      0.997
+                          492         0.989      0.998
+                   1.0    100         0.984      0.992
+                          250         0.987      0.997
+                          492         0.989      0.998
+
+=== ESLESTIRILMIS FARK (OT - svd_none, ayni n_unlab) ===
+  sinkhorn       reg=0.05 rc=nan nu= 100 | dPR -0.057 [-0.080,-0.036] | EVET
+  sinkhorn       reg=0.05 rc=nan nu= 250 | dPR -0.087 [-0.129,-0.047] | EVET
+  sinkhorn       reg=0.05 rc=nan nu= 492 | dPR -0.039 [-0.056,-0.020] | EVET
+  sinkhorn       reg=0.5 rc=nan nu= 100 | dPR -0.082 [-0.117,-0.050] | EVET
+  sinkhorn       reg=0.5 rc=nan nu= 250 | dPR -0.096 [-0.139,-0.052] | EVET
+  sinkhorn       reg=0.5 rc=nan nu= 492 | dPR -0.055 [-0.070,-0.040] | EVET
+  sinkhorn_l1l2  reg=0.05 rc=0.1 nu= 100 | dPR +0.066 [+0.021,+0.107] | EVET
+  sinkhorn_l1l2  reg=0.05 rc=0.1 nu= 250 | dPR +0.047 [+0.014,+0.081] | EVET
+  sinkhorn_l1l2  reg=0.05 rc=0.1 nu= 492 | dPR +0.045 [+0.025,+0.066] | EVET
+  sinkhorn_l1l2  reg=0.05 rc=1.0 nu= 100 | dPR +0.034 [-0.006,+0.072] | hayir
+  sinkhorn_l1l2  reg=0.05 rc=1.0 nu= 250 | dPR +0.025 [-0.014,+0.063] | hayir
+  sinkhorn_l1l2  reg=0.05 rc=1.0 nu= 492 | dPR +0.025 [+0.007,+0.043] | EVET
+  sinkhorn_l1l2  reg=0.5 rc=0.1 nu= 100 | dPR +0.057 [+0.007,+0.103] | EVET
+  sinkhorn_l1l2  reg=0.5 rc=0.1 nu= 250 | dPR +0.038 [+0.003,+0.068] | EVET
+  sinkhorn_l1l2  reg=0.5 rc=0.1 nu= 492 | dPR +0.042 [+0.020,+0.064] | EVET
+  sinkhorn_l1l2  reg=0.5 rc=1.0 nu= 100 | dPR +0.039 [-0.006,+0.081] | hayir
+  sinkhorn_l1l2  reg=0.5 rc=1.0 nu= 250 | dPR +0.046 [+0.011,+0.082] | EVET
+  sinkhorn_l1l2  reg=0.5 rc=1.0 nu= 492 | dPR +0.039 [+0.019,+0.059] | EVET
+
+kayit: outputs/ot_v2/Staphylococcus_aureus__Oxacillin__DRIAMS-C_raw.csv

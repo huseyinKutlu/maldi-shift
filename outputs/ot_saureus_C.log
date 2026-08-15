@@ -1,0 +1,28 @@
+nohup: ignoring input
+Staphylococcus aureus/Oxacillin: kaynak n=3,790 | hedef n=738 direnc=0.056
+ortak SVD (150 bilesen) ...
+  Z: (3790, 150), Zt: (738, 150)
+  teshis: 1,052 spektrum
+  tekrar 1/5
+  tekrar 2/5
+  tekrar 3/5
+  tekrar 4/5
+  tekrar 5/5
+
+=== KOSULLU SINKHORN OT ===
+                    auroc         prauc          egim          site       
+                     mean    std   mean    std   mean    std   mean    std
+yontem        reg                                                         
+none          NaN   0.672  0.048  0.141  0.028  0.347  0.091  0.992  0.001
+sinkhorn      1.0   0.461  0.051  0.095  0.043 -0.058  0.150  0.992  0.001
+              10.0  0.473  0.073  0.107  0.054 -0.032  0.191  0.992  0.001
+sinkhorn_l1l2 1.0   0.649  0.051  0.162  0.069  0.476  0.146  0.992  0.001
+              10.0  0.658  0.030  0.176  0.073  0.528  0.100  0.992  0.001
+
+=== ESLESTIRILMIS FARK (yontem - none) ===
+  sinkhorn       reg=1.0 | dPR -0.046 [-0.078,-0.017] | anlamli: EVET
+  sinkhorn       reg=10.0 | dPR -0.034 [-0.072,+0.004] | anlamli: hayir
+  sinkhorn_l1l2  reg=1.0 | dPR +0.020 [-0.009,+0.064] | anlamli: hayir
+  sinkhorn_l1l2  reg=10.0 | dPR +0.034 [-0.003,+0.082] | anlamli: hayir
+
+kayit: outputs/ot/Staphylococcus_aureus__Oxacillin__DRIAMS-C_raw.csv

@@ -1,0 +1,25 @@
+nohup: ignoring input
+nuisance kovaryansi kuruluyor...
+  26 tur kullanilacak
+  D matrisi: (14085, 6000)
+  ozayrisim...
+  ilk 5 ozdeger payi: 0.117, 0.060, 0.031, 0.023, 0.022
+Staphylococcus aureus/Oxacillin: n=3,790 direnc=0.192
+  dis merkez: DRIAMS-B, DRIAMS-C
+  alpha=   inf: {'alpha': 'inf', 'ic_auroc': 0.893, 'ic_prauc': 0.801, 'B_auroc': 0.823, 'B_prauc': 0.513, 'B_egim': 0.79, 'C_auroc': 0.703, 'C_prauc': 0.157, 'C_egim': 0.35, 'merkez_auroc': 0.997}
+  alpha=   100: {'alpha': '100', 'ic_auroc': 0.896, 'ic_prauc': 0.805, 'B_auroc': 0.822, 'B_prauc': 0.478, 'B_egim': 0.72, 'C_auroc': 0.673, 'C_prauc': 0.169, 'C_egim': 0.33, 'merkez_auroc': 0.997}
+  alpha=    10: {'alpha': '10', 'ic_auroc': 0.891, 'ic_prauc': 0.801, 'B_auroc': 0.838, 'B_prauc': 0.486, 'B_egim': 0.72, 'C_auroc': 0.706, 'C_prauc': 0.178, 'C_egim': 0.37, 'merkez_auroc': 0.997}
+  alpha=     1: {'alpha': '1', 'ic_auroc': 0.897, 'ic_prauc': 0.805, 'B_auroc': 0.833, 'B_prauc': 0.456, 'B_egim': 0.71, 'C_auroc': 0.677, 'C_prauc': 0.169, 'C_egim': 0.33, 'merkez_auroc': 0.997}
+  alpha=   0.1: {'alpha': '0.1', 'ic_auroc': 0.896, 'ic_prauc': 0.807, 'B_auroc': 0.823, 'B_prauc': 0.498, 'B_egim': 0.71, 'C_auroc': 0.714, 'C_prauc': 0.17, 'C_egim': 0.38, 'merkez_auroc': 0.997}
+  alpha=  0.01: {'alpha': '0.01', 'ic_auroc': 0.897, 'ic_prauc': 0.804, 'B_auroc': 0.839, 'B_prauc': 0.523, 'B_egim': 0.76, 'C_auroc': 0.697, 'C_prauc': 0.172, 'C_egim': 0.36, 'merkez_auroc': 0.997}
+
+=== GLSW / EPO ===
+alpha  ic_auroc  ic_prauc  B_auroc  B_prauc  B_egim  C_auroc  C_prauc  C_egim  merkez_auroc
+  inf     0.893     0.801    0.823    0.513    0.79    0.703    0.157    0.35         0.997
+  100     0.896     0.805    0.822    0.478    0.72    0.673    0.169    0.33         0.997
+   10     0.891     0.801    0.838    0.486    0.72    0.706    0.178    0.37         0.997
+    1     0.897     0.805    0.833    0.456    0.71    0.677    0.169    0.33         0.997
+  0.1     0.896     0.807    0.823    0.498    0.71    0.714    0.170    0.38         0.997
+ 0.01     0.897     0.804    0.839    0.523    0.76    0.697    0.172    0.36         0.997
+
+kayit: outputs/glsw/Staphylococcus_aureus__Oxacillin.csv
