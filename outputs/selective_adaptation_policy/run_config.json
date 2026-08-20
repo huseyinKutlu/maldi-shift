@@ -1,0 +1,17 @@
+{
+  "multitask_dir": "outputs/multitask_active_validation_final",
+  "shift_dir": "outputs/shift_predictors",
+  "out": "outputs/selective_adaptation_policy",
+  "budget": 30,
+  "bootstrap_reps": 10000,
+  "alphas": "0.01,0.1,1,10,100",
+  "disable_source_gate": false,
+  "primary_predictors": [
+    "domain_auc_svd",
+    "centroid_distance_svd",
+    "covariance_distance_svd",
+    "source_to_target_nn_distance",
+    "source_internal_diversity",
+    "source_only_auroc_mean"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "labels": "outputs/driams_long.parquet",
+  "matrices": "matrices",
+  "root": "~/data/DRIAMS",
+  "out": "outputs/multitask_active_validation",
+  "transfers": "DRIAMS-A>DRIAMS-B,DRIAMS-A>DRIAMS-C,DRIAMS-B>DRIAMS-C",
+  "budgets": "20,30,50",
+  "reps": 10,
+  "test_fraction": 0.5,
+  "ncomp": 100,
+  "hybrid_alpha": 0.5,
+  "min_source_n": 300,
+  "min_target_n": 150,
+  "min_source_pos": 20,
+  "min_target_pos": 10,
+  "max_tasks": 20,
+  "bootstrap_reps": 5000,
+  "locked_hybrid_definition": "0.5*uncertainty + 0.5*greedy spectral diversity"
+}

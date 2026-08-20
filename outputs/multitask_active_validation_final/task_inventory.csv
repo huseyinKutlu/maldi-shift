@@ -1,0 +1,1849 @@
+source,target,species,drug,n_source,positives_source,prevalence_source,n_target,positives_target,prevalence_target,eligible
+DRIAMS-A,DRIAMS-B,Achromobacter xylosoxidans,Amikacin,6,4.0,0.6666666666666666,3,3.0,1.0,False
+DRIAMS-A,DRIAMS-B,Achromobacter xylosoxidans,Cefepime,110,108.0,0.9818181818181818,3,3.0,1.0,False
+DRIAMS-A,DRIAMS-B,Achromobacter xylosoxidans,Ceftazidime,5,0.0,0.0,3,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Achromobacter xylosoxidans,Ceftriaxone,2,2.0,1.0,3,3.0,1.0,False
+DRIAMS-A,DRIAMS-B,Achromobacter xylosoxidans,Ciprofloxacin,112,103.0,0.9196428571428571,3,3.0,1.0,False
+DRIAMS-A,DRIAMS-B,Achromobacter xylosoxidans,Imipenem,6,0.0,0.0,3,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Achromobacter xylosoxidans,Meropenem,114,32.0,0.2807017543859649,3,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Achromobacter xylosoxidans,Piperacillin-Tazobactam,114,6.0,0.05263157894736842,3,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Acinetobacter johnsonii,Ciprofloxacin,7,0.0,0.0,1,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Acinetobacter pittii,Amikacin,65,0.0,0.0,3,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Acinetobacter pittii,Ciprofloxacin,68,6.0,0.08823529411764706,3,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Acinetobacter pittii,Imipenem,65,0.0,0.0,3,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Acinetobacter pittii,Meropenem,68,0.0,0.0,3,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Acinetobacter ursingii,Amikacin,3,0.0,0.0,1,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Acinetobacter ursingii,Ciprofloxacin,24,0.0,0.0,1,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Acinetobacter ursingii,Imipenem,3,0.0,0.0,1,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Actinomyces odontolyticus,Amoxicillin-Clavulanic acid,36,0.0,0.0,1,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Actinomyces odontolyticus,Clindamycin,39,5.0,0.1282051282051282,1,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Actinomyces odontolyticus,Imipenem,34,0.0,0.0,1,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Actinomyces oris,Clindamycin,20,0.0,0.0,2,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Aerococcus sanguinicola,Levofloxacin,37,17.0,0.4594594594594595,7,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Aerococcus urinae,Ciprofloxacin,4,2.0,0.5,44,5.0,0.11363636363636363,False
+DRIAMS-A,DRIAMS-B,Aerococcus urinae,Levofloxacin,23,5.0,0.21739130434782608,44,5.0,0.11363636363636363,False
+DRIAMS-A,DRIAMS-B,Aeromonas caviae,Amoxicillin-Clavulanic acid,2,2.0,1.0,2,2.0,1.0,False
+DRIAMS-A,DRIAMS-B,Aeromonas caviae,Ceftriaxone,3,1.0,0.3333333333333333,2,2.0,1.0,False
+DRIAMS-A,DRIAMS-B,Aeromonas caviae,Ciprofloxacin,3,0.0,0.0,2,2.0,1.0,False
+DRIAMS-A,DRIAMS-B,Aeromonas caviae,Imipenem,2,1.0,0.5,2,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Aeromonas caviae,Meropenem,1,1.0,1.0,2,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Aeromonas caviae,Piperacillin-Tazobactam,2,1.0,0.5,2,2.0,1.0,False
+DRIAMS-A,DRIAMS-B,Anaerococcus vaginalis,Amoxicillin-Clavulanic acid,6,0.0,0.0,3,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Anaerococcus vaginalis,Clindamycin,12,3.0,0.25,3,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Anaerococcus vaginalis,Vancomycin,2,0.0,0.0,3,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Bacillus cereus,Clindamycin,47,24.0,0.5106382978723404,1,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Bacillus cereus,Imipenem,3,0.0,0.0,1,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Bacillus cereus,Levofloxacin,47,0.0,0.0,1,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Bacillus cereus,Vancomycin,48,1.0,0.020833333333333332,1,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Bacillus mycoides,Clindamycin,8,2.0,0.25,1,1.0,1.0,False
+DRIAMS-A,DRIAMS-B,Bacillus mycoides,Vancomycin,8,0.0,0.0,1,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Bacillus thuringiensis,Clindamycin,5,3.0,0.6,1,1.0,1.0,False
+DRIAMS-A,DRIAMS-B,Bacillus thuringiensis,Vancomycin,5,0.0,0.0,1,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Bacteroides fragilis,Amoxicillin-Clavulanic acid,35,6.0,0.17142857142857143,4,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Bacteroides fragilis,Clindamycin,7,3.0,0.42857142857142855,4,3.0,0.75,False
+DRIAMS-A,DRIAMS-B,Bacteroides fragilis,Imipenem,6,2.0,0.3333333333333333,4,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Bacteroides fragilis,Metronidazole,37,0.0,0.0,4,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Campylobacter coli,Ciprofloxacin,54,31.0,0.5740740740740741,1,1.0,1.0,False
+DRIAMS-A,DRIAMS-B,Campylobacter coli,Erythromycin,54,20.0,0.37037037037037035,1,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Campylobacter jejuni,Ciprofloxacin,299,159.0,0.5317725752508361,21,15.0,0.7142857142857143,False
+DRIAMS-A,DRIAMS-B,Campylobacter jejuni,Erythromycin,299,9.0,0.030100334448160536,21,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Citrobacter braakii,Amikacin,49,0.0,0.0,3,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Citrobacter braakii,Amoxicillin-Clavulanic acid,47,47.0,1.0,3,3.0,1.0,False
+DRIAMS-A,DRIAMS-B,Citrobacter braakii,Cefepime,49,1.0,0.02040816326530612,3,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Citrobacter braakii,Ceftazidime,49,7.0,0.14285714285714285,3,1.0,0.3333333333333333,False
+DRIAMS-A,DRIAMS-B,Citrobacter braakii,Ceftriaxone,49,7.0,0.14285714285714285,3,1.0,0.3333333333333333,False
+DRIAMS-A,DRIAMS-B,Citrobacter braakii,Ciprofloxacin,49,3.0,0.061224489795918366,3,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Citrobacter braakii,Ertapenem,49,0.0,0.0,3,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Citrobacter braakii,Imipenem,49,0.0,0.0,3,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Citrobacter braakii,Meropenem,49,0.0,0.0,3,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Citrobacter braakii,Norfloxacin,18,2.0,0.1111111111111111,3,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Citrobacter braakii,Piperacillin-Tazobactam,49,7.0,0.14285714285714285,3,1.0,0.3333333333333333,False
+DRIAMS-A,DRIAMS-B,Citrobacter freundii,Amikacin,395,24.0,0.060759493670886074,14,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Citrobacter freundii,Amoxicillin-Clavulanic acid,392,391.0,0.9974489795918368,15,15.0,1.0,False
+DRIAMS-A,DRIAMS-B,Citrobacter freundii,Cefepime,407,11.0,0.02702702702702703,15,2.0,0.13333333333333333,False
+DRIAMS-A,DRIAMS-B,Citrobacter freundii,Ceftazidime,390,122.0,0.3128205128205128,15,5.0,0.3333333333333333,False
+DRIAMS-A,DRIAMS-B,Citrobacter freundii,Ceftriaxone,404,133.0,0.3292079207920792,15,5.0,0.3333333333333333,False
+DRIAMS-A,DRIAMS-B,Citrobacter freundii,Ciprofloxacin,407,17.0,0.04176904176904177,15,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Citrobacter freundii,Ertapenem,407,2.0,0.004914004914004914,15,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Citrobacter freundii,Fosfomycin,2,0.0,0.0,15,1.0,0.06666666666666667,False
+DRIAMS-A,DRIAMS-B,Citrobacter freundii,Imipenem,395,4.0,0.010126582278481013,15,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Citrobacter freundii,Meropenem,394,2.0,0.005076142131979695,14,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Citrobacter freundii,Nitrofurantoin,11,0.0,0.0,15,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Citrobacter freundii,Norfloxacin,197,11.0,0.05583756345177665,15,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Citrobacter freundii,Piperacillin-Tazobactam,390,121.0,0.31025641025641026,15,6.0,0.4,False
+DRIAMS-A,DRIAMS-B,Citrobacter koseri,Amikacin,469,3.0,0.006396588486140725,39,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Citrobacter koseri,Amoxicillin-Clavulanic acid,458,16.0,0.034934497816593885,40,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Citrobacter koseri,Cefepime,469,8.0,0.017057569296375266,40,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Citrobacter koseri,Ceftazidime,469,8.0,0.017057569296375266,40,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Citrobacter koseri,Ceftriaxone,469,8.0,0.017057569296375266,40,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Citrobacter koseri,Ciprofloxacin,469,8.0,0.017057569296375266,40,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Citrobacter koseri,Ertapenem,469,0.0,0.0,40,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Citrobacter koseri,Imipenem,469,0.0,0.0,40,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Citrobacter koseri,Meropenem,469,0.0,0.0,39,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Citrobacter koseri,Nitrofurantoin,2,0.0,0.0,40,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Citrobacter koseri,Norfloxacin,281,5.0,0.017793594306049824,40,2.0,0.05,False
+DRIAMS-A,DRIAMS-B,Citrobacter koseri,Piperacillin-Tazobactam,452,12.0,0.02654867256637168,39,2.0,0.05128205128205128,False
+DRIAMS-A,DRIAMS-B,Clostridium perfringens,Amoxicillin-Clavulanic acid,1,0.0,0.0,2,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Clostridium perfringens,Clindamycin,14,0.0,0.0,2,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Clostridium perfringens,Metronidazole,13,0.0,0.0,2,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Corynebacterium striatum,Ciprofloxacin,23,6.0,0.2608695652173913,1,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Corynebacterium striatum,Clindamycin,1,1.0,1.0,1,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Corynebacterium striatum,Gentamicin,16,5.0,0.3125,1,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Corynebacterium striatum,Rifampicin,1,0.0,0.0,1,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Corynebacterium tuberculostearicum,Clindamycin,3,3.0,1.0,2,2.0,1.0,False
+DRIAMS-A,DRIAMS-B,Corynebacterium tuberculostearicum,Linezolid,6,0.0,0.0,2,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Corynebacterium tuberculostearicum,Rifampicin,6,0.0,0.0,2,2.0,1.0,False
+DRIAMS-A,DRIAMS-B,Enterobacter aerogenes,Amikacin,107,1.0,0.009345794392523364,24,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Enterobacter aerogenes,Amoxicillin-Clavulanic acid,107,107.0,1.0,24,24.0,1.0,False
+DRIAMS-A,DRIAMS-B,Enterobacter aerogenes,Cefepime,107,5.0,0.04672897196261682,24,1.0,0.041666666666666664,False
+DRIAMS-A,DRIAMS-B,Enterobacter aerogenes,Ceftazidime,107,34.0,0.3177570093457944,24,5.0,0.20833333333333334,False
+DRIAMS-A,DRIAMS-B,Enterobacter aerogenes,Ceftriaxone,107,37.0,0.34579439252336447,24,5.0,0.20833333333333334,False
+DRIAMS-A,DRIAMS-B,Enterobacter aerogenes,Ciprofloxacin,107,5.0,0.04672897196261682,24,3.0,0.125,False
+DRIAMS-A,DRIAMS-B,Enterobacter aerogenes,Ertapenem,107,3.0,0.028037383177570093,24,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Enterobacter aerogenes,Fosfomycin,1,1.0,1.0,24,5.0,0.20833333333333334,False
+DRIAMS-A,DRIAMS-B,Enterobacter aerogenes,Imipenem,107,5.0,0.04672897196261682,24,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Enterobacter aerogenes,Meropenem,106,2.0,0.018867924528301886,24,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Enterobacter aerogenes,Norfloxacin,36,0.0,0.0,24,3.0,0.125,False
+DRIAMS-A,DRIAMS-B,Enterobacter aerogenes,Piperacillin-Tazobactam,107,40.0,0.37383177570093457,24,8.0,0.3333333333333333,False
+DRIAMS-A,DRIAMS-B,Enterobacter asburiae,Amikacin,115,0.0,0.0,6,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Enterobacter asburiae,Amoxicillin-Clavulanic acid,115,115.0,1.0,6,6.0,1.0,False
+DRIAMS-A,DRIAMS-B,Enterobacter asburiae,Cefepime,113,5.0,0.04424778761061947,6,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Enterobacter asburiae,Ceftazidime,115,39.0,0.3391304347826087,6,1.0,0.16666666666666666,False
+DRIAMS-A,DRIAMS-B,Enterobacter asburiae,Ceftriaxone,115,43.0,0.3739130434782609,6,1.0,0.16666666666666666,False
+DRIAMS-A,DRIAMS-B,Enterobacter asburiae,Ciprofloxacin,115,7.0,0.06086956521739131,6,1.0,0.16666666666666666,False
+DRIAMS-A,DRIAMS-B,Enterobacter asburiae,Ertapenem,114,9.0,0.07894736842105263,6,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Enterobacter asburiae,Imipenem,114,6.0,0.05263157894736842,3,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Enterobacter asburiae,Meropenem,110,0.0,0.0,6,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Enterobacter asburiae,Norfloxacin,45,7.0,0.15555555555555556,6,3.0,0.5,False
+DRIAMS-A,DRIAMS-B,Enterobacter asburiae,Piperacillin-Tazobactam,114,41.0,0.35964912280701755,6,1.0,0.16666666666666666,False
+DRIAMS-A,DRIAMS-B,Enterobacter cloacae,Amikacin,1257,17.0,0.013524264120922832,67,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Enterobacter cloacae,Amoxicillin-Clavulanic acid,1260,1260.0,1.0,69,69.0,1.0,False
+DRIAMS-A,DRIAMS-B,Enterobacter cloacae,Cefepime,1241,154.0,0.12409347300564061,69,9.0,0.13043478260869565,False
+DRIAMS-A,DRIAMS-B,Enterobacter cloacae,Ceftazidime,1234,352.0,0.2852512155591572,69,17.0,0.2463768115942029,False
+DRIAMS-A,DRIAMS-B,Enterobacter cloacae,Ceftriaxone,1249,366.0,0.2930344275420336,69,17.0,0.2463768115942029,False
+DRIAMS-A,DRIAMS-B,Enterobacter cloacae,Ciprofloxacin,1265,71.0,0.05612648221343874,69,1.0,0.014492753623188406,False
+DRIAMS-A,DRIAMS-B,Enterobacter cloacae,Ertapenem,1249,116.0,0.09287429943955164,69,11.0,0.15942028985507245,False
+DRIAMS-A,DRIAMS-B,Enterobacter cloacae,Fosfomycin,1,1.0,1.0,69,28.0,0.4057971014492754,False
+DRIAMS-A,DRIAMS-B,Enterobacter cloacae,Imipenem,1261,3.0,0.0023790642347343376,69,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Enterobacter cloacae,Meropenem,1252,3.0,0.0023961661341853034,67,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Enterobacter cloacae,Nitrofurantoin,1,0.0,0.0,69,69.0,1.0,False
+DRIAMS-A,DRIAMS-B,Enterobacter cloacae,Norfloxacin,443,42.0,0.09480812641083522,69,4.0,0.057971014492753624,False
+DRIAMS-A,DRIAMS-B,Enterobacter cloacae,Piperacillin-Tazobactam,1223,312.0,0.25511038430089944,68,19.0,0.27941176470588236,False
+DRIAMS-A,DRIAMS-B,Enterobacter kobei,Amikacin,41,2.0,0.04878048780487805,17,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Enterobacter kobei,Amoxicillin-Clavulanic acid,41,41.0,1.0,17,17.0,1.0,False
+DRIAMS-A,DRIAMS-B,Enterobacter kobei,Cefepime,41,0.0,0.0,17,1.0,0.058823529411764705,False
+DRIAMS-A,DRIAMS-B,Enterobacter kobei,Ceftazidime,41,13.0,0.3170731707317073,17,3.0,0.17647058823529413,False
+DRIAMS-A,DRIAMS-B,Enterobacter kobei,Ceftriaxone,41,13.0,0.3170731707317073,17,3.0,0.17647058823529413,False
+DRIAMS-A,DRIAMS-B,Enterobacter kobei,Ciprofloxacin,41,2.0,0.04878048780487805,17,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Enterobacter kobei,Ertapenem,41,4.0,0.0975609756097561,17,1.0,0.058823529411764705,False
+DRIAMS-A,DRIAMS-B,Enterobacter kobei,Imipenem,41,1.0,0.024390243902439025,17,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Enterobacter kobei,Meropenem,39,0.0,0.0,17,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Enterobacter kobei,Norfloxacin,12,2.0,0.16666666666666666,17,1.0,0.058823529411764705,False
+DRIAMS-A,DRIAMS-B,Enterobacter kobei,Piperacillin-Tazobactam,41,13.0,0.3170731707317073,17,3.0,0.17647058823529413,False
+DRIAMS-A,DRIAMS-B,Enterobacter ludwigii,Amikacin,53,0.0,0.0,3,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Enterobacter ludwigii,Amoxicillin-Clavulanic acid,53,53.0,1.0,3,3.0,1.0,False
+DRIAMS-A,DRIAMS-B,Enterobacter ludwigii,Cefepime,53,0.0,0.0,3,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Enterobacter ludwigii,Ceftazidime,53,9.0,0.16981132075471697,3,1.0,0.3333333333333333,False
+DRIAMS-A,DRIAMS-B,Enterobacter ludwigii,Ceftriaxone,53,8.0,0.1509433962264151,3,1.0,0.3333333333333333,False
+DRIAMS-A,DRIAMS-B,Enterobacter ludwigii,Ciprofloxacin,53,3.0,0.05660377358490566,3,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Enterobacter ludwigii,Ertapenem,53,2.0,0.03773584905660377,3,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Enterobacter ludwigii,Imipenem,53,0.0,0.0,3,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Enterobacter ludwigii,Meropenem,53,0.0,0.0,3,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Enterobacter ludwigii,Norfloxacin,19,3.0,0.15789473684210525,3,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Enterobacter ludwigii,Piperacillin-Tazobactam,51,7.0,0.13725490196078433,3,1.0,0.3333333333333333,False
+DRIAMS-A,DRIAMS-B,Enterococcus avium,Amoxicillin-Clavulanic acid,1,0.0,0.0,7,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Enterococcus avium,Gentamicin_high_level,26,1.0,0.038461538461538464,6,1.0,0.16666666666666666,False
+DRIAMS-A,DRIAMS-B,Enterococcus avium,Imipenem,68,1.0,0.014705882352941176,7,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Enterococcus avium,Levofloxacin,54,0.0,0.0,7,1.0,0.14285714285714285,False
+DRIAMS-A,DRIAMS-B,Enterococcus avium,Linezolid,54,0.0,0.0,6,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Enterococcus avium,Nitrofurantoin,6,2.0,0.3333333333333333,6,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Enterococcus avium,Teicoplanin,54,0.0,0.0,6,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Enterococcus avium,Tigecycline,57,0.0,0.0,6,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Enterococcus avium,Vancomycin,68,0.0,0.0,6,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Enterococcus casseliflavus,Gentamicin_high_level,4,0.0,0.0,1,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Enterococcus casseliflavus,Imipenem,13,0.0,0.0,1,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Enterococcus casseliflavus,Levofloxacin,13,2.0,0.15384615384615385,1,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Enterococcus casseliflavus,Linezolid,13,0.0,0.0,1,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Enterococcus casseliflavus,Nitrofurantoin,4,0.0,0.0,1,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Enterococcus casseliflavus,Teicoplanin,13,0.0,0.0,1,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Enterococcus casseliflavus,Tigecycline,13,0.0,0.0,1,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Enterococcus casseliflavus,Vancomycin,13,13.0,1.0,1,1.0,1.0,False
+DRIAMS-A,DRIAMS-B,Enterococcus faecalis,Amoxicillin-Clavulanic acid,3,0.0,0.0,171,1.0,0.005847953216374269,False
+DRIAMS-A,DRIAMS-B,Enterococcus faecalis,Ciprofloxacin,5,0.0,0.0,172,14.0,0.08139534883720931,False
+DRIAMS-A,DRIAMS-B,Enterococcus faecalis,Gentamicin_high_level,152,12.0,0.07894736842105263,166,27.0,0.16265060240963855,False
+DRIAMS-A,DRIAMS-B,Enterococcus faecalis,Imipenem,790,12.0,0.015189873417721518,170,1.0,0.0058823529411764705,False
+DRIAMS-A,DRIAMS-B,Enterococcus faecalis,Levofloxacin,770,75.0,0.09740259740259741,172,14.0,0.08139534883720931,True
+DRIAMS-A,DRIAMS-B,Enterococcus faecalis,Linezolid,763,10.0,0.01310615989515072,172,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Enterococcus faecalis,Nitrofurantoin,54,2.0,0.037037037037037035,171,5.0,0.029239766081871343,False
+DRIAMS-A,DRIAMS-B,Enterococcus faecalis,Teicoplanin,757,0.0,0.0,171,1.0,0.005847953216374269,False
+DRIAMS-A,DRIAMS-B,Enterococcus faecalis,Tigecycline,765,0.0,0.0,171,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Enterococcus faecalis,Vancomycin,785,1.0,0.0012738853503184713,171,1.0,0.005847953216374269,False
+DRIAMS-A,DRIAMS-B,Enterococcus faecium,Amoxicillin-Clavulanic acid,4,1.0,0.25,41,35.0,0.8536585365853658,False
+DRIAMS-A,DRIAMS-B,Enterococcus faecium,Ciprofloxacin,1,1.0,1.0,41,27.0,0.6585365853658537,False
+DRIAMS-A,DRIAMS-B,Enterococcus faecium,Gentamicin_high_level,273,86.0,0.315018315018315,41,8.0,0.1951219512195122,False
+DRIAMS-A,DRIAMS-B,Enterococcus faecium,Imipenem,1164,1098.0,0.9432989690721649,41,35.0,0.8536585365853658,False
+DRIAMS-A,DRIAMS-B,Enterococcus faecium,Levofloxacin,1133,920.0,0.8120035304501324,41,27.0,0.6585365853658537,False
+DRIAMS-A,DRIAMS-B,Enterococcus faecium,Linezolid,1124,2.0,0.0017793594306049821,41,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Enterococcus faecium,Nitrofurantoin,464,358.0,0.771551724137931,36,5.0,0.1388888888888889,False
+DRIAMS-A,DRIAMS-B,Enterococcus faecium,Piperacillin-Tazobactam,1,1.0,1.0,41,35.0,0.8536585365853658,False
+DRIAMS-A,DRIAMS-B,Enterococcus faecium,Strepomycin_high_level,4,0.0,0.0,7,5.0,0.7142857142857143,False
+DRIAMS-A,DRIAMS-B,Enterococcus faecium,Teicoplanin,1124,25.0,0.02224199288256228,41,8.0,0.1951219512195122,False
+DRIAMS-A,DRIAMS-B,Enterococcus faecium,Tigecycline,1128,0.0,0.0,42,1.0,0.023809523809523808,False
+DRIAMS-A,DRIAMS-B,Enterococcus faecium,Vancomycin,1183,96.0,0.08114961961115807,41,13.0,0.3170731707317073,False
+DRIAMS-A,DRIAMS-B,Enterococcus gallinarum,Imipenem,6,2.0,0.3333333333333333,1,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Enterococcus gallinarum,Levofloxacin,6,0.0,0.0,1,1.0,1.0,False
+DRIAMS-A,DRIAMS-B,Enterococcus gallinarum,Linezolid,6,0.0,0.0,1,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Enterococcus gallinarum,Nitrofurantoin,4,0.0,0.0,1,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Enterococcus gallinarum,Teicoplanin,6,0.0,0.0,1,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Enterococcus gallinarum,Tigecycline,6,0.0,0.0,1,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Enterococcus gallinarum,Vancomycin,6,6.0,1.0,1,1.0,1.0,False
+DRIAMS-A,DRIAMS-B,Escherichia coli,Amikacin,4858,331.0,0.06813503499382462,205,12.0,0.05853658536585366,True
+DRIAMS-A,DRIAMS-B,Escherichia coli,Amoxicillin-Clavulanic acid,4826,1177.0,0.24388727724823872,213,76.0,0.3568075117370892,True
+DRIAMS-A,DRIAMS-B,Escherichia coli,Cefepime,4890,839.0,0.17157464212678936,213,43.0,0.20187793427230047,True
+DRIAMS-A,DRIAMS-B,Escherichia coli,Ceftazidime,4822,871.0,0.18063044379925342,213,45.0,0.2112676056338028,True
+DRIAMS-A,DRIAMS-B,Escherichia coli,Ceftriaxone,4961,1086.0,0.21890747833098165,213,45.0,0.2112676056338028,True
+DRIAMS-A,DRIAMS-B,Escherichia coli,Cefuroxime,2,0.0,0.0,213,54.0,0.2535211267605634,False
+DRIAMS-A,DRIAMS-B,Escherichia coli,Ciprofloxacin,4911,1466.0,0.29851354103034006,213,59.0,0.27699530516431925,True
+DRIAMS-A,DRIAMS-B,Escherichia coli,Ertapenem,4983,35.0,0.0070238811960666265,213,2.0,0.009389671361502348,False
+DRIAMS-A,DRIAMS-B,Escherichia coli,Fosfomycin,4,0.0,0.0,213,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Escherichia coli,Imipenem,4923,5.0,0.0010156408693885843,213,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Escherichia coli,Meropenem,4928,3.0,0.0006087662337662338,205,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Escherichia coli,Nitrofurantoin,1498,16.0,0.010680907877169559,213,3.0,0.014084507042253521,False
+DRIAMS-A,DRIAMS-B,Escherichia coli,Norfloxacin,1488,390.0,0.2620967741935484,213,72.0,0.3380281690140845,True
+DRIAMS-A,DRIAMS-B,Escherichia coli,Piperacillin-Tazobactam,4799,350.0,0.07293186080433424,213,49.0,0.2300469483568075,True
+DRIAMS-A,DRIAMS-B,Finegoldia magna,Amoxicillin-Clavulanic acid,17,0.0,0.0,9,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Finegoldia magna,Clindamycin,61,26.0,0.4262295081967213,9,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Finegoldia magna,Imipenem,1,0.0,0.0,9,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Finegoldia magna,Metronidazole,9,0.0,0.0,9,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Finegoldia magna,Vancomycin,9,0.0,0.0,9,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Granulicatella adiacens,Ceftriaxone,19,0.0,0.0,2,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Granulicatella adiacens,Clindamycin,3,0.0,0.0,2,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Granulicatella adiacens,Vancomycin,17,0.0,0.0,2,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Haemophilus influenzae,Amoxicillin-Clavulanic acid,75,22.0,0.29333333333333333,2,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Haemophilus influenzae,Ceftriaxone,72,5.0,0.06944444444444445,2,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Haemophilus influenzae,Ciprofloxacin,3,0.0,0.0,2,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Haemophilus influenzae,Erythromycin,1,1.0,1.0,1,1.0,1.0,False
+DRIAMS-A,DRIAMS-B,Hafnia alvei,Amikacin,82,0.0,0.0,2,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Hafnia alvei,Amoxicillin-Clavulanic acid,82,82.0,1.0,2,2.0,1.0,False
+DRIAMS-A,DRIAMS-B,Hafnia alvei,Cefepime,82,7.0,0.08536585365853659,2,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Hafnia alvei,Ceftazidime,80,33.0,0.4125,2,1.0,0.5,False
+DRIAMS-A,DRIAMS-B,Hafnia alvei,Ceftriaxone,82,21.0,0.25609756097560976,2,1.0,0.5,False
+DRIAMS-A,DRIAMS-B,Hafnia alvei,Ciprofloxacin,82,0.0,0.0,2,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Hafnia alvei,Ertapenem,82,7.0,0.08536585365853659,2,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Hafnia alvei,Imipenem,82,0.0,0.0,2,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Hafnia alvei,Meropenem,82,4.0,0.04878048780487805,2,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Hafnia alvei,Norfloxacin,13,0.0,0.0,2,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Hafnia alvei,Piperacillin-Tazobactam,82,67.0,0.8170731707317073,2,1.0,0.5,False
+DRIAMS-A,DRIAMS-B,Klebsiella oxytoca,Amikacin,712,1.0,0.0014044943820224719,44,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Klebsiella oxytoca,Amoxicillin-Clavulanic acid,713,76.0,0.10659186535764376,46,10.0,0.21739130434782608,False
+DRIAMS-A,DRIAMS-B,Klebsiella oxytoca,Cefepime,711,5.0,0.007032348804500703,46,1.0,0.021739130434782608,False
+DRIAMS-A,DRIAMS-B,Klebsiella oxytoca,Ceftazidime,709,7.0,0.009873060648801129,42,1.0,0.023809523809523808,False
+DRIAMS-A,DRIAMS-B,Klebsiella oxytoca,Ceftriaxone,714,50.0,0.0700280112044818,46,7.0,0.15217391304347827,False
+DRIAMS-A,DRIAMS-B,Klebsiella oxytoca,Ciprofloxacin,715,5.0,0.006993006993006993,46,2.0,0.043478260869565216,False
+DRIAMS-A,DRIAMS-B,Klebsiella oxytoca,Ertapenem,713,0.0,0.0,42,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Klebsiella oxytoca,Gentamicin,1,0.0,0.0,46,3.0,0.06521739130434782,False
+DRIAMS-A,DRIAMS-B,Klebsiella oxytoca,Imipenem,713,0.0,0.0,46,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Klebsiella oxytoca,Meropenem,713,0.0,0.0,44,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Klebsiella oxytoca,Nitrofurantoin,5,3.0,0.6,42,41.0,0.9761904761904762,False
+DRIAMS-A,DRIAMS-B,Klebsiella oxytoca,Norfloxacin,327,4.0,0.012232415902140673,42,5.0,0.11904761904761904,False
+DRIAMS-A,DRIAMS-B,Klebsiella oxytoca,Piperacillin-Tazobactam,692,61.0,0.08815028901734104,46,7.0,0.15217391304347827,False
+DRIAMS-A,DRIAMS-B,Klebsiella pneumoniae,Amikacin,2830,129.0,0.04558303886925795,147,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Klebsiella pneumoniae,Amoxicillin-Clavulanic acid,2840,537.0,0.18908450704225352,152,24.0,0.15789473684210525,True
+DRIAMS-A,DRIAMS-B,Klebsiella pneumoniae,Cefepime,2839,362.0,0.12750968650933428,152,18.0,0.11842105263157894,True
+DRIAMS-A,DRIAMS-B,Klebsiella pneumoniae,Ceftazidime,2832,430.0,0.1518361581920904,152,18.0,0.11842105263157894,True
+DRIAMS-A,DRIAMS-B,Klebsiella pneumoniae,Ceftriaxone,2860,449.0,0.156993006993007,152,18.0,0.11842105263157894,True
+DRIAMS-A,DRIAMS-B,Klebsiella pneumoniae,Ciprofloxacin,2838,513.0,0.18076109936575052,152,22.0,0.14473684210526316,True
+DRIAMS-A,DRIAMS-B,Klebsiella pneumoniae,Ertapenem,2859,79.0,0.027632039174536552,152,6.0,0.039473684210526314,False
+DRIAMS-A,DRIAMS-B,Klebsiella pneumoniae,Fosfomycin,7,2.0,0.2857142857142857,152,28.0,0.18421052631578946,False
+DRIAMS-A,DRIAMS-B,Klebsiella pneumoniae,Gentamicin,4,0.0,0.0,152,3.0,0.019736842105263157,False
+DRIAMS-A,DRIAMS-B,Klebsiella pneumoniae,Imipenem,2847,43.0,0.01510361784334387,152,1.0,0.006578947368421052,False
+DRIAMS-A,DRIAMS-B,Klebsiella pneumoniae,Meropenem,2855,61.0,0.02136602451838879,147,1.0,0.006802721088435374,False
+DRIAMS-A,DRIAMS-B,Klebsiella pneumoniae,Nitrofurantoin,9,1.0,0.1111111111111111,152,150.0,0.9868421052631579,False
+DRIAMS-A,DRIAMS-B,Klebsiella pneumoniae,Norfloxacin,1814,285.0,0.15711135611907387,152,29.0,0.19078947368421054,True
+DRIAMS-A,DRIAMS-B,Klebsiella pneumoniae,Piperacillin-Tazobactam,2759,404.0,0.14642986589343965,151,32.0,0.2119205298013245,True
+DRIAMS-A,DRIAMS-B,Klebsiella variicola,Amikacin,559,0.0,0.0,41,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Klebsiella variicola,Amoxicillin-Clavulanic acid,553,27.0,0.048824593128390596,43,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Klebsiella variicola,Cefepime,559,8.0,0.014311270125223614,43,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Klebsiella variicola,Ceftazidime,559,10.0,0.017889087656529516,43,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Klebsiella variicola,Ceftriaxone,559,11.0,0.01967799642218247,43,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Klebsiella variicola,Ciprofloxacin,559,20.0,0.03577817531305903,43,1.0,0.023255813953488372,False
+DRIAMS-A,DRIAMS-B,Klebsiella variicola,Ertapenem,559,1.0,0.0017889087656529517,43,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Klebsiella variicola,Imipenem,559,0.0,0.0,43,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Klebsiella variicola,Meropenem,559,0.0,0.0,41,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Klebsiella variicola,Nitrofurantoin,1,0.0,0.0,43,43.0,1.0,False
+DRIAMS-A,DRIAMS-B,Klebsiella variicola,Norfloxacin,356,13.0,0.03651685393258427,43,1.0,0.023255813953488372,False
+DRIAMS-A,DRIAMS-B,Klebsiella variicola,Piperacillin-Tazobactam,549,10.0,0.018214936247723135,43,1.0,0.023255813953488372,False
+DRIAMS-A,DRIAMS-B,Listeria monocytogenes,Meropenem,6,0.0,0.0,1,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Morganella morganii,Amikacin,345,19.0,0.05507246376811594,29,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Morganella morganii,Amoxicillin-Clavulanic acid,349,349.0,1.0,31,31.0,1.0,False
+DRIAMS-A,DRIAMS-B,Morganella morganii,Cefepime,349,3.0,0.008595988538681949,31,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Morganella morganii,Ceftazidime,345,60.0,0.17391304347826086,31,1.0,0.03225806451612903,False
+DRIAMS-A,DRIAMS-B,Morganella morganii,Ceftriaxone,347,54.0,0.15561959654178675,31,1.0,0.03225806451612903,False
+DRIAMS-A,DRIAMS-B,Morganella morganii,Ciprofloxacin,349,32.0,0.09169054441260745,31,4.0,0.12903225806451613,False
+DRIAMS-A,DRIAMS-B,Morganella morganii,Ertapenem,349,2.0,0.0057306590257879654,31,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Morganella morganii,Imipenem,294,199.0,0.6768707482993197,31,7.0,0.22580645161290322,False
+DRIAMS-A,DRIAMS-B,Morganella morganii,Meropenem,330,0.0,0.0,29,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Morganella morganii,Norfloxacin,122,15.0,0.12295081967213115,31,4.0,0.12903225806451613,False
+DRIAMS-A,DRIAMS-B,Morganella morganii,Piperacillin-Tazobactam,343,9.0,0.026239067055393587,31,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Neisseria gonorrhoeae,Ceftriaxone,63,0.0,0.0,2,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Neisseria gonorrhoeae,Ciprofloxacin,63,41.0,0.6507936507936508,2,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Pasteurella multocida,Ciprofloxacin,1,0.0,0.0,2,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Pasteurella multocida,Levofloxacin,36,0.0,0.0,2,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Peptoniphilus harei,Amoxicillin-Clavulanic acid,6,0.0,0.0,1,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Peptoniphilus harei,Clindamycin,20,5.0,0.25,1,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Peptoniphilus harei,Metronidazole,6,0.0,0.0,1,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Peptoniphilus olsenii,Amoxicillin-Clavulanic acid,2,0.0,0.0,1,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Peptoniphilus olsenii,Clindamycin,2,0.0,0.0,1,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Prevotella disiens,Clindamycin,1,1.0,1.0,6,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Prevotella disiens,Metronidazole,1,0.0,0.0,6,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Proteus hauseri,Amikacin,20,0.0,0.0,3,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Proteus hauseri,Amoxicillin-Clavulanic acid,22,6.0,0.2727272727272727,3,1.0,0.3333333333333333,False
+DRIAMS-A,DRIAMS-B,Proteus hauseri,Cefepime,22,1.0,0.045454545454545456,3,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Proteus hauseri,Ceftazidime,20,2.0,0.1,3,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Proteus hauseri,Ceftriaxone,20,3.0,0.15,3,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Proteus hauseri,Ciprofloxacin,22,0.0,0.0,3,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Proteus hauseri,Ertapenem,22,0.0,0.0,3,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Proteus hauseri,Imipenem,19,8.0,0.42105263157894735,3,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Proteus hauseri,Meropenem,22,0.0,0.0,3,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Proteus hauseri,Norfloxacin,8,0.0,0.0,3,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Proteus hauseri,Piperacillin-Tazobactam,22,0.0,0.0,3,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Proteus mirabilis,Amikacin,903,22.0,0.024363233665559248,83,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Proteus mirabilis,Amoxicillin-Clavulanic acid,913,76.0,0.0832420591456736,85,4.0,0.047058823529411764,False
+DRIAMS-A,DRIAMS-B,Proteus mirabilis,Cefepime,911,19.0,0.020856201975850714,85,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Proteus mirabilis,Ceftazidime,909,19.0,0.020902090209020903,83,1.0,0.012048192771084338,False
+DRIAMS-A,DRIAMS-B,Proteus mirabilis,Ceftriaxone,915,36.0,0.03934426229508197,85,1.0,0.011764705882352941,False
+DRIAMS-A,DRIAMS-B,Proteus mirabilis,Ciprofloxacin,913,114.0,0.1248630887185104,85,15.0,0.17647058823529413,False
+DRIAMS-A,DRIAMS-B,Proteus mirabilis,Ertapenem,915,2.0,0.002185792349726776,85,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Proteus mirabilis,Fosfomycin,1,0.0,0.0,85,9.0,0.10588235294117647,False
+DRIAMS-A,DRIAMS-B,Proteus mirabilis,Gentamicin,1,0.0,0.0,85,8.0,0.09411764705882353,False
+DRIAMS-A,DRIAMS-B,Proteus mirabilis,Imipenem,778,567.0,0.7287917737789203,83,25.0,0.30120481927710846,False
+DRIAMS-A,DRIAMS-B,Proteus mirabilis,Meropenem,914,2.0,0.002188183807439825,83,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Proteus mirabilis,Nitrofurantoin,3,3.0,1.0,85,85.0,1.0,False
+DRIAMS-A,DRIAMS-B,Proteus mirabilis,Norfloxacin,461,71.0,0.1540130151843818,85,15.0,0.17647058823529413,False
+DRIAMS-A,DRIAMS-B,Proteus mirabilis,Piperacillin-Tazobactam,911,1.0,0.0010976948408342481,85,1.0,0.011764705882352941,False
+DRIAMS-A,DRIAMS-B,Proteus vulgaris,Amikacin,321,4.0,0.012461059190031152,17,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Proteus vulgaris,Amoxicillin-Clavulanic acid,320,24.0,0.075,18,2.0,0.1111111111111111,False
+DRIAMS-A,DRIAMS-B,Proteus vulgaris,Cefepime,319,3.0,0.009404388714733543,18,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Proteus vulgaris,Ceftazidime,320,4.0,0.0125,18,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Proteus vulgaris,Ceftriaxone,320,6.0,0.01875,18,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Proteus vulgaris,Ciprofloxacin,321,1.0,0.003115264797507788,18,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Proteus vulgaris,Ertapenem,321,0.0,0.0,18,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Proteus vulgaris,Imipenem,241,208.0,0.8630705394190872,18,8.0,0.4444444444444444,False
+DRIAMS-A,DRIAMS-B,Proteus vulgaris,Meropenem,321,0.0,0.0,17,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Proteus vulgaris,Nitrofurantoin,5,5.0,1.0,18,18.0,1.0,False
+DRIAMS-A,DRIAMS-B,Proteus vulgaris,Norfloxacin,140,0.0,0.0,18,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Proteus vulgaris,Piperacillin-Tazobactam,317,0.0,0.0,18,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Providencia rettgeri,Amikacin,63,0.0,0.0,8,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Providencia rettgeri,Amoxicillin-Clavulanic acid,63,63.0,1.0,8,8.0,1.0,False
+DRIAMS-A,DRIAMS-B,Providencia rettgeri,Cefepime,63,0.0,0.0,8,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Providencia rettgeri,Ceftazidime,63,0.0,0.0,8,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Providencia rettgeri,Ceftriaxone,63,1.0,0.015873015873015872,8,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Providencia rettgeri,Ciprofloxacin,63,5.0,0.07936507936507936,8,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Providencia rettgeri,Ertapenem,63,0.0,0.0,8,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Providencia rettgeri,Imipenem,62,37.0,0.5967741935483871,8,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Providencia rettgeri,Meropenem,63,0.0,0.0,8,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Providencia rettgeri,Nitrofurantoin,4,4.0,1.0,8,8.0,1.0,False
+DRIAMS-A,DRIAMS-B,Providencia rettgeri,Norfloxacin,35,5.0,0.14285714285714285,8,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Providencia rettgeri,Piperacillin-Tazobactam,63,4.0,0.06349206349206349,8,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Pseudomonas aeruginosa,Amikacin,2372,164.0,0.06913996627318718,135,9.0,0.06666666666666667,False
+DRIAMS-A,DRIAMS-B,Pseudomonas aeruginosa,Cefepime,3088,550.0,0.17810880829015543,142,5.0,0.035211267605633804,False
+DRIAMS-A,DRIAMS-B,Pseudomonas aeruginosa,Ceftazidime,2459,232.0,0.09434729564863766,138,2.0,0.014492753623188406,False
+DRIAMS-A,DRIAMS-B,Pseudomonas aeruginosa,Ciprofloxacin,3153,645.0,0.20456707897240722,142,16.0,0.11267605633802817,False
+DRIAMS-A,DRIAMS-B,Pseudomonas aeruginosa,Imipenem,2377,339.0,0.1426167437946992,139,15.0,0.1079136690647482,False
+DRIAMS-A,DRIAMS-B,Pseudomonas aeruginosa,Meropenem,3183,503.0,0.15802701853597234,129,10.0,0.07751937984496124,False
+DRIAMS-A,DRIAMS-B,Pseudomonas aeruginosa,Piperacillin-Tazobactam,3152,598.0,0.18972081218274112,142,12.0,0.08450704225352113,False
+DRIAMS-A,DRIAMS-B,Pseudomonas monteilii,Amikacin,25,0.0,0.0,3,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Pseudomonas monteilii,Cefepime,32,0.0,0.0,3,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Pseudomonas monteilii,Ciprofloxacin,35,1.0,0.02857142857142857,3,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Pseudomonas monteilii,Imipenem,26,0.0,0.0,3,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Pseudomonas monteilii,Piperacillin-Tazobactam,26,7.0,0.2692307692307692,3,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Pseudomonas sp,Amikacin,4,0.0,0.0,2,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Pseudomonas sp,Cefepime,6,0.0,0.0,2,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Pseudomonas sp,Ciprofloxacin,6,0.0,0.0,2,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Pseudomonas sp,Imipenem,4,0.0,0.0,2,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Pseudomonas sp,Piperacillin-Tazobactam,6,0.0,0.0,2,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Raoultella ornithinolytica,Amikacin,1,0.0,0.0,5,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Raoultella ornithinolytica,Amoxicillin-Clavulanic acid,1,0.0,0.0,6,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Raoultella ornithinolytica,Cefepime,1,0.0,0.0,6,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Raoultella ornithinolytica,Ceftazidime,1,0.0,0.0,6,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Raoultella ornithinolytica,Ceftriaxone,1,0.0,0.0,6,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Raoultella ornithinolytica,Ciprofloxacin,1,0.0,0.0,6,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Raoultella ornithinolytica,Ertapenem,1,0.0,0.0,6,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Raoultella ornithinolytica,Imipenem,1,0.0,0.0,6,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Raoultella ornithinolytica,Meropenem,1,0.0,0.0,5,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Raoultella ornithinolytica,Norfloxacin,1,0.0,0.0,6,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Raoultella ornithinolytica,Piperacillin-Tazobactam,1,0.0,0.0,6,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Rothia mucilaginosa,Vancomycin,33,0.0,0.0,1,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Salmonella anatum,Ceftriaxone,3,0.0,0.0,2,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Salmonella anatum,Ciprofloxacin,3,1.0,0.3333333333333333,2,1.0,0.5,False
+DRIAMS-A,DRIAMS-B,Salmonella anatum,Ertapenem,3,0.0,0.0,2,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Salmonella anatum,Imipenem,3,0.0,0.0,2,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Salmonella newington,Ceftriaxone,3,0.0,0.0,1,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Salmonella newington,Ciprofloxacin,3,0.0,0.0,1,1.0,1.0,False
+DRIAMS-A,DRIAMS-B,Salmonella newington,Ertapenem,3,0.0,0.0,1,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Salmonella newington,Imipenem,3,0.0,0.0,1,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Salmonella spp,Ceftriaxone,15,0.0,0.0,5,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Salmonella spp,Ciprofloxacin,15,4.0,0.26666666666666666,5,3.0,0.6,False
+DRIAMS-A,DRIAMS-B,Salmonella spp,Ertapenem,15,0.0,0.0,5,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Salmonella spp,Imipenem,15,0.0,0.0,5,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Serratia marcescens,Amikacin,857,171.0,0.19953325554259044,15,2.0,0.13333333333333333,False
+DRIAMS-A,DRIAMS-B,Serratia marcescens,Amoxicillin-Clavulanic acid,860,860.0,1.0,16,16.0,1.0,False
+DRIAMS-A,DRIAMS-B,Serratia marcescens,Cefepime,862,4.0,0.004640371229698376,16,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Serratia marcescens,Ceftazidime,859,30.0,0.034924330616996506,16,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Serratia marcescens,Ceftriaxone,863,30.0,0.03476245654692932,16,2.0,0.125,False
+DRIAMS-A,DRIAMS-B,Serratia marcescens,Ciprofloxacin,860,40.0,0.046511627906976744,16,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Serratia marcescens,Ertapenem,860,2.0,0.002325581395348837,16,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Serratia marcescens,Imipenem,856,5.0,0.005841121495327103,14,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Serratia marcescens,Meropenem,860,0.0,0.0,15,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Serratia marcescens,Nitrofurantoin,1,1.0,1.0,16,16.0,1.0,False
+DRIAMS-A,DRIAMS-B,Serratia marcescens,Norfloxacin,126,6.0,0.047619047619047616,16,1.0,0.0625,False
+DRIAMS-A,DRIAMS-B,Serratia marcescens,Piperacillin-Tazobactam,862,23.0,0.02668213457076566,16,2.0,0.125,False
+DRIAMS-A,DRIAMS-B,Sphingomonas paucimobilis,Cefepime,18,17.0,0.9444444444444444,4,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Sphingomonas paucimobilis,Ciprofloxacin,18,1.0,0.05555555555555555,4,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Sphingomonas paucimobilis,Meropenem,18,0.0,0.0,4,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Sphingomonas paucimobilis,Piperacillin-Tazobactam,18,17.0,0.9444444444444444,4,4.0,1.0,False
+DRIAMS-A,DRIAMS-B,Staphylococcus aureus,Amoxicillin-Clavulanic acid,3640,712.0,0.1956043956043956,346,21.0,0.06069364161849711,True
+DRIAMS-A,DRIAMS-B,Staphylococcus aureus,Cefepime,3640,712.0,0.1956043956043956,346,21.0,0.06069364161849711,True
+DRIAMS-A,DRIAMS-B,Staphylococcus aureus,Ciprofloxacin,3757,616.0,0.16396060686718125,348,26.0,0.07471264367816093,True
+DRIAMS-A,DRIAMS-B,Staphylococcus aureus,Clindamycin,3575,519.0,0.14517482517482516,348,37.0,0.10632183908045977,True
+DRIAMS-A,DRIAMS-B,Staphylococcus aureus,Daptomycin,3780,30.0,0.007936507936507936,338,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Staphylococcus aureus,Erythromycin,3598,650.0,0.18065591995553085,347,38.0,0.10951008645533142,True
+DRIAMS-A,DRIAMS-B,Staphylococcus aureus,Fosfomycin,1,0.0,0.0,346,2.0,0.005780346820809248,False
+DRIAMS-A,DRIAMS-B,Staphylococcus aureus,Fusidic acid,3766,253.0,0.06718003186404674,346,20.0,0.057803468208092484,True
+DRIAMS-A,DRIAMS-B,Staphylococcus aureus,Gentamicin,3629,104.0,0.028658032515844586,348,8.0,0.022988505747126436,False
+DRIAMS-A,DRIAMS-B,Staphylococcus aureus,Imipenem,3640,712.0,0.1956043956043956,1,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Staphylococcus aureus,Linezolid,3639,0.0,0.0,346,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Staphylococcus aureus,Mupirocin,3633,16.0,0.004404073768235618,346,1.0,0.002890173410404624,False
+DRIAMS-A,DRIAMS-B,Staphylococcus aureus,Oxacillin,3790,726.0,0.19155672823218997,346,21.0,0.06069364161849711,True
+DRIAMS-A,DRIAMS-B,Staphylococcus aureus,Rifampicin,3774,39.0,0.010333863275039745,348,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Staphylococcus aureus,Teicoplanin,3629,4.0,0.0011022320198401765,346,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Staphylococcus aureus,Tetracycline,3609,272.0,0.07536713771127736,343,7.0,0.02040816326530612,False
+DRIAMS-A,DRIAMS-B,Staphylococcus aureus,Tigecycline,3640,1.0,0.0002747252747252747,345,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Staphylococcus aureus,Vancomycin,3791,0.0,0.0,346,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Staphylococcus capitis,Amoxicillin-Clavulanic acid,322,60.0,0.18633540372670807,26,2.0,0.07692307692307693,False
+DRIAMS-A,DRIAMS-B,Staphylococcus capitis,Cefepime,322,60.0,0.18633540372670807,26,2.0,0.07692307692307693,False
+DRIAMS-A,DRIAMS-B,Staphylococcus capitis,Ciprofloxacin,365,21.0,0.057534246575342465,26,2.0,0.07692307692307693,False
+DRIAMS-A,DRIAMS-B,Staphylococcus capitis,Clindamycin,318,41.0,0.1289308176100629,26,10.0,0.38461538461538464,False
+DRIAMS-A,DRIAMS-B,Staphylococcus capitis,Daptomycin,365,15.0,0.0410958904109589,24,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Staphylococcus capitis,Erythromycin,328,36.0,0.10975609756097561,26,10.0,0.38461538461538464,False
+DRIAMS-A,DRIAMS-B,Staphylococcus capitis,Fusidic acid,365,46.0,0.12602739726027398,26,12.0,0.46153846153846156,False
+DRIAMS-A,DRIAMS-B,Staphylococcus capitis,Gentamicin,319,21.0,0.06583072100313479,26,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Staphylococcus capitis,Linezolid,319,0.0,0.0,26,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Staphylococcus capitis,Mupirocin,14,3.0,0.21428571428571427,26,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Staphylococcus capitis,Oxacillin,365,73.0,0.2,26,2.0,0.07692307692307693,False
+DRIAMS-A,DRIAMS-B,Staphylococcus capitis,Rifampicin,365,3.0,0.00821917808219178,26,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Staphylococcus capitis,Teicoplanin,317,0.0,0.0,29,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Staphylococcus capitis,Tetracycline,318,45.0,0.14150943396226415,26,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Staphylococcus capitis,Tigecycline,323,0.0,0.0,26,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Staphylococcus capitis,Vancomycin,365,0.0,0.0,26,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Staphylococcus caprae,Amoxicillin-Clavulanic acid,81,1.0,0.012345679012345678,24,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Staphylococcus caprae,Cefepime,81,1.0,0.012345679012345678,24,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Staphylococcus caprae,Ciprofloxacin,94,3.0,0.031914893617021274,24,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Staphylococcus caprae,Clindamycin,86,4.0,0.046511627906976744,24,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Staphylococcus caprae,Daptomycin,94,1.0,0.010638297872340425,24,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Staphylococcus caprae,Erythromycin,86,12.0,0.13953488372093023,24,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Staphylococcus caprae,Fusidic acid,94,37.0,0.39361702127659576,24,6.0,0.25,False
+DRIAMS-A,DRIAMS-B,Staphylococcus caprae,Gentamicin,86,1.0,0.011627906976744186,24,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Staphylococcus caprae,Linezolid,86,0.0,0.0,24,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Staphylococcus caprae,Mupirocin,4,0.0,0.0,24,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Staphylococcus caprae,Oxacillin,94,1.0,0.010638297872340425,24,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Staphylococcus caprae,Rifampicin,94,0.0,0.0,24,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Staphylococcus caprae,Teicoplanin,82,0.0,0.0,30,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Staphylococcus caprae,Tetracycline,77,0.0,0.0,30,2.0,0.06666666666666667,False
+DRIAMS-A,DRIAMS-B,Staphylococcus caprae,Tigecycline,81,0.0,0.0,24,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Staphylococcus caprae,Vancomycin,94,0.0,0.0,24,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Staphylococcus cohnii,Teicoplanin,41,0.0,0.0,3,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Staphylococcus cohnii,Tetracycline,41,10.0,0.24390243902439024,3,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Staphylococcus epidermidis,Amoxicillin-Clavulanic acid,4262,3006.0,0.7053026748005631,220,129.0,0.5863636363636363,True
+DRIAMS-A,DRIAMS-B,Staphylococcus epidermidis,Cefepime,4261,3006.0,0.7054681999530626,220,129.0,0.5863636363636363,True
+DRIAMS-A,DRIAMS-B,Staphylococcus epidermidis,Ciprofloxacin,4679,2687.0,0.5742680059841847,220,94.0,0.42727272727272725,True
+DRIAMS-A,DRIAMS-B,Staphylococcus epidermidis,Clindamycin,4192,2125.0,0.5069179389312977,216,89.0,0.41203703703703703,True
+DRIAMS-A,DRIAMS-B,Staphylococcus epidermidis,Daptomycin,4761,3.0,0.000630119722747322,214,1.0,0.004672897196261682,False
+DRIAMS-A,DRIAMS-B,Staphylococcus epidermidis,Erythromycin,4232,2591.0,0.6122400756143668,216,97.0,0.44907407407407407,True
+DRIAMS-A,DRIAMS-B,Staphylococcus epidermidis,Fosfomycin,14,5.0,0.35714285714285715,218,10.0,0.045871559633027525,False
+DRIAMS-A,DRIAMS-B,Staphylococcus epidermidis,Fusidic acid,4589,2407.0,0.5245151449117454,218,101.0,0.463302752293578,True
+DRIAMS-A,DRIAMS-B,Staphylococcus epidermidis,Gentamicin,4221,1863.0,0.44136460554371004,220,59.0,0.2681818181818182,True
+DRIAMS-A,DRIAMS-B,Staphylococcus epidermidis,Levofloxacin,2,0.0,0.0,220,94.0,0.42727272727272725,False
+DRIAMS-A,DRIAMS-B,Staphylococcus epidermidis,Linezolid,4407,2.0,0.0004538234626730202,218,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Staphylococcus epidermidis,Mupirocin,84,4.0,0.047619047619047616,218,4.0,0.01834862385321101,False
+DRIAMS-A,DRIAMS-B,Staphylococcus epidermidis,Oxacillin,4664,3324.0,0.7126929674099486,220,129.0,0.5863636363636363,True
+DRIAMS-A,DRIAMS-B,Staphylococcus epidermidis,Rifampicin,4758,436.0,0.09163514081546868,220,3.0,0.013636363636363636,False
+DRIAMS-A,DRIAMS-B,Staphylococcus epidermidis,Teicoplanin,488,118.0,0.24180327868852458,30,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Staphylococcus epidermidis,Tetracycline,4132,2329.0,0.563649564375605,172,29.0,0.1686046511627907,True
+DRIAMS-A,DRIAMS-B,Staphylococcus epidermidis,Tigecycline,4365,14.0,0.0032073310423825887,217,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Staphylococcus epidermidis,Vancomycin,4777,2.0,0.0004186728072011723,218,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Staphylococcus haemolyticus,Amoxicillin-Clavulanic acid,225,151.0,0.6711111111111111,27,20.0,0.7407407407407407,False
+DRIAMS-A,DRIAMS-B,Staphylococcus haemolyticus,Cefepime,225,151.0,0.6711111111111111,27,20.0,0.7407407407407407,False
+DRIAMS-A,DRIAMS-B,Staphylococcus haemolyticus,Ciprofloxacin,234,142.0,0.6068376068376068,27,19.0,0.7037037037037037,False
+DRIAMS-A,DRIAMS-B,Staphylococcus haemolyticus,Clindamycin,226,126.0,0.5575221238938053,23,16.0,0.6956521739130435,False
+DRIAMS-A,DRIAMS-B,Staphylococcus haemolyticus,Daptomycin,231,0.0,0.0,27,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Staphylococcus haemolyticus,Erythromycin,231,177.0,0.7662337662337663,23,21.0,0.9130434782608695,False
+DRIAMS-A,DRIAMS-B,Staphylococcus haemolyticus,Fusidic acid,230,55.0,0.2391304347826087,27,10.0,0.37037037037037035,False
+DRIAMS-A,DRIAMS-B,Staphylococcus haemolyticus,Gentamicin,217,132.0,0.6082949308755761,27,19.0,0.7037037037037037,False
+DRIAMS-A,DRIAMS-B,Staphylococcus haemolyticus,Linezolid,226,0.0,0.0,27,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Staphylococcus haemolyticus,Mupirocin,13,0.0,0.0,27,1.0,0.037037037037037035,False
+DRIAMS-A,DRIAMS-B,Staphylococcus haemolyticus,Oxacillin,229,156.0,0.6812227074235808,27,20.0,0.7407407407407407,False
+DRIAMS-A,DRIAMS-B,Staphylococcus haemolyticus,Rifampicin,231,18.0,0.07792207792207792,27,6.0,0.2222222222222222,False
+DRIAMS-A,DRIAMS-B,Staphylococcus haemolyticus,Teicoplanin,222,48.0,0.21621621621621623,32,1.0,0.03125,False
+DRIAMS-A,DRIAMS-B,Staphylococcus haemolyticus,Tetracycline,226,91.0,0.4026548672566372,26,10.0,0.38461538461538464,False
+DRIAMS-A,DRIAMS-B,Staphylococcus haemolyticus,Tigecycline,228,6.0,0.02631578947368421,27,1.0,0.037037037037037035,False
+DRIAMS-A,DRIAMS-B,Staphylococcus haemolyticus,Vancomycin,234,0.0,0.0,27,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Staphylococcus hominis,Amoxicillin-Clavulanic acid,668,223.0,0.3338323353293413,35,10.0,0.2857142857142857,False
+DRIAMS-A,DRIAMS-B,Staphylococcus hominis,Cefepime,668,223.0,0.3338323353293413,35,10.0,0.2857142857142857,False
+DRIAMS-A,DRIAMS-B,Staphylococcus hominis,Ciprofloxacin,700,91.0,0.13,38,1.0,0.02631578947368421,False
+DRIAMS-A,DRIAMS-B,Staphylococcus hominis,Clindamycin,685,194.0,0.2832116788321168,37,14.0,0.3783783783783784,False
+DRIAMS-A,DRIAMS-B,Staphylococcus hominis,Daptomycin,715,0.0,0.0,35,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Staphylococcus hominis,Erythromycin,685,387.0,0.564963503649635,37,18.0,0.4864864864864865,False
+DRIAMS-A,DRIAMS-B,Staphylococcus hominis,Fusidic acid,692,345.0,0.4985549132947977,38,16.0,0.42105263157894735,False
+DRIAMS-A,DRIAMS-B,Staphylococcus hominis,Gentamicin,683,66.0,0.09663250366032211,38,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Staphylococcus hominis,Linezolid,709,0.0,0.0,38,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Staphylococcus hominis,Mupirocin,11,0.0,0.0,38,4.0,0.10526315789473684,False
+DRIAMS-A,DRIAMS-B,Staphylococcus hominis,Oxacillin,685,225.0,0.3284671532846715,35,10.0,0.2857142857142857,False
+DRIAMS-A,DRIAMS-B,Staphylococcus hominis,Rifampicin,717,12.0,0.016736401673640166,38,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Staphylococcus hominis,Teicoplanin,73,5.0,0.0684931506849315,3,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Staphylococcus hominis,Tetracycline,670,228.0,0.3402985074626866,32,6.0,0.1875,False
+DRIAMS-A,DRIAMS-B,Staphylococcus hominis,Tigecycline,700,0.0,0.0,38,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Staphylococcus hominis,Vancomycin,717,0.0,0.0,38,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Staphylococcus lugdunensis,Amoxicillin-Clavulanic acid,298,9.0,0.030201342281879196,25,1.0,0.04,False
+DRIAMS-A,DRIAMS-B,Staphylococcus lugdunensis,Cefepime,298,9.0,0.030201342281879196,25,1.0,0.04,False
+DRIAMS-A,DRIAMS-B,Staphylococcus lugdunensis,Ciprofloxacin,311,8.0,0.02572347266881029,25,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Staphylococcus lugdunensis,Clindamycin,305,41.0,0.13442622950819672,24,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Staphylococcus lugdunensis,Daptomycin,311,0.0,0.0,25,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Staphylococcus lugdunensis,Erythromycin,298,33.0,0.11073825503355705,25,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Staphylococcus lugdunensis,Fusidic acid,311,8.0,0.02572347266881029,25,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Staphylococcus lugdunensis,Gentamicin,297,0.0,0.0,25,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Staphylococcus lugdunensis,Linezolid,297,0.0,0.0,25,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Staphylococcus lugdunensis,Mupirocin,2,0.0,0.0,25,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Staphylococcus lugdunensis,Oxacillin,313,9.0,0.02875399361022364,22,1.0,0.045454545454545456,False
+DRIAMS-A,DRIAMS-B,Staphylococcus lugdunensis,Rifampicin,311,0.0,0.0,25,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Staphylococcus lugdunensis,Teicoplanin,297,0.0,0.0,26,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Staphylococcus lugdunensis,Tetracycline,297,15.0,0.050505050505050504,25,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Staphylococcus lugdunensis,Tigecycline,298,0.0,0.0,25,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Staphylococcus lugdunensis,Vancomycin,311,0.0,0.0,25,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Staphylococcus pettenkoferi,Amoxicillin-Clavulanic acid,65,12.0,0.18461538461538463,2,2.0,1.0,False
+DRIAMS-A,DRIAMS-B,Staphylococcus pettenkoferi,Cefepime,65,12.0,0.18461538461538463,2,2.0,1.0,False
+DRIAMS-A,DRIAMS-B,Staphylococcus pettenkoferi,Ciprofloxacin,72,8.0,0.1111111111111111,2,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Staphylococcus pettenkoferi,Clindamycin,65,44.0,0.676923076923077,2,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Staphylococcus pettenkoferi,Daptomycin,72,14.0,0.19444444444444445,2,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Staphylococcus pettenkoferi,Erythromycin,65,12.0,0.18461538461538463,2,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Staphylococcus pettenkoferi,Fusidic acid,70,16.0,0.22857142857142856,2,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Staphylococcus pettenkoferi,Gentamicin,65,0.0,0.0,2,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Staphylococcus pettenkoferi,Linezolid,65,0.0,0.0,2,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Staphylococcus pettenkoferi,Oxacillin,69,12.0,0.17391304347826086,2,2.0,1.0,False
+DRIAMS-A,DRIAMS-B,Staphylococcus pettenkoferi,Rifampicin,72,0.0,0.0,2,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Staphylococcus pettenkoferi,Teicoplanin,62,0.0,0.0,2,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Staphylococcus pettenkoferi,Tetracycline,65,6.0,0.09230769230769231,2,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Staphylococcus pettenkoferi,Tigecycline,65,0.0,0.0,2,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Staphylococcus pettenkoferi,Vancomycin,72,0.0,0.0,2,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Staphylococcus saccharolyticus,Amoxicillin-Clavulanic acid,7,0.0,0.0,2,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Staphylococcus saccharolyticus,Clindamycin,4,0.0,0.0,2,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Staphylococcus saccharolyticus,Imipenem,1,0.0,0.0,2,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Staphylococcus saccharolyticus,Metronidazole,3,3.0,1.0,2,2.0,1.0,False
+DRIAMS-A,DRIAMS-B,Staphylococcus saccharolyticus,Vancomycin,6,0.0,0.0,2,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Staphylococcus saprophyticus,Amoxicillin-Clavulanic acid,128,5.0,0.0390625,8,1.0,0.125,False
+DRIAMS-A,DRIAMS-B,Staphylococcus saprophyticus,Cefepime,128,5.0,0.0390625,8,1.0,0.125,False
+DRIAMS-A,DRIAMS-B,Staphylococcus saprophyticus,Ciprofloxacin,134,0.0,0.0,9,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Staphylococcus saprophyticus,Clindamycin,129,16.0,0.12403100775193798,9,1.0,0.1111111111111111,False
+DRIAMS-A,DRIAMS-B,Staphylococcus saprophyticus,Daptomycin,134,0.0,0.0,9,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Staphylococcus saprophyticus,Erythromycin,130,56.0,0.4307692307692308,9,3.0,0.3333333333333333,False
+DRIAMS-A,DRIAMS-B,Staphylococcus saprophyticus,Fusidic acid,134,130.0,0.9701492537313433,9,9.0,1.0,False
+DRIAMS-A,DRIAMS-B,Staphylococcus saprophyticus,Gentamicin,131,0.0,0.0,9,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Staphylococcus saprophyticus,Linezolid,130,0.0,0.0,9,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Staphylococcus saprophyticus,Mupirocin,3,0.0,0.0,9,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Staphylococcus saprophyticus,Oxacillin,131,6.0,0.04580152671755725,8,1.0,0.125,False
+DRIAMS-A,DRIAMS-B,Staphylococcus saprophyticus,Rifampicin,134,0.0,0.0,9,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Staphylococcus saprophyticus,Teicoplanin,131,0.0,0.0,9,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Staphylococcus saprophyticus,Tetracycline,131,8.0,0.061068702290076333,9,1.0,0.1111111111111111,False
+DRIAMS-A,DRIAMS-B,Staphylococcus saprophyticus,Tigecycline,131,0.0,0.0,9,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Staphylococcus saprophyticus,Vancomycin,134,0.0,0.0,9,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Staphylococcus schleiferi,Amoxicillin-Clavulanic acid,15,0.0,0.0,3,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Staphylococcus schleiferi,Cefepime,15,0.0,0.0,3,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Staphylococcus schleiferi,Ciprofloxacin,19,1.0,0.05263157894736842,3,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Staphylococcus schleiferi,Clindamycin,15,1.0,0.06666666666666667,3,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Staphylococcus schleiferi,Daptomycin,19,0.0,0.0,3,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Staphylococcus schleiferi,Erythromycin,15,0.0,0.0,3,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Staphylococcus schleiferi,Fusidic acid,19,0.0,0.0,3,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Staphylococcus schleiferi,Gentamicin,15,0.0,0.0,3,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Staphylococcus schleiferi,Linezolid,15,0.0,0.0,3,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Staphylococcus schleiferi,Oxacillin,19,0.0,0.0,3,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Staphylococcus schleiferi,Rifampicin,19,0.0,0.0,3,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Staphylococcus schleiferi,Teicoplanin,15,0.0,0.0,3,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Staphylococcus schleiferi,Tetracycline,15,0.0,0.0,3,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Staphylococcus schleiferi,Tigecycline,15,0.0,0.0,3,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Staphylococcus schleiferi,Vancomycin,19,0.0,0.0,3,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Staphylococcus simulans,Amoxicillin-Clavulanic acid,30,1.0,0.03333333333333333,12,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Staphylococcus simulans,Cefepime,30,1.0,0.03333333333333333,12,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Staphylococcus simulans,Ciprofloxacin,31,0.0,0.0,12,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Staphylococcus simulans,Clindamycin,31,9.0,0.2903225806451613,12,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Staphylococcus simulans,Daptomycin,31,0.0,0.0,12,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Staphylococcus simulans,Erythromycin,30,9.0,0.3,12,9.0,0.75,False
+DRIAMS-A,DRIAMS-B,Staphylococcus simulans,Fusidic acid,30,0.0,0.0,12,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Staphylococcus simulans,Gentamicin,30,0.0,0.0,12,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Staphylococcus simulans,Linezolid,30,0.0,0.0,12,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Staphylococcus simulans,Oxacillin,31,1.0,0.03225806451612903,12,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Staphylococcus simulans,Rifampicin,30,0.0,0.0,12,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Staphylococcus simulans,Teicoplanin,29,0.0,0.0,5,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Staphylococcus simulans,Tetracycline,30,0.0,0.0,12,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Staphylococcus simulans,Tigecycline,30,0.0,0.0,12,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Staphylococcus simulans,Vancomycin,31,0.0,0.0,12,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Staphylococcus warneri,Amoxicillin-Clavulanic acid,88,6.0,0.06818181818181818,4,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Staphylococcus warneri,Cefepime,88,6.0,0.06818181818181818,4,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Staphylococcus warneri,Ciprofloxacin,88,0.0,0.0,4,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Staphylococcus warneri,Clindamycin,86,7.0,0.08139534883720931,4,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Staphylococcus warneri,Daptomycin,88,4.0,0.045454545454545456,4,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Staphylococcus warneri,Erythromycin,88,30.0,0.3409090909090909,4,1.0,0.25,False
+DRIAMS-A,DRIAMS-B,Staphylococcus warneri,Fusidic acid,88,12.0,0.13636363636363635,4,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Staphylococcus warneri,Gentamicin,88,2.0,0.022727272727272728,4,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Staphylococcus warneri,Linezolid,88,0.0,0.0,4,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Staphylococcus warneri,Mupirocin,2,0.0,0.0,4,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Staphylococcus warneri,Oxacillin,88,6.0,0.06818181818181818,4,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Staphylococcus warneri,Rifampicin,88,0.0,0.0,4,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Staphylococcus warneri,Teicoplanin,87,18.0,0.20689655172413793,5,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Staphylococcus warneri,Tetracycline,88,6.0,0.06818181818181818,4,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Staphylococcus warneri,Tigecycline,88,0.0,0.0,4,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Staphylococcus warneri,Vancomycin,88,0.0,0.0,4,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Staphylococcus xylosus,Amoxicillin-Clavulanic acid,18,0.0,0.0,2,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Staphylococcus xylosus,Cefepime,18,0.0,0.0,2,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Staphylococcus xylosus,Ciprofloxacin,18,1.0,0.05555555555555555,2,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Staphylococcus xylosus,Clindamycin,18,7.0,0.3888888888888889,1,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Staphylococcus xylosus,Daptomycin,18,0.0,0.0,2,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Staphylococcus xylosus,Erythromycin,18,1.0,0.05555555555555555,2,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Staphylococcus xylosus,Fusidic acid,18,18.0,1.0,2,2.0,1.0,False
+DRIAMS-A,DRIAMS-B,Staphylococcus xylosus,Gentamicin,18,0.0,0.0,2,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Staphylococcus xylosus,Linezolid,18,0.0,0.0,2,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Staphylococcus xylosus,Oxacillin,18,0.0,0.0,2,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Staphylococcus xylosus,Rifampicin,18,0.0,0.0,2,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Staphylococcus xylosus,Teicoplanin,18,0.0,0.0,2,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Staphylococcus xylosus,Tetracycline,18,2.0,0.1111111111111111,2,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Staphylococcus xylosus,Tigecycline,18,0.0,0.0,2,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Staphylococcus xylosus,Vancomycin,18,0.0,0.0,2,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Streptococcus agalactiae,Ceftriaxone,1,0.0,0.0,79,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Streptococcus agalactiae,Clarithromycin,7,2.0,0.2857142857142857,79,19.0,0.24050632911392406,False
+DRIAMS-A,DRIAMS-B,Streptococcus agalactiae,Clindamycin,156,51.0,0.3269230769230769,79,14.0,0.17721518987341772,False
+DRIAMS-A,DRIAMS-B,Streptococcus agalactiae,Levofloxacin,138,44.0,0.3188405797101449,76,6.0,0.07894736842105263,False
+DRIAMS-A,DRIAMS-B,Streptococcus agalactiae,Rifampicin,1,1.0,1.0,1,1.0,1.0,False
+DRIAMS-A,DRIAMS-B,Streptococcus agalactiae,Vancomycin,2,0.0,0.0,79,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Streptococcus anginosus,Ceftriaxone,13,0.0,0.0,22,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Streptococcus anginosus,Clarithromycin,7,2.0,0.2857142857142857,11,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Streptococcus anginosus,Clindamycin,27,11.0,0.4074074074074074,22,2.0,0.09090909090909091,False
+DRIAMS-A,DRIAMS-B,Streptococcus anginosus,Erythromycin,1,1.0,1.0,2,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Streptococcus anginosus,Levofloxacin,15,0.0,0.0,2,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Streptococcus anginosus,Vancomycin,110,0.0,0.0,20,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Streptococcus canis,Clindamycin,14,1.0,0.07142857142857142,6,2.0,0.3333333333333333,False
+DRIAMS-A,DRIAMS-B,Streptococcus canis,Levofloxacin,14,1.0,0.07142857142857142,6,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Streptococcus constellatus,Ceftriaxone,9,1.0,0.1111111111111111,6,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Streptococcus constellatus,Clarithromycin,5,1.0,0.2,2,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Streptococcus constellatus,Clindamycin,22,8.0,0.36363636363636365,6,1.0,0.16666666666666666,False
+DRIAMS-A,DRIAMS-B,Streptococcus constellatus,Vancomycin,68,0.0,0.0,5,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Streptococcus cristatus,Vancomycin,19,0.0,0.0,2,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Streptococcus dysgalactiae,Clarithromycin,7,0.0,0.0,27,6.0,0.2222222222222222,False
+DRIAMS-A,DRIAMS-B,Streptococcus dysgalactiae,Clindamycin,133,15.0,0.11278195488721804,27,6.0,0.2222222222222222,False
+DRIAMS-A,DRIAMS-B,Streptococcus dysgalactiae,Levofloxacin,138,6.0,0.043478260869565216,27,1.0,0.037037037037037035,False
+DRIAMS-A,DRIAMS-B,Streptococcus dysgalactiae,Rifampicin,1,0.0,0.0,3,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Streptococcus dysgalactiae,Vancomycin,2,0.0,0.0,24,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Streptococcus equinus,Ceftriaxone,1,0.0,0.0,1,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Streptococcus equinus,Clindamycin,1,0.0,0.0,1,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Streptococcus equinus,Vancomycin,4,0.0,0.0,1,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Streptococcus gallolyticus,Ceftriaxone,15,0.0,0.0,6,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Streptococcus gallolyticus,Clindamycin,14,3.0,0.21428571428571427,6,2.0,0.3333333333333333,False
+DRIAMS-A,DRIAMS-B,Streptococcus gallolyticus,Vancomycin,32,0.0,0.0,6,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Streptococcus gordonii,Ceftriaxone,17,0.0,0.0,4,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Streptococcus gordonii,Clindamycin,17,1.0,0.058823529411764705,4,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Streptococcus gordonii,Vancomycin,44,0.0,0.0,4,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Streptococcus intermedius,Ceftriaxone,5,0.0,0.0,4,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Streptococcus intermedius,Clindamycin,25,5.0,0.2,4,2.0,0.5,False
+DRIAMS-A,DRIAMS-B,Streptococcus intermedius,Vancomycin,69,0.0,0.0,4,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Streptococcus massiliensis,Vancomycin,4,0.0,0.0,6,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Streptococcus mitis,Ceftriaxone,40,14.0,0.35,4,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Streptococcus mitis,Clarithromycin,6,2.0,0.3333333333333333,3,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Streptococcus mitis,Clindamycin,37,7.0,0.1891891891891892,3,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Streptococcus mitis,Levofloxacin,13,0.0,0.0,1,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Streptococcus mitis,Vancomycin,132,0.0,0.0,3,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Streptococcus mutans,Ceftriaxone,1,0.0,0.0,4,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Streptococcus mutans,Clindamycin,1,0.0,0.0,4,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Streptococcus mutans,Vancomycin,1,0.0,0.0,4,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Streptococcus oralis,Amoxicillin-Clavulanic acid,1,1.0,1.0,1,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Streptococcus oralis,Ceftriaxone,54,19.0,0.35185185185185186,17,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Streptococcus oralis,Clarithromycin,4,0.0,0.0,2,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Streptococcus oralis,Clindamycin,77,34.0,0.44155844155844154,17,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Streptococcus oralis,Gentamicin,5,0.0,0.0,2,2.0,1.0,False
+DRIAMS-A,DRIAMS-B,Streptococcus oralis,Levofloxacin,32,4.0,0.125,1,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Streptococcus oralis,Vancomycin,214,0.0,0.0,17,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Streptococcus parasanguinis,Ceftriaxone,52,26.0,0.5,2,1.0,0.5,False
+DRIAMS-A,DRIAMS-B,Streptococcus parasanguinis,Clindamycin,60,2.0,0.03333333333333333,2,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Streptococcus parasanguinis,Vancomycin,93,0.0,0.0,2,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Streptococcus pneumoniae,Ceftriaxone,66,10.0,0.15151515151515152,23,1.0,0.043478260869565216,False
+DRIAMS-A,DRIAMS-B,Streptococcus pneumoniae,Clarithromycin,255,44.0,0.17254901960784313,23,2.0,0.08695652173913043,False
+DRIAMS-A,DRIAMS-B,Streptococcus pneumoniae,Clindamycin,10,0.0,0.0,18,2.0,0.1111111111111111,False
+DRIAMS-A,DRIAMS-B,Streptococcus pneumoniae,Levofloxacin,214,0.0,0.0,22,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Streptococcus pneumoniae,Vancomycin,33,0.0,0.0,18,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Streptococcus pseudopneumoniae,Ceftriaxone,5,1.0,0.2,2,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Streptococcus pseudopneumoniae,Clarithromycin,7,3.0,0.42857142857142855,2,2.0,1.0,False
+DRIAMS-A,DRIAMS-B,Streptococcus pseudopneumoniae,Clindamycin,2,0.0,0.0,2,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Streptococcus pseudopneumoniae,Levofloxacin,6,0.0,0.0,2,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Streptococcus pseudopneumoniae,Vancomycin,9,0.0,0.0,2,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Streptococcus pyogenes,Amoxicillin-Clavulanic acid,1,0.0,0.0,49,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Streptococcus pyogenes,Clarithromycin,3,1.0,0.3333333333333333,49,5.0,0.10204081632653061,False
+DRIAMS-A,DRIAMS-B,Streptococcus pyogenes,Clindamycin,162,14.0,0.08641975308641975,49,4.0,0.08163265306122448,False
+DRIAMS-A,DRIAMS-B,Streptococcus pyogenes,Levofloxacin,161,4.0,0.024844720496894408,48,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Streptococcus vestibularis,Ceftriaxone,14,0.0,0.0,1,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Streptococcus vestibularis,Clarithromycin,2,0.0,0.0,1,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Streptococcus vestibularis,Clindamycin,15,14.0,0.9333333333333333,1,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Streptococcus vestibularis,Levofloxacin,2,0.0,0.0,1,0.0,0.0,False
+DRIAMS-A,DRIAMS-B,Streptococcus vestibularis,Vancomycin,33,0.0,0.0,1,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Achromobacter xylosoxidans,Amikacin,6,4.0,0.6666666666666666,5,4.0,0.8,False
+DRIAMS-A,DRIAMS-C,Achromobacter xylosoxidans,Cefepime,110,108.0,0.9818181818181818,5,5.0,1.0,False
+DRIAMS-A,DRIAMS-C,Achromobacter xylosoxidans,Ceftazidime,5,0.0,0.0,5,3.0,0.6,False
+DRIAMS-A,DRIAMS-C,Achromobacter xylosoxidans,Ceftriaxone,2,2.0,1.0,5,5.0,1.0,False
+DRIAMS-A,DRIAMS-C,Achromobacter xylosoxidans,Ciprofloxacin,112,103.0,0.9196428571428571,5,4.0,0.8,False
+DRIAMS-A,DRIAMS-C,Achromobacter xylosoxidans,Cotrimoxazole,114,16.0,0.14035087719298245,5,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Achromobacter xylosoxidans,Imipenem,6,0.0,0.0,5,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Achromobacter xylosoxidans,Piperacillin-Tazobactam,114,6.0,0.05263157894736842,5,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Acinetobacter baumannii,Amikacin,38,10.0,0.2631578947368421,2,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Acinetobacter baumannii,Ceftazidime,38,15.0,0.39473684210526316,5,3.0,0.6,False
+DRIAMS-A,DRIAMS-C,Acinetobacter baumannii,Ceftriaxone,38,38.0,1.0,5,5.0,1.0,False
+DRIAMS-A,DRIAMS-C,Acinetobacter baumannii,Ciprofloxacin,38,16.0,0.42105263157894735,5,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Acinetobacter baumannii,Cotrimoxazole,37,13.0,0.35135135135135137,5,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Acinetobacter baumannii,Fosfomycin,3,3.0,1.0,5,5.0,1.0,False
+DRIAMS-A,DRIAMS-C,Acinetobacter baumannii,Imipenem,36,11.0,0.3055555555555556,2,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Acinetobacter baumannii,Piperacillin-Tazobactam,38,15.0,0.39473684210526316,2,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Acinetobacter johnsonii,Cefepime,4,2.0,0.5,1,1.0,1.0,False
+DRIAMS-A,DRIAMS-C,Acinetobacter johnsonii,Ceftazidime,4,0.0,0.0,1,1.0,1.0,False
+DRIAMS-A,DRIAMS-C,Acinetobacter johnsonii,Ciprofloxacin,7,0.0,0.0,1,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Acinetobacter johnsonii,Cotrimoxazole,7,0.0,0.0,1,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Acinetobacter johnsonii,Piperacillin-Tazobactam,4,0.0,0.0,1,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Acinetobacter junii,Amikacin,6,0.0,0.0,2,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Acinetobacter junii,Cefepime,13,0.0,0.0,2,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Acinetobacter junii,Ceftazidime,11,0.0,0.0,2,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Acinetobacter junii,Ceftriaxone,6,0.0,0.0,2,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Acinetobacter junii,Ciprofloxacin,26,0.0,0.0,2,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Acinetobacter junii,Cotrimoxazole,26,4.0,0.15384615384615385,2,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Acinetobacter junii,Imipenem,5,0.0,0.0,2,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Acinetobacter junii,Piperacillin-Tazobactam,10,0.0,0.0,2,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Acinetobacter lwoffii,Cefepime,2,0.0,0.0,2,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Acinetobacter lwoffii,Ceftazidime,2,0.0,0.0,2,1.0,0.5,False
+DRIAMS-A,DRIAMS-C,Acinetobacter lwoffii,Ciprofloxacin,2,0.0,0.0,2,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Acinetobacter lwoffii,Cotrimoxazole,2,0.0,0.0,2,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Acinetobacter lwoffii,Piperacillin-Tazobactam,2,0.0,0.0,2,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Acinetobacter ursingii,Amikacin,3,0.0,0.0,9,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Acinetobacter ursingii,Cefepime,7,2.0,0.2857142857142857,9,3.0,0.3333333333333333,False
+DRIAMS-A,DRIAMS-C,Acinetobacter ursingii,Ceftazidime,5,4.0,0.8,9,7.0,0.7777777777777778,False
+DRIAMS-A,DRIAMS-C,Acinetobacter ursingii,Ceftriaxone,3,3.0,1.0,9,6.0,0.6666666666666666,False
+DRIAMS-A,DRIAMS-C,Acinetobacter ursingii,Ciprofloxacin,24,0.0,0.0,9,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Acinetobacter ursingii,Cotrimoxazole,24,11.0,0.4583333333333333,9,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Acinetobacter ursingii,Imipenem,3,0.0,0.0,9,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Acinetobacter ursingii,Piperacillin-Tazobactam,14,3.0,0.21428571428571427,9,2.0,0.2222222222222222,False
+DRIAMS-A,DRIAMS-C,Actinomyces meyeri,Ceftriaxone,2,0.0,0.0,2,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Actinomyces meyeri,Penicillin,3,0.0,0.0,2,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Actinomyces neuii,Amoxicillin-Clavulanic acid,29,0.0,0.0,3,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Actinomyces neuii,Clindamycin,34,2.0,0.058823529411764705,3,1.0,0.3333333333333333,False
+DRIAMS-A,DRIAMS-C,Actinomyces neuii,Doxycycline,1,0.0,0.0,3,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Actinomyces neuii,Moxifloxacin,5,0.0,0.0,3,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Actinomyces neuii,Penicillin,3,0.0,0.0,3,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Actinomyces odontolyticus,Amoxicillin-Clavulanic acid,36,0.0,0.0,8,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Actinomyces odontolyticus,Ceftriaxone,2,0.0,0.0,2,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Actinomyces odontolyticus,Clindamycin,39,5.0,0.1282051282051282,6,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Actinomyces odontolyticus,Cotrimoxazole,1,1.0,1.0,5,2.0,0.4,False
+DRIAMS-A,DRIAMS-C,Actinomyces odontolyticus,Moxifloxacin,5,0.0,0.0,3,2.0,0.6666666666666666,False
+DRIAMS-A,DRIAMS-C,Actinomyces odontolyticus,Penicillin,3,0.0,0.0,6,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Actinomyces turicensis,Amoxicillin-Clavulanic acid,7,0.0,0.0,5,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Actinomyces turicensis,Clindamycin,12,0.0,0.0,5,1.0,0.2,False
+DRIAMS-A,DRIAMS-C,Actinomyces turicensis,Penicillin,1,0.0,0.0,5,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Aerococcus urinae,Amoxicillin-Clavulanic acid,1,0.0,0.0,21,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Aerococcus urinae,Ceftriaxone,15,0.0,0.0,2,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Aerococcus urinae,Ciprofloxacin,4,2.0,0.5,15,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Aerococcus urinae,Meropenem,5,0.0,0.0,4,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Aerococcus urinae,Penicillin,24,0.0,0.0,6,1.0,0.16666666666666666,False
+DRIAMS-A,DRIAMS-C,Aerococcus urinae,Vancomycin,4,0.0,0.0,6,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Aerococcus viridans,Penicillin,6,2.0,0.3333333333333333,1,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Aerococcus viridans,Vancomycin,2,0.0,0.0,1,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Aeromonas caviae,Amoxicillin-Clavulanic acid,2,2.0,1.0,2,1.0,0.5,False
+DRIAMS-A,DRIAMS-C,Aeromonas caviae,Cefepime,2,0.0,0.0,2,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Aeromonas caviae,Ceftazidime,1,0.0,0.0,2,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Aeromonas caviae,Ceftriaxone,3,1.0,0.3333333333333333,2,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Aeromonas caviae,Ciprofloxacin,3,0.0,0.0,2,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Aeromonas caviae,Cotrimoxazole,3,1.0,0.3333333333333333,2,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Aeromonas caviae,Imipenem,2,1.0,0.5,2,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Aeromonas caviae,Piperacillin-Tazobactam,2,1.0,0.5,2,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Aeromonas hydrophila,Cefepime,2,0.0,0.0,1,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Aeromonas hydrophila,Ceftazidime,2,0.0,0.0,1,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Aeromonas hydrophila,Ceftriaxone,2,1.0,0.5,1,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Aeromonas hydrophila,Ciprofloxacin,2,0.0,0.0,1,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Aeromonas hydrophila,Cotrimoxazole,2,0.0,0.0,1,1.0,1.0,False
+DRIAMS-A,DRIAMS-C,Aeromonas hydrophila,Piperacillin-Tazobactam,2,1.0,0.5,1,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Alcaligenes faecalis,Cefepime,7,4.0,0.5714285714285714,6,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Alcaligenes faecalis,Ciprofloxacin,7,3.0,0.42857142857142855,6,6.0,1.0,False
+DRIAMS-A,DRIAMS-C,Alcaligenes faecalis,Cotrimoxazole,7,0.0,0.0,6,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Alcaligenes faecalis,Piperacillin-Tazobactam,7,0.0,0.0,6,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Anaerococcus vaginalis,Amoxicillin-Clavulanic acid,6,0.0,0.0,1,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Anaerococcus vaginalis,Clindamycin,12,3.0,0.25,1,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Anaerococcus vaginalis,Penicillin,7,0.0,0.0,1,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Arthrobacter cumminsii,Ciprofloxacin,2,0.0,0.0,3,1.0,0.3333333333333333,False
+DRIAMS-A,DRIAMS-C,Arthrobacter cumminsii,Gentamicin,2,0.0,0.0,4,3.0,0.75,False
+DRIAMS-A,DRIAMS-C,Arthrobacter cumminsii,Penicillin,2,0.0,0.0,6,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Arthrobacter cumminsii,Vancomycin,2,0.0,0.0,6,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Bacillus cereus,Amoxicillin-Clavulanic acid,1,1.0,1.0,3,3.0,1.0,False
+DRIAMS-A,DRIAMS-C,Bacillus cereus,Ciprofloxacin,1,0.0,0.0,2,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Bacillus cereus,Clindamycin,47,24.0,0.5106382978723404,3,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Bacillus cereus,Penicillin,47,47.0,1.0,3,3.0,1.0,False
+DRIAMS-A,DRIAMS-C,Bacillus cereus,Vancomycin,48,1.0,0.020833333333333332,3,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Bacillus subtilis,Clindamycin,2,1.0,0.5,1,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Bacillus subtilis,Penicillin,2,0.0,0.0,1,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Bacillus subtilis,Vancomycin,2,0.0,0.0,1,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Bacteroides fragilis,Amoxicillin-Clavulanic acid,35,6.0,0.17142857142857143,26,1.0,0.038461538461538464,False
+DRIAMS-A,DRIAMS-C,Bacteroides fragilis,Clindamycin,7,3.0,0.42857142857142855,26,6.0,0.23076923076923078,False
+DRIAMS-A,DRIAMS-C,Bacteroides fragilis,Metronidazole,37,0.0,0.0,27,1.0,0.037037037037037035,False
+DRIAMS-A,DRIAMS-C,Bacteroides fragilis,Penicillin,12,12.0,1.0,26,26.0,1.0,False
+DRIAMS-A,DRIAMS-C,Bacteroides fragilis,Piperacillin-Tazobactam,27,2.0,0.07407407407407407,1,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Bacteroides ovatus,Amoxicillin-Clavulanic acid,4,0.0,0.0,4,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Bacteroides ovatus,Clindamycin,3,3.0,1.0,4,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Bacteroides ovatus,Metronidazole,5,0.0,0.0,4,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Bacteroides ovatus,Penicillin,1,1.0,1.0,4,4.0,1.0,False
+DRIAMS-A,DRIAMS-C,Bacteroides thetaiotaomicron,Amoxicillin-Clavulanic acid,2,0.0,0.0,5,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Bacteroides thetaiotaomicron,Clindamycin,3,3.0,1.0,5,1.0,0.2,False
+DRIAMS-A,DRIAMS-C,Bacteroides thetaiotaomicron,Metronidazole,3,0.0,0.0,5,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Bacteroides uniformis,Amoxicillin-Clavulanic acid,4,0.0,0.0,3,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Bacteroides uniformis,Metronidazole,4,0.0,0.0,3,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Bacteroides uniformis,Penicillin,2,2.0,1.0,3,3.0,1.0,False
+DRIAMS-A,DRIAMS-C,Bacteroides vulgatus,Amoxicillin-Clavulanic acid,7,0.0,0.0,5,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Bacteroides vulgatus,Metronidazole,7,0.0,0.0,5,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Bacteroides vulgatus,Penicillin,5,5.0,1.0,5,5.0,1.0,False
+DRIAMS-A,DRIAMS-C,Brevibacterium casei,Ciprofloxacin,1,0.0,0.0,2,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Brevibacterium casei,Gentamicin,1,0.0,0.0,2,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Brevibacterium casei,Penicillin,1,1.0,1.0,2,2.0,1.0,False
+DRIAMS-A,DRIAMS-C,Brevibacterium casei,Vancomycin,1,0.0,0.0,2,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Burkholderia gladioli,Cefepime,3,3.0,1.0,1,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Burkholderia gladioli,Ciprofloxacin,4,0.0,0.0,1,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Burkholderia gladioli,Cotrimoxazole,4,0.0,0.0,1,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Burkholderia gladioli,Imipenem,1,0.0,0.0,1,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Burkholderia gladioli,Piperacillin-Tazobactam,4,0.0,0.0,1,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Campylobacter jejuni,Ciprofloxacin,299,159.0,0.5317725752508361,52,27.0,0.5192307692307693,False
+DRIAMS-A,DRIAMS-C,Campylobacter jejuni,Erythromycin,299,9.0,0.030100334448160536,52,1.0,0.019230769230769232,False
+DRIAMS-A,DRIAMS-C,Campylobacter jejuni,Gentamicin,2,0.0,0.0,1,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Campylobacter jejuni,Tetracycline,8,7.0,0.875,52,23.0,0.4423076923076923,False
+DRIAMS-A,DRIAMS-C,Candida albicans,5-Fluorocytosine,292,4.0,0.0136986301369863,6,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Candida albicans,Amphotericin B,290,0.0,0.0,6,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Candida albicans,Caspofungin,292,17.0,0.05821917808219178,6,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Candida albicans,Fluconazole,283,12.0,0.04240282685512368,6,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Candida albicans,Voriconazole,286,9.0,0.03146853146853147,6,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Candida glabrata,5-Fluorocytosine,174,0.0,0.0,2,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Candida glabrata,Amphotericin B,176,0.0,0.0,2,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Candida glabrata,Caspofungin,171,6.0,0.03508771929824561,2,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Candida glabrata,Fluconazole,174,174.0,1.0,2,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Candida glabrata,Voriconazole,4,0.0,0.0,2,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Candida parapsilosis,5-Fluorocytosine,65,0.0,0.0,3,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Candida parapsilosis,Amphotericin B,65,0.0,0.0,3,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Candida parapsilosis,Caspofungin,65,9.0,0.13846153846153847,3,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Candida parapsilosis,Fluconazole,65,7.0,0.1076923076923077,3,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Candida parapsilosis,Voriconazole,65,0.0,0.0,3,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Candida tropicalis,5-Fluorocytosine,50,7.0,0.14,2,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Candida tropicalis,Amphotericin B,50,0.0,0.0,2,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Candida tropicalis,Caspofungin,50,0.0,0.0,2,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Candida tropicalis,Fluconazole,49,27.0,0.5510204081632653,2,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Candida tropicalis,Voriconazole,43,17.0,0.3953488372093023,2,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Capnocytophaga sputigena,Ceftriaxone,11,1.0,0.09090909090909091,3,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Capnocytophaga sputigena,Meropenem,2,0.0,0.0,3,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Citrobacter amalonaticus,Amikacin,13,0.0,0.0,5,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Citrobacter amalonaticus,Amoxicillin-Clavulanic acid,13,0.0,0.0,5,5.0,1.0,False
+DRIAMS-A,DRIAMS-C,Citrobacter amalonaticus,Cefepime,13,0.0,0.0,5,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Citrobacter amalonaticus,Ceftazidime,13,0.0,0.0,5,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Citrobacter amalonaticus,Ceftriaxone,13,0.0,0.0,5,2.0,0.4,False
+DRIAMS-A,DRIAMS-C,Citrobacter amalonaticus,Ciprofloxacin,13,1.0,0.07692307692307693,5,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Citrobacter amalonaticus,Cotrimoxazole,13,1.0,0.07692307692307693,5,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Citrobacter amalonaticus,Imipenem,13,0.0,0.0,5,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Citrobacter amalonaticus,Norfloxacin,9,1.0,0.1111111111111111,2,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Citrobacter amalonaticus,Piperacillin-Tazobactam,13,0.0,0.0,5,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Citrobacter braakii,Amikacin,49,0.0,0.0,1,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Citrobacter braakii,Amoxicillin-Clavulanic acid,47,47.0,1.0,3,2.0,0.6666666666666666,False
+DRIAMS-A,DRIAMS-C,Citrobacter braakii,Cefepime,49,1.0,0.02040816326530612,1,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Citrobacter braakii,Ceftazidime,49,7.0,0.14285714285714285,3,1.0,0.3333333333333333,False
+DRIAMS-A,DRIAMS-C,Citrobacter braakii,Ceftriaxone,49,7.0,0.14285714285714285,3,1.0,0.3333333333333333,False
+DRIAMS-A,DRIAMS-C,Citrobacter braakii,Ciprofloxacin,49,3.0,0.061224489795918366,3,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Citrobacter braakii,Cotrimoxazole,49,5.0,0.10204081632653061,3,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Citrobacter braakii,Imipenem,49,0.0,0.0,1,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Citrobacter braakii,Norfloxacin,18,2.0,0.1111111111111111,2,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Citrobacter braakii,Piperacillin-Tazobactam,49,7.0,0.14285714285714285,1,1.0,1.0,False
+DRIAMS-A,DRIAMS-C,Citrobacter freundii,Amikacin,395,24.0,0.060759493670886074,37,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Citrobacter freundii,Amoxicillin-Clavulanic acid,392,391.0,0.9974489795918368,57,57.0,1.0,False
+DRIAMS-A,DRIAMS-C,Citrobacter freundii,Cefepime,407,11.0,0.02702702702702703,34,2.0,0.058823529411764705,False
+DRIAMS-A,DRIAMS-C,Citrobacter freundii,Ceftazidime,390,122.0,0.3128205128205128,57,17.0,0.2982456140350877,False
+DRIAMS-A,DRIAMS-C,Citrobacter freundii,Ceftriaxone,404,133.0,0.3292079207920792,57,17.0,0.2982456140350877,False
+DRIAMS-A,DRIAMS-C,Citrobacter freundii,Ciprofloxacin,407,17.0,0.04176904176904177,57,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Citrobacter freundii,Cotrimoxazole,406,30.0,0.07389162561576355,57,1.0,0.017543859649122806,False
+DRIAMS-A,DRIAMS-C,Citrobacter freundii,Ertapenem,407,2.0,0.004914004914004914,3,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Citrobacter freundii,Fosfomycin,2,0.0,0.0,28,2.0,0.07142857142857142,False
+DRIAMS-A,DRIAMS-C,Citrobacter freundii,Imipenem,395,4.0,0.010126582278481013,37,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Citrobacter freundii,Nitrofurantoin,11,0.0,0.0,28,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Citrobacter freundii,Norfloxacin,197,11.0,0.05583756345177665,28,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Citrobacter freundii,Piperacillin-Tazobactam,390,121.0,0.31025641025641026,37,9.0,0.24324324324324326,False
+DRIAMS-A,DRIAMS-C,Citrobacter koseri,Amikacin,469,3.0,0.006396588486140725,67,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Citrobacter koseri,Amoxicillin-Clavulanic acid,458,16.0,0.034934497816593885,119,8.0,0.06722689075630252,False
+DRIAMS-A,DRIAMS-C,Citrobacter koseri,Cefepime,469,8.0,0.017057569296375266,67,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Citrobacter koseri,Ceftazidime,469,8.0,0.017057569296375266,119,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Citrobacter koseri,Ceftriaxone,469,8.0,0.017057569296375266,119,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Citrobacter koseri,Ciprofloxacin,469,8.0,0.017057569296375266,119,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Citrobacter koseri,Cotrimoxazole,467,13.0,0.027837259100642397,119,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Citrobacter koseri,Imipenem,469,0.0,0.0,67,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Citrobacter koseri,Nitrofurantoin,2,0.0,0.0,54,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Citrobacter koseri,Norfloxacin,281,5.0,0.017793594306049824,54,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Citrobacter koseri,Piperacillin-Tazobactam,452,12.0,0.02654867256637168,67,6.0,0.08955223880597014,False
+DRIAMS-A,DRIAMS-C,Clostridium innocuum,Clindamycin,3,0.0,0.0,1,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Clostridium innocuum,Metronidazole,3,0.0,0.0,1,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Clostridium innocuum,Penicillin,3,3.0,1.0,1,1.0,1.0,False
+DRIAMS-A,DRIAMS-C,Corynebacterium amycolatum,Amoxicillin-Clavulanic acid,5,0.0,0.0,1,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Corynebacterium amycolatum,Clindamycin,4,4.0,1.0,1,1.0,1.0,False
+DRIAMS-A,DRIAMS-C,Corynebacterium amycolatum,Cotrimoxazole,1,1.0,1.0,1,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Corynebacterium amycolatum,Doxycycline,4,0.0,0.0,1,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Corynebacterium amycolatum,Gentamicin,51,18.0,0.35294117647058826,1,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Corynebacterium amycolatum,Moxifloxacin,3,3.0,1.0,1,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Corynebacterium amycolatum,Penicillin,56,46.0,0.8214285714285714,1,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Corynebacterium amycolatum,Vancomycin,56,0.0,0.0,1,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Corynebacterium diphtheriae,Ciprofloxacin,3,0.0,0.0,1,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Corynebacterium diphtheriae,Gentamicin,3,0.0,0.0,1,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Corynebacterium diphtheriae,Penicillin,3,3.0,1.0,1,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Corynebacterium diphtheriae,Vancomycin,3,0.0,0.0,1,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Corynebacterium pseudodiphtheriticum,Clindamycin,1,1.0,1.0,2,2.0,1.0,False
+DRIAMS-A,DRIAMS-C,Corynebacterium pseudodiphtheriticum,Gentamicin,10,0.0,0.0,2,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Corynebacterium pseudodiphtheriticum,Penicillin,11,0.0,0.0,2,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Corynebacterium pseudodiphtheriticum,Vancomycin,11,0.0,0.0,2,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Enterobacter aerogenes,Amikacin,107,1.0,0.009345794392523364,37,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Enterobacter aerogenes,Amoxicillin-Clavulanic acid,107,107.0,1.0,63,63.0,1.0,False
+DRIAMS-A,DRIAMS-C,Enterobacter aerogenes,Cefepime,107,5.0,0.04672897196261682,40,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Enterobacter aerogenes,Ceftazidime,107,34.0,0.3177570093457944,63,16.0,0.25396825396825395,False
+DRIAMS-A,DRIAMS-C,Enterobacter aerogenes,Ceftriaxone,107,37.0,0.34579439252336447,63,15.0,0.23809523809523808,False
+DRIAMS-A,DRIAMS-C,Enterobacter aerogenes,Ciprofloxacin,107,5.0,0.04672897196261682,63,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Enterobacter aerogenes,Cotrimoxazole,107,4.0,0.037383177570093455,63,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Enterobacter aerogenes,Fosfomycin,1,1.0,1.0,33,21.0,0.6363636363636364,False
+DRIAMS-A,DRIAMS-C,Enterobacter aerogenes,Imipenem,107,5.0,0.04672897196261682,37,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Enterobacter aerogenes,Norfloxacin,36,0.0,0.0,33,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Enterobacter aerogenes,Piperacillin-Tazobactam,107,40.0,0.37383177570093457,37,13.0,0.35135135135135137,False
+DRIAMS-A,DRIAMS-C,Enterobacter asburiae,Amikacin,115,0.0,0.0,13,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Enterobacter asburiae,Amoxicillin-Clavulanic acid,115,115.0,1.0,19,19.0,1.0,False
+DRIAMS-A,DRIAMS-C,Enterobacter asburiae,Cefepime,113,5.0,0.04424778761061947,14,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Enterobacter asburiae,Ceftazidime,115,39.0,0.3391304347826087,19,5.0,0.2631578947368421,False
+DRIAMS-A,DRIAMS-C,Enterobacter asburiae,Ceftriaxone,115,43.0,0.3739130434782609,19,5.0,0.2631578947368421,False
+DRIAMS-A,DRIAMS-C,Enterobacter asburiae,Ciprofloxacin,115,7.0,0.06086956521739131,19,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Enterobacter asburiae,Cotrimoxazole,115,0.0,0.0,19,2.0,0.10526315789473684,False
+DRIAMS-A,DRIAMS-C,Enterobacter asburiae,Imipenem,114,6.0,0.05263157894736842,14,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Enterobacter asburiae,Norfloxacin,45,7.0,0.15555555555555556,10,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Enterobacter asburiae,Piperacillin-Tazobactam,114,41.0,0.35964912280701755,14,5.0,0.35714285714285715,False
+DRIAMS-A,DRIAMS-C,Enterobacter cancerogenus,Amikacin,1,0.0,0.0,4,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Enterobacter cancerogenus,Amoxicillin-Clavulanic acid,1,1.0,1.0,4,4.0,1.0,False
+DRIAMS-A,DRIAMS-C,Enterobacter cancerogenus,Cefepime,1,0.0,0.0,4,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Enterobacter cancerogenus,Ceftazidime,1,0.0,0.0,3,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Enterobacter cancerogenus,Ceftriaxone,1,0.0,0.0,3,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Enterobacter cancerogenus,Ciprofloxacin,1,0.0,0.0,4,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Enterobacter cancerogenus,Cotrimoxazole,1,0.0,0.0,4,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Enterobacter cancerogenus,Imipenem,1,0.0,0.0,4,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Enterobacter cancerogenus,Piperacillin-Tazobactam,1,0.0,0.0,3,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Enterobacter cloacae,Amikacin,1257,17.0,0.013524264120922832,114,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Enterobacter cloacae,Amoxicillin-Clavulanic acid,1260,1260.0,1.0,170,170.0,1.0,False
+DRIAMS-A,DRIAMS-C,Enterobacter cloacae,Cefepime,1241,154.0,0.12409347300564061,114,15.0,0.13157894736842105,False
+DRIAMS-A,DRIAMS-C,Enterobacter cloacae,Ceftazidime,1234,352.0,0.2852512155591572,170,44.0,0.25882352941176473,True
+DRIAMS-A,DRIAMS-C,Enterobacter cloacae,Ceftriaxone,1249,366.0,0.2930344275420336,170,46.0,0.27058823529411763,True
+DRIAMS-A,DRIAMS-C,Enterobacter cloacae,Ciprofloxacin,1265,71.0,0.05612648221343874,170,2.0,0.011764705882352941,False
+DRIAMS-A,DRIAMS-C,Enterobacter cloacae,Cotrimoxazole,1257,102.0,0.081145584725537,170,9.0,0.052941176470588235,False
+DRIAMS-A,DRIAMS-C,Enterobacter cloacae,Fosfomycin,1,1.0,1.0,78,58.0,0.7435897435897436,False
+DRIAMS-A,DRIAMS-C,Enterobacter cloacae,Imipenem,1261,3.0,0.0023790642347343376,114,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Enterobacter cloacae,Nitrofurantoin,1,0.0,0.0,78,10.0,0.1282051282051282,False
+DRIAMS-A,DRIAMS-C,Enterobacter cloacae,Norfloxacin,443,42.0,0.09480812641083522,78,2.0,0.02564102564102564,False
+DRIAMS-A,DRIAMS-C,Enterobacter cloacae,Piperacillin-Tazobactam,1223,312.0,0.25511038430089944,114,37.0,0.32456140350877194,False
+DRIAMS-A,DRIAMS-C,Enterobacter kobei,Amikacin,41,2.0,0.04878048780487805,2,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Enterobacter kobei,Amoxicillin-Clavulanic acid,41,41.0,1.0,3,3.0,1.0,False
+DRIAMS-A,DRIAMS-C,Enterobacter kobei,Cefepime,41,0.0,0.0,2,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Enterobacter kobei,Ceftazidime,41,13.0,0.3170731707317073,3,1.0,0.3333333333333333,False
+DRIAMS-A,DRIAMS-C,Enterobacter kobei,Ceftriaxone,41,13.0,0.3170731707317073,3,1.0,0.3333333333333333,False
+DRIAMS-A,DRIAMS-C,Enterobacter kobei,Ciprofloxacin,41,2.0,0.04878048780487805,3,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Enterobacter kobei,Cotrimoxazole,41,0.0,0.0,3,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Enterobacter kobei,Imipenem,41,1.0,0.024390243902439025,2,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Enterobacter kobei,Norfloxacin,12,2.0,0.16666666666666666,1,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Enterobacter kobei,Piperacillin-Tazobactam,41,13.0,0.3170731707317073,2,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Enterobacter ludwigii,Amikacin,53,0.0,0.0,3,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Enterobacter ludwigii,Amoxicillin-Clavulanic acid,53,53.0,1.0,4,4.0,1.0,False
+DRIAMS-A,DRIAMS-C,Enterobacter ludwigii,Cefepime,53,0.0,0.0,3,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Enterobacter ludwigii,Ceftazidime,53,9.0,0.16981132075471697,4,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Enterobacter ludwigii,Ceftriaxone,53,8.0,0.1509433962264151,4,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Enterobacter ludwigii,Ciprofloxacin,53,3.0,0.05660377358490566,4,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Enterobacter ludwigii,Cotrimoxazole,53,3.0,0.05660377358490566,4,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Enterobacter ludwigii,Imipenem,53,0.0,0.0,3,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Enterobacter ludwigii,Norfloxacin,19,3.0,0.15789473684210525,1,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Enterobacter ludwigii,Piperacillin-Tazobactam,51,7.0,0.13725490196078433,3,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Enterococcus avium,Amoxicillin-Clavulanic acid,1,0.0,0.0,8,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Enterococcus avium,Imipenem,68,1.0,0.014705882352941176,2,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Enterococcus avium,Linezolid,54,0.0,0.0,8,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Enterococcus avium,Vancomycin,68,0.0,0.0,8,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Enterococcus durans,Linezolid,5,0.0,0.0,2,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Enterococcus durans,Vancomycin,5,0.0,0.0,2,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Enterococcus faecalis,Amoxicillin-Clavulanic acid,3,0.0,0.0,530,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Enterococcus faecalis,Cotrimoxazole,7,2.0,0.2857142857142857,357,353.0,0.988795518207283,False
+DRIAMS-A,DRIAMS-C,Enterococcus faecalis,Fosfomycin,1,0.0,0.0,1,1.0,1.0,False
+DRIAMS-A,DRIAMS-C,Enterococcus faecalis,Gentamicin,40,4.0,0.1,176,176.0,1.0,False
+DRIAMS-A,DRIAMS-C,Enterococcus faecalis,Imipenem,790,12.0,0.015189873417721518,9,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Enterococcus faecalis,Levofloxacin,770,75.0,0.09740259740259741,1,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Enterococcus faecalis,Linezolid,763,10.0,0.01310615989515072,175,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Enterococcus faecalis,Nitrofurantoin,54,2.0,0.037037037037037035,362,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Enterococcus faecalis,Penicillin,5,2.0,0.4,3,1.0,0.3333333333333333,False
+DRIAMS-A,DRIAMS-C,Enterococcus faecalis,Rifampicin,1,1.0,1.0,2,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Enterococcus faecalis,Teicoplanin,757,0.0,0.0,3,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Enterococcus faecalis,Vancomycin,785,1.0,0.0012738853503184713,174,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Enterococcus faecium,Amoxicillin-Clavulanic acid,4,1.0,0.25,93,77.0,0.8279569892473119,False
+DRIAMS-A,DRIAMS-C,Enterococcus faecium,Cotrimoxazole,15,12.0,0.8,6,6.0,1.0,False
+DRIAMS-A,DRIAMS-C,Enterococcus faecium,Gentamicin,27,8.0,0.2962962962962963,93,92.0,0.989247311827957,False
+DRIAMS-A,DRIAMS-C,Enterococcus faecium,Levofloxacin,1133,920.0,0.8120035304501324,3,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Enterococcus faecium,Linezolid,1124,2.0,0.0017793594306049821,93,3.0,0.03225806451612903,False
+DRIAMS-A,DRIAMS-C,Enterococcus faecium,Nitrofurantoin,464,358.0,0.771551724137931,9,3.0,0.3333333333333333,False
+DRIAMS-A,DRIAMS-C,Enterococcus faecium,Piperacillin-Tazobactam,1,1.0,1.0,92,76.0,0.8260869565217391,False
+DRIAMS-A,DRIAMS-C,Enterococcus faecium,Teicoplanin,1124,25.0,0.02224199288256228,3,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Enterococcus faecium,Vancomycin,1183,96.0,0.08114961961115807,93,4.0,0.043010752688172046,False
+DRIAMS-A,DRIAMS-C,Enterococcus gallinarum,Linezolid,6,0.0,0.0,8,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Enterococcus gallinarum,Vancomycin,6,6.0,1.0,8,7.0,0.875,False
+DRIAMS-A,DRIAMS-C,Enterococcus hirae,Linezolid,11,0.0,0.0,1,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Enterococcus hirae,Vancomycin,17,0.0,0.0,1,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Escherichia coli,Amikacin,4858,331.0,0.06813503499382462,624,6.0,0.009615384615384616,False
+DRIAMS-A,DRIAMS-C,Escherichia coli,Amoxicillin-Clavulanic acid,4826,1177.0,0.24388727724823872,902,230.0,0.2549889135254989,True
+DRIAMS-A,DRIAMS-C,Escherichia coli,Cefepime,4890,839.0,0.17157464212678936,622,126.0,0.20257234726688103,True
+DRIAMS-A,DRIAMS-C,Escherichia coli,Ceftazidime,4822,871.0,0.18063044379925342,915,146.0,0.15956284153005465,True
+DRIAMS-A,DRIAMS-C,Escherichia coli,Ceftriaxone,4961,1086.0,0.21890747833098165,916,151.0,0.1648471615720524,True
+DRIAMS-A,DRIAMS-C,Escherichia coli,Cefuroxime,2,0.0,0.0,909,188.0,0.2068206820682068,False
+DRIAMS-A,DRIAMS-C,Escherichia coli,Ciprofloxacin,4911,1466.0,0.29851354103034006,889,191.0,0.21484814398200225,True
+DRIAMS-A,DRIAMS-C,Escherichia coli,Cotrimoxazole,4888,1595.0,0.3263093289689034,896,304.0,0.3392857142857143,True
+DRIAMS-A,DRIAMS-C,Escherichia coli,Ertapenem,4983,35.0,0.0070238811960666265,4,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Escherichia coli,Fosfomycin,4,0.0,0.0,471,38.0,0.08067940552016985,False
+DRIAMS-A,DRIAMS-C,Escherichia coli,Imipenem,4923,5.0,0.0010156408693885843,623,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Escherichia coli,Meropenem,4928,3.0,0.0006087662337662338,3,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Escherichia coli,Nitrofurantoin,1498,16.0,0.010680907877169559,471,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Escherichia coli,Norfloxacin,1488,390.0,0.2620967741935484,446,122.0,0.273542600896861,True
+DRIAMS-A,DRIAMS-C,Escherichia coli,Piperacillin-Tazobactam,4799,350.0,0.07293186080433424,623,52.0,0.08346709470304976,True
+DRIAMS-A,DRIAMS-C,Finegoldia magna,Amoxicillin-Clavulanic acid,17,0.0,0.0,6,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Finegoldia magna,Clindamycin,61,26.0,0.4262295081967213,6,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Finegoldia magna,Metronidazole,9,0.0,0.0,6,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Finegoldia magna,Penicillin,33,0.0,0.0,6,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Granulicatella adiacens,Clindamycin,3,0.0,0.0,7,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Granulicatella adiacens,Gentamicin,1,0.0,0.0,7,7.0,1.0,False
+DRIAMS-A,DRIAMS-C,Granulicatella adiacens,Moxifloxacin,2,0.0,0.0,7,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Granulicatella adiacens,Penicillin,18,6.0,0.3333333333333333,7,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Granulicatella adiacens,Vancomycin,17,0.0,0.0,7,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Haemophilus influenzae,Amoxicillin-Clavulanic acid,75,22.0,0.29333333333333333,60,4.0,0.06666666666666667,False
+DRIAMS-A,DRIAMS-C,Haemophilus influenzae,Ceftriaxone,72,5.0,0.06944444444444445,60,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Haemophilus influenzae,Cefuroxime,347,159.0,0.45821325648414984,60,14.0,0.23333333333333334,False
+DRIAMS-A,DRIAMS-C,Haemophilus influenzae,Ciprofloxacin,3,0.0,0.0,60,1.0,0.016666666666666666,False
+DRIAMS-A,DRIAMS-C,Haemophilus influenzae,Clarithromycin,4,3.0,0.75,60,59.0,0.9833333333333333,False
+DRIAMS-A,DRIAMS-C,Haemophilus influenzae,Cotrimoxazole,39,3.0,0.07692307692307693,1,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Haemophilus influenzae,Penicillin,360,141.0,0.39166666666666666,60,19.0,0.31666666666666665,False
+DRIAMS-A,DRIAMS-C,Haemophilus parainfluenzae,Amoxicillin-Clavulanic acid,45,8.0,0.17777777777777778,17,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Haemophilus parainfluenzae,Ceftriaxone,42,0.0,0.0,16,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Haemophilus parainfluenzae,Cefuroxime,72,37.0,0.5138888888888888,17,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Haemophilus parainfluenzae,Ciprofloxacin,6,0.0,0.0,17,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Haemophilus parainfluenzae,Penicillin,83,78.0,0.9397590361445783,17,13.0,0.7647058823529411,False
+DRIAMS-A,DRIAMS-C,Hafnia alvei,Amikacin,82,0.0,0.0,6,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Hafnia alvei,Amoxicillin-Clavulanic acid,82,82.0,1.0,6,6.0,1.0,False
+DRIAMS-A,DRIAMS-C,Hafnia alvei,Cefepime,82,7.0,0.08536585365853659,6,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Hafnia alvei,Ceftazidime,80,33.0,0.4125,6,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Hafnia alvei,Ceftriaxone,82,21.0,0.25609756097560976,6,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Hafnia alvei,Ciprofloxacin,82,0.0,0.0,6,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Hafnia alvei,Cotrimoxazole,82,0.0,0.0,6,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Hafnia alvei,Imipenem,82,0.0,0.0,6,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Hafnia alvei,Piperacillin-Tazobactam,82,67.0,0.8170731707317073,6,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Kingella kingae,Ceftriaxone,3,0.0,0.0,2,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Klebsiella oxytoca,Amikacin,712,1.0,0.0014044943820224719,83,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Klebsiella oxytoca,Amoxicillin-Clavulanic acid,713,76.0,0.10659186535764376,132,15.0,0.11363636363636363,False
+DRIAMS-A,DRIAMS-C,Klebsiella oxytoca,Cefepime,711,5.0,0.007032348804500703,83,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Klebsiella oxytoca,Ceftazidime,709,7.0,0.009873060648801129,132,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Klebsiella oxytoca,Ceftriaxone,714,50.0,0.0700280112044818,132,13.0,0.09848484848484848,False
+DRIAMS-A,DRIAMS-C,Klebsiella oxytoca,Ciprofloxacin,715,5.0,0.006993006993006993,132,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Klebsiella oxytoca,Cotrimoxazole,712,19.0,0.026685393258426966,132,6.0,0.045454545454545456,False
+DRIAMS-A,DRIAMS-C,Klebsiella oxytoca,Gentamicin,1,0.0,0.0,132,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Klebsiella oxytoca,Imipenem,713,0.0,0.0,83,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Klebsiella oxytoca,Nitrofurantoin,5,3.0,0.6,61,3.0,0.04918032786885246,False
+DRIAMS-A,DRIAMS-C,Klebsiella oxytoca,Norfloxacin,327,4.0,0.012232415902140673,61,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Klebsiella oxytoca,Piperacillin-Tazobactam,692,61.0,0.08815028901734104,83,14.0,0.1686746987951807,False
+DRIAMS-A,DRIAMS-C,Klebsiella pneumoniae,Amikacin,2830,129.0,0.04558303886925795,185,4.0,0.021621621621621623,False
+DRIAMS-A,DRIAMS-C,Klebsiella pneumoniae,Amoxicillin-Clavulanic acid,2840,537.0,0.18908450704225352,365,54.0,0.14794520547945206,True
+DRIAMS-A,DRIAMS-C,Klebsiella pneumoniae,Cefepime,2839,362.0,0.12750968650933428,185,53.0,0.2864864864864865,True
+DRIAMS-A,DRIAMS-C,Klebsiella pneumoniae,Ceftazidime,2832,430.0,0.1518361581920904,365,57.0,0.15616438356164383,True
+DRIAMS-A,DRIAMS-C,Klebsiella pneumoniae,Ceftolozane-Tazobactam,3,3.0,1.0,1,1.0,1.0,False
+DRIAMS-A,DRIAMS-C,Klebsiella pneumoniae,Ceftriaxone,2860,449.0,0.156993006993007,366,55.0,0.15027322404371585,True
+DRIAMS-A,DRIAMS-C,Klebsiella pneumoniae,Ciprofloxacin,2838,513.0,0.18076109936575052,366,48.0,0.13114754098360656,True
+DRIAMS-A,DRIAMS-C,Klebsiella pneumoniae,Colistin,2854,13.0,0.004555010511562719,6,5.0,0.8333333333333334,False
+DRIAMS-A,DRIAMS-C,Klebsiella pneumoniae,Cotrimoxazole,2854,606.0,0.212333566923616,366,74.0,0.20218579234972678,True
+DRIAMS-A,DRIAMS-C,Klebsiella pneumoniae,Ertapenem,2859,79.0,0.027632039174536552,2,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Klebsiella pneumoniae,Fosfomycin,7,2.0,0.2857142857142857,230,196.0,0.8521739130434782,False
+DRIAMS-A,DRIAMS-C,Klebsiella pneumoniae,Gentamicin,4,0.0,0.0,366,23.0,0.06284153005464481,False
+DRIAMS-A,DRIAMS-C,Klebsiella pneumoniae,Imipenem,2847,43.0,0.01510361784334387,185,5.0,0.02702702702702703,False
+DRIAMS-A,DRIAMS-C,Klebsiella pneumoniae,Meropenem,2855,61.0,0.02136602451838879,4,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Klebsiella pneumoniae,Nitrofurantoin,9,1.0,0.1111111111111111,230,29.0,0.12608695652173912,False
+DRIAMS-A,DRIAMS-C,Klebsiella pneumoniae,Norfloxacin,1814,285.0,0.15711135611907387,230,30.0,0.13043478260869565,True
+DRIAMS-A,DRIAMS-C,Klebsiella pneumoniae,Piperacillin-Tazobactam,2759,404.0,0.14642986589343965,184,39.0,0.21195652173913043,True
+DRIAMS-A,DRIAMS-C,Kluyvera ascorbata,Amoxicillin-Clavulanic acid,1,0.0,0.0,2,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Kluyvera ascorbata,Ceftazidime,1,0.0,0.0,2,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Kluyvera ascorbata,Ceftriaxone,1,0.0,0.0,2,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Kluyvera ascorbata,Ciprofloxacin,7,0.0,0.0,2,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Kluyvera ascorbata,Cotrimoxazole,7,0.0,0.0,2,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Kluyvera ascorbata,Norfloxacin,1,0.0,0.0,2,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Lactobacillus gasseri,Amoxicillin-Clavulanic acid,4,0.0,0.0,3,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Lactobacillus gasseri,Clindamycin,4,0.0,0.0,3,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Lactobacillus gasseri,Moxifloxacin,4,0.0,0.0,3,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Lactobacillus gasseri,Penicillin,1,0.0,0.0,3,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Lactobacillus gasseri,Vancomycin,1,0.0,0.0,3,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Lactobacillus paracasei,Amoxicillin-Clavulanic acid,3,0.0,0.0,4,4.0,1.0,False
+DRIAMS-A,DRIAMS-C,Lactobacillus paracasei,Clindamycin,7,0.0,0.0,4,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Lactobacillus paracasei,Moxifloxacin,3,0.0,0.0,4,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Lactobacillus paracasei,Penicillin,15,0.0,0.0,4,4.0,1.0,False
+DRIAMS-A,DRIAMS-C,Lactobacillus paracasei,Vancomycin,12,12.0,1.0,5,5.0,1.0,False
+DRIAMS-A,DRIAMS-C,Lactococcus lactis,Clindamycin,6,1.0,0.16666666666666666,1,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Lactococcus lactis,Penicillin,6,0.0,0.0,1,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Lactococcus lactis,Vancomycin,6,0.0,0.0,1,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Morganella morganii,Amikacin,345,19.0,0.05507246376811594,52,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Morganella morganii,Amoxicillin-Clavulanic acid,349,349.0,1.0,93,93.0,1.0,False
+DRIAMS-A,DRIAMS-C,Morganella morganii,Cefepime,349,3.0,0.008595988538681949,52,1.0,0.019230769230769232,False
+DRIAMS-A,DRIAMS-C,Morganella morganii,Ceftazidime,345,60.0,0.17391304347826086,93,1.0,0.010752688172043012,False
+DRIAMS-A,DRIAMS-C,Morganella morganii,Ceftriaxone,347,54.0,0.15561959654178675,93,1.0,0.010752688172043012,False
+DRIAMS-A,DRIAMS-C,Morganella morganii,Ciprofloxacin,349,32.0,0.09169054441260745,92,3.0,0.03260869565217391,False
+DRIAMS-A,DRIAMS-C,Morganella morganii,Cotrimoxazole,348,37.0,0.10632183908045977,93,10.0,0.10752688172043011,False
+DRIAMS-A,DRIAMS-C,Morganella morganii,Imipenem,294,199.0,0.6768707482993197,50,2.0,0.04,False
+DRIAMS-A,DRIAMS-C,Morganella morganii,Levofloxacin,343,30.0,0.08746355685131195,1,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Morganella morganii,Norfloxacin,122,15.0,0.12295081967213115,46,3.0,0.06521739130434782,False
+DRIAMS-A,DRIAMS-C,Morganella morganii,Piperacillin-Tazobactam,343,9.0,0.026239067055393587,53,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Neisseria gonorrhoeae,Azithromycin,67,6.0,0.08955223880597014,2,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Neisseria gonorrhoeae,Ceftriaxone,63,0.0,0.0,2,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Neisseria gonorrhoeae,Ciprofloxacin,63,41.0,0.6507936507936508,2,2.0,1.0,False
+DRIAMS-A,DRIAMS-C,Neisseria meningitidis,Ceftriaxone,8,0.0,0.0,2,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Neisseria meningitidis,Ciprofloxacin,8,3.0,0.375,2,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Neisseria meningitidis,Penicillin,5,3.0,0.6,2,1.0,0.5,False
+DRIAMS-A,DRIAMS-C,Neisseria meningitidis,Rifampicin,5,0.0,0.0,2,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Ochrobactrum anthropi,Cefepime,5,5.0,1.0,2,2.0,1.0,False
+DRIAMS-A,DRIAMS-C,Ochrobactrum anthropi,Ciprofloxacin,9,0.0,0.0,2,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Ochrobactrum anthropi,Cotrimoxazole,5,0.0,0.0,2,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Ochrobactrum anthropi,Piperacillin-Tazobactam,9,9.0,1.0,2,2.0,1.0,False
+DRIAMS-A,DRIAMS-C,Pantoea agglomerans,Amikacin,13,0.0,0.0,7,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Pantoea agglomerans,Amoxicillin-Clavulanic acid,15,0.0,0.0,7,1.0,0.14285714285714285,False
+DRIAMS-A,DRIAMS-C,Pantoea agglomerans,Cefepime,15,0.0,0.0,7,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Pantoea agglomerans,Ceftazidime,13,0.0,0.0,7,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Pantoea agglomerans,Ceftriaxone,15,0.0,0.0,7,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Pantoea agglomerans,Ciprofloxacin,15,0.0,0.0,7,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Pantoea agglomerans,Cotrimoxazole,13,0.0,0.0,7,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Pantoea agglomerans,Imipenem,13,0.0,0.0,7,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Pantoea agglomerans,Piperacillin-Tazobactam,15,0.0,0.0,7,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Parvimonas micra,Amoxicillin-Clavulanic acid,12,0.0,0.0,9,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Parvimonas micra,Clindamycin,25,0.0,0.0,9,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Parvimonas micra,Levofloxacin,3,0.0,0.0,2,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Parvimonas micra,Metronidazole,12,0.0,0.0,9,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Parvimonas micra,Penicillin,17,0.0,0.0,9,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Pasteurella multocida,Ciprofloxacin,1,0.0,0.0,10,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Pasteurella multocida,Cotrimoxazole,31,0.0,0.0,10,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Pasteurella multocida,Doxycycline,3,0.0,0.0,2,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Peptoniphilus harei,Amoxicillin-Clavulanic acid,6,0.0,0.0,10,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Peptoniphilus harei,Clindamycin,20,5.0,0.25,10,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Peptoniphilus harei,Metronidazole,6,0.0,0.0,10,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Peptoniphilus harei,Penicillin,9,0.0,0.0,10,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Peptostreptococcus anaerobius,Amoxicillin-Clavulanic acid,2,0.0,0.0,1,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Peptostreptococcus anaerobius,Clindamycin,1,0.0,0.0,1,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Plesiomonas shigelloides,Cefepime,3,0.0,0.0,3,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Plesiomonas shigelloides,Ciprofloxacin,3,0.0,0.0,3,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Plesiomonas shigelloides,Cotrimoxazole,3,3.0,1.0,3,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Plesiomonas shigelloides,Piperacillin-Tazobactam,3,0.0,0.0,3,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Prevotella denticola,Amoxicillin-Clavulanic acid,9,0.0,0.0,1,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Prevotella denticola,Clindamycin,2,2.0,1.0,1,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Prevotella denticola,Metronidazole,9,0.0,0.0,1,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Prevotella disiens,Clindamycin,1,1.0,1.0,7,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Prevotella disiens,Metronidazole,1,0.0,0.0,7,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Propionibacterium avidum,Clindamycin,7,2.0,0.2857142857142857,1,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Propionibacterium avidum,Levofloxacin,7,1.0,0.14285714285714285,1,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Propionibacterium avidum,Rifampicin,7,0.0,0.0,1,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Proteus mirabilis,Amikacin,903,22.0,0.024363233665559248,105,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Proteus mirabilis,Amoxicillin-Clavulanic acid,913,76.0,0.0832420591456736,220,14.0,0.06363636363636363,True
+DRIAMS-A,DRIAMS-C,Proteus mirabilis,Cefepime,911,19.0,0.020856201975850714,105,11.0,0.10476190476190476,False
+DRIAMS-A,DRIAMS-C,Proteus mirabilis,Ceftazidime,909,19.0,0.020902090209020903,220,7.0,0.031818181818181815,False
+DRIAMS-A,DRIAMS-C,Proteus mirabilis,Ceftriaxone,915,36.0,0.03934426229508197,220,16.0,0.07272727272727272,True
+DRIAMS-A,DRIAMS-C,Proteus mirabilis,Ciprofloxacin,913,114.0,0.1248630887185104,220,24.0,0.10909090909090909,True
+DRIAMS-A,DRIAMS-C,Proteus mirabilis,Cotrimoxazole,915,266.0,0.2907103825136612,220,80.0,0.36363636363636365,True
+DRIAMS-A,DRIAMS-C,Proteus mirabilis,Ertapenem,915,2.0,0.002185792349726776,1,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Proteus mirabilis,Fosfomycin,1,0.0,0.0,131,31.0,0.2366412213740458,False
+DRIAMS-A,DRIAMS-C,Proteus mirabilis,Gentamicin,1,0.0,0.0,220,26.0,0.11818181818181818,False
+DRIAMS-A,DRIAMS-C,Proteus mirabilis,Imipenem,778,567.0,0.7287917737789203,105,6.0,0.05714285714285714,False
+DRIAMS-A,DRIAMS-C,Proteus mirabilis,Meropenem,914,2.0,0.002188183807439825,6,6.0,1.0,False
+DRIAMS-A,DRIAMS-C,Proteus mirabilis,Nitrofurantoin,3,3.0,1.0,131,129.0,0.9847328244274809,False
+DRIAMS-A,DRIAMS-C,Proteus mirabilis,Norfloxacin,461,71.0,0.1540130151843818,131,21.0,0.16030534351145037,False
+DRIAMS-A,DRIAMS-C,Proteus mirabilis,Piperacillin-Tazobactam,911,1.0,0.0010976948408342481,105,6.0,0.05714285714285714,False
+DRIAMS-A,DRIAMS-C,Proteus penneri,Amoxicillin-Clavulanic acid,1,1.0,1.0,1,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Proteus penneri,Ceftazidime,1,0.0,0.0,1,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Proteus penneri,Ceftriaxone,1,1.0,1.0,1,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Proteus penneri,Ciprofloxacin,1,0.0,0.0,1,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Proteus penneri,Cotrimoxazole,1,0.0,0.0,1,1.0,1.0,False
+DRIAMS-A,DRIAMS-C,Proteus vulgaris,Amikacin,321,4.0,0.012461059190031152,27,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Proteus vulgaris,Amoxicillin-Clavulanic acid,320,24.0,0.075,68,6.0,0.08823529411764706,False
+DRIAMS-A,DRIAMS-C,Proteus vulgaris,Cefepime,319,3.0,0.009404388714733543,27,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Proteus vulgaris,Ceftazidime,320,4.0,0.0125,68,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Proteus vulgaris,Ceftriaxone,320,6.0,0.01875,68,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Proteus vulgaris,Ciprofloxacin,321,1.0,0.003115264797507788,68,1.0,0.014705882352941176,False
+DRIAMS-A,DRIAMS-C,Proteus vulgaris,Cotrimoxazole,321,24.0,0.07476635514018691,68,1.0,0.014705882352941176,False
+DRIAMS-A,DRIAMS-C,Proteus vulgaris,Imipenem,241,208.0,0.8630705394190872,27,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Proteus vulgaris,Nitrofurantoin,5,5.0,1.0,42,42.0,1.0,False
+DRIAMS-A,DRIAMS-C,Proteus vulgaris,Norfloxacin,140,0.0,0.0,42,1.0,0.023809523809523808,False
+DRIAMS-A,DRIAMS-C,Proteus vulgaris,Piperacillin-Tazobactam,317,0.0,0.0,27,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Providencia rettgeri,Amoxicillin-Clavulanic acid,63,63.0,1.0,9,7.0,0.7777777777777778,False
+DRIAMS-A,DRIAMS-C,Providencia rettgeri,Ceftazidime,63,0.0,0.0,9,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Providencia rettgeri,Ceftriaxone,63,1.0,0.015873015873015872,9,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Providencia rettgeri,Ciprofloxacin,63,5.0,0.07936507936507936,9,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Providencia rettgeri,Cotrimoxazole,63,1.0,0.015873015873015872,9,2.0,0.2222222222222222,False
+DRIAMS-A,DRIAMS-C,Providencia rettgeri,Nitrofurantoin,4,4.0,1.0,9,9.0,1.0,False
+DRIAMS-A,DRIAMS-C,Providencia rettgeri,Norfloxacin,35,5.0,0.14285714285714285,9,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Providencia stuartii,Amikacin,14,3.0,0.21428571428571427,1,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Providencia stuartii,Amoxicillin-Clavulanic acid,17,15.0,0.8823529411764706,4,4.0,1.0,False
+DRIAMS-A,DRIAMS-C,Providencia stuartii,Cefepime,17,4.0,0.23529411764705882,1,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Providencia stuartii,Ceftazidime,17,4.0,0.23529411764705882,4,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Providencia stuartii,Ceftriaxone,17,4.0,0.23529411764705882,4,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Providencia stuartii,Ciprofloxacin,17,4.0,0.23529411764705882,4,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Providencia stuartii,Cotrimoxazole,17,1.0,0.058823529411764705,4,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Providencia stuartii,Fosfomycin,3,3.0,1.0,3,3.0,1.0,False
+DRIAMS-A,DRIAMS-C,Providencia stuartii,Imipenem,14,13.0,0.9285714285714286,1,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Providencia stuartii,Norfloxacin,2,0.0,0.0,3,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Providencia stuartii,Piperacillin-Tazobactam,17,1.0,0.058823529411764705,3,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Pseudomonas aeruginosa,Amikacin,2372,164.0,0.06913996627318718,357,19.0,0.05322128851540616,True
+DRIAMS-A,DRIAMS-C,Pseudomonas aeruginosa,Amoxicillin-Clavulanic acid,5,4.0,0.8,357,357.0,1.0,False
+DRIAMS-A,DRIAMS-C,Pseudomonas aeruginosa,Cefepime,3088,550.0,0.17810880829015543,357,34.0,0.09523809523809523,True
+DRIAMS-A,DRIAMS-C,Pseudomonas aeruginosa,Ceftazidime,2459,232.0,0.09434729564863766,357,32.0,0.0896358543417367,True
+DRIAMS-A,DRIAMS-C,Pseudomonas aeruginosa,Ceftolozane-Tazobactam,81,12.0,0.14814814814814814,1,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Pseudomonas aeruginosa,Ceftriaxone,6,5.0,0.8333333333333334,357,357.0,1.0,False
+DRIAMS-A,DRIAMS-C,Pseudomonas aeruginosa,Ciprofloxacin,3153,645.0,0.20456707897240722,357,33.0,0.09243697478991597,True
+DRIAMS-A,DRIAMS-C,Pseudomonas aeruginosa,Colistin,3234,33.0,0.01020408163265306,6,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Pseudomonas aeruginosa,Cotrimoxazole,6,5.0,0.8333333333333334,357,357.0,1.0,False
+DRIAMS-A,DRIAMS-C,Pseudomonas aeruginosa,Fosfomycin,37,28.0,0.7567567567567568,9,8.0,0.8888888888888888,False
+DRIAMS-A,DRIAMS-C,Pseudomonas aeruginosa,Gentamicin,13,2.0,0.15384615384615385,357,27.0,0.07563025210084033,False
+DRIAMS-A,DRIAMS-C,Pseudomonas aeruginosa,Imipenem,2377,339.0,0.1426167437946992,357,31.0,0.08683473389355742,True
+DRIAMS-A,DRIAMS-C,Pseudomonas aeruginosa,Meropenem,3183,503.0,0.15802701853597234,2,2.0,1.0,False
+DRIAMS-A,DRIAMS-C,Pseudomonas aeruginosa,Norfloxacin,1,0.0,0.0,10,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Pseudomonas aeruginosa,Piperacillin-Tazobactam,3152,598.0,0.18972081218274112,357,32.0,0.0896358543417367,True
+DRIAMS-A,DRIAMS-C,Pseudomonas aeruginosa,Tobramycin,3231,250.0,0.0773754255648406,1,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Pseudomonas fluorescens,Cefepime,8,0.0,0.0,1,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Pseudomonas fluorescens,Ciprofloxacin,8,0.0,0.0,1,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Pseudomonas fluorescens,Piperacillin-Tazobactam,8,0.0,0.0,1,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Pseudomonas monteilii,Amikacin,25,0.0,0.0,2,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Pseudomonas monteilii,Cefepime,32,0.0,0.0,2,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Pseudomonas monteilii,Ceftazidime,25,1.0,0.04,2,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Pseudomonas monteilii,Ciprofloxacin,35,1.0,0.02857142857142857,2,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Pseudomonas monteilii,Cotrimoxazole,3,0.0,0.0,2,2.0,1.0,False
+DRIAMS-A,DRIAMS-C,Pseudomonas monteilii,Imipenem,26,0.0,0.0,2,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Pseudomonas monteilii,Piperacillin-Tazobactam,26,7.0,0.2692307692307692,2,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Pseudomonas stutzeri,Cefepime,25,0.0,0.0,2,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Pseudomonas stutzeri,Ciprofloxacin,25,0.0,0.0,2,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Pseudomonas stutzeri,Piperacillin-Tazobactam,25,4.0,0.16,2,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Rahnella aquatilis,Amoxicillin-Clavulanic acid,6,0.0,0.0,2,1.0,0.5,False
+DRIAMS-A,DRIAMS-C,Rahnella aquatilis,Cefepime,6,0.0,0.0,2,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Rahnella aquatilis,Ceftriaxone,6,6.0,1.0,2,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Rahnella aquatilis,Ciprofloxacin,6,0.0,0.0,2,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Rahnella aquatilis,Imipenem,5,0.0,0.0,2,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Rahnella aquatilis,Piperacillin-Tazobactam,6,0.0,0.0,2,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Raoultella ornithinolytica,Amikacin,1,0.0,0.0,6,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Raoultella ornithinolytica,Amoxicillin-Clavulanic acid,1,0.0,0.0,10,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Raoultella ornithinolytica,Cefepime,1,0.0,0.0,6,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Raoultella ornithinolytica,Ceftazidime,1,0.0,0.0,10,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Raoultella ornithinolytica,Ceftriaxone,1,0.0,0.0,10,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Raoultella ornithinolytica,Ciprofloxacin,1,0.0,0.0,10,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Raoultella ornithinolytica,Cotrimoxazole,1,0.0,0.0,10,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Raoultella ornithinolytica,Imipenem,1,0.0,0.0,6,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Raoultella ornithinolytica,Norfloxacin,1,0.0,0.0,4,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Raoultella ornithinolytica,Piperacillin-Tazobactam,1,0.0,0.0,6,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Rhizobium radiobacter,Cefepime,8,0.0,0.0,1,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Rhizobium radiobacter,Ciprofloxacin,8,0.0,0.0,1,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Rhizobium radiobacter,Cotrimoxazole,8,0.0,0.0,1,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Rhizobium radiobacter,Piperacillin-Tazobactam,8,2.0,0.25,1,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Serratia liquefaciens,Amikacin,23,0.0,0.0,3,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Serratia liquefaciens,Amoxicillin-Clavulanic acid,23,23.0,1.0,3,3.0,1.0,False
+DRIAMS-A,DRIAMS-C,Serratia liquefaciens,Cefepime,23,0.0,0.0,3,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Serratia liquefaciens,Ceftazidime,23,0.0,0.0,3,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Serratia liquefaciens,Ceftriaxone,23,3.0,0.13043478260869565,3,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Serratia liquefaciens,Ciprofloxacin,23,0.0,0.0,3,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Serratia liquefaciens,Cotrimoxazole,23,0.0,0.0,3,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Serratia liquefaciens,Imipenem,23,3.0,0.13043478260869565,3,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Serratia liquefaciens,Piperacillin-Tazobactam,23,3.0,0.13043478260869565,3,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Serratia marcescens,Amikacin,857,171.0,0.19953325554259044,61,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Serratia marcescens,Amoxicillin-Clavulanic acid,860,860.0,1.0,87,87.0,1.0,False
+DRIAMS-A,DRIAMS-C,Serratia marcescens,Cefepime,862,4.0,0.004640371229698376,59,6.0,0.1016949152542373,False
+DRIAMS-A,DRIAMS-C,Serratia marcescens,Ceftazidime,859,30.0,0.034924330616996506,85,7.0,0.08235294117647059,False
+DRIAMS-A,DRIAMS-C,Serratia marcescens,Ceftriaxone,863,30.0,0.03476245654692932,85,8.0,0.09411764705882353,False
+DRIAMS-A,DRIAMS-C,Serratia marcescens,Ciprofloxacin,860,40.0,0.046511627906976744,87,3.0,0.034482758620689655,False
+DRIAMS-A,DRIAMS-C,Serratia marcescens,Cotrimoxazole,856,0.0,0.0,87,7.0,0.08045977011494253,False
+DRIAMS-A,DRIAMS-C,Serratia marcescens,Imipenem,856,5.0,0.005841121495327103,61,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Serratia marcescens,Nitrofurantoin,1,1.0,1.0,27,27.0,1.0,False
+DRIAMS-A,DRIAMS-C,Serratia marcescens,Norfloxacin,126,6.0,0.047619047619047616,27,1.0,0.037037037037037035,False
+DRIAMS-A,DRIAMS-C,Serratia marcescens,Piperacillin-Tazobactam,862,23.0,0.02668213457076566,61,13.0,0.21311475409836064,False
+DRIAMS-A,DRIAMS-C,Staphylococcus aureus,Amoxicillin-Clavulanic acid,3640,712.0,0.1956043956043956,738,41.0,0.05555555555555555,True
+DRIAMS-A,DRIAMS-C,Staphylococcus aureus,Ciprofloxacin,3757,616.0,0.16396060686718125,738,33.0,0.044715447154471545,True
+DRIAMS-A,DRIAMS-C,Staphylococcus aureus,Clindamycin,3575,519.0,0.14517482517482516,651,79.0,0.12135176651305683,True
+DRIAMS-A,DRIAMS-C,Staphylococcus aureus,Cotrimoxazole,3741,140.0,0.03742314889067094,738,5.0,0.006775067750677507,False
+DRIAMS-A,DRIAMS-C,Staphylococcus aureus,Daptomycin,3780,30.0,0.007936507936507936,7,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Staphylococcus aureus,Fusidic acid,3766,253.0,0.06718003186404674,651,17.0,0.026113671274961597,True
+DRIAMS-A,DRIAMS-C,Staphylococcus aureus,Gentamicin,3629,104.0,0.028658032515844586,738,15.0,0.02032520325203252,True
+DRIAMS-A,DRIAMS-C,Staphylococcus aureus,Linezolid,3639,0.0,0.0,2,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Staphylococcus aureus,Mupirocin,3633,16.0,0.004404073768235618,25,1.0,0.04,False
+DRIAMS-A,DRIAMS-C,Staphylococcus aureus,Oxacillin,3790,726.0,0.19155672823218997,738,41.0,0.05555555555555555,True
+DRIAMS-A,DRIAMS-C,Staphylococcus aureus,Penicillin,3553,2611.0,0.7348719392063046,738,547.0,0.7411924119241192,True
+DRIAMS-A,DRIAMS-C,Staphylococcus aureus,Piperacillin-Tazobactam,3640,712.0,0.1956043956043956,2,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Staphylococcus aureus,Rifampicin,3774,39.0,0.010333863275039745,648,4.0,0.006172839506172839,False
+DRIAMS-A,DRIAMS-C,Staphylococcus aureus,Vancomycin,3791,0.0,0.0,651,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Staphylococcus capitis,Amoxicillin-Clavulanic acid,322,60.0,0.18633540372670807,4,1.0,0.25,False
+DRIAMS-A,DRIAMS-C,Staphylococcus capitis,Ciprofloxacin,365,21.0,0.057534246575342465,4,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Staphylococcus capitis,Clindamycin,318,41.0,0.1289308176100629,4,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Staphylococcus capitis,Cotrimoxazole,364,13.0,0.03571428571428571,4,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Staphylococcus capitis,Fusidic acid,365,46.0,0.12602739726027398,4,1.0,0.25,False
+DRIAMS-A,DRIAMS-C,Staphylococcus capitis,Gentamicin,319,21.0,0.06583072100313479,4,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Staphylococcus capitis,Oxacillin,365,73.0,0.2,4,1.0,0.25,False
+DRIAMS-A,DRIAMS-C,Staphylococcus capitis,Penicillin,318,316.0,0.9937106918238994,4,3.0,0.75,False
+DRIAMS-A,DRIAMS-C,Staphylococcus capitis,Rifampicin,365,3.0,0.00821917808219178,4,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Staphylococcus capitis,Vancomycin,365,0.0,0.0,4,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Staphylococcus epidermidis,Amoxicillin-Clavulanic acid,4262,3006.0,0.7053026748005631,21,5.0,0.23809523809523808,False
+DRIAMS-A,DRIAMS-C,Staphylococcus epidermidis,Ciprofloxacin,4679,2687.0,0.5742680059841847,21,5.0,0.23809523809523808,False
+DRIAMS-A,DRIAMS-C,Staphylococcus epidermidis,Clindamycin,4192,2125.0,0.5069179389312977,21,2.0,0.09523809523809523,False
+DRIAMS-A,DRIAMS-C,Staphylococcus epidermidis,Cotrimoxazole,4545,1565.0,0.34433443344334436,21,8.0,0.38095238095238093,False
+DRIAMS-A,DRIAMS-C,Staphylococcus epidermidis,Daptomycin,4761,3.0,0.000630119722747322,1,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Staphylococcus epidermidis,Doxycycline,37,3.0,0.08108108108108109,21,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Staphylococcus epidermidis,Fusidic acid,4589,2407.0,0.5245151449117454,21,9.0,0.42857142857142855,False
+DRIAMS-A,DRIAMS-C,Staphylococcus epidermidis,Gentamicin,4221,1863.0,0.44136460554371004,21,8.0,0.38095238095238093,False
+DRIAMS-A,DRIAMS-C,Staphylococcus epidermidis,Oxacillin,4664,3324.0,0.7126929674099486,21,5.0,0.23809523809523808,False
+DRIAMS-A,DRIAMS-C,Staphylococcus epidermidis,Penicillin,4371,4344.0,0.9938229238160604,21,20.0,0.9523809523809523,False
+DRIAMS-A,DRIAMS-C,Staphylococcus epidermidis,Rifampicin,4758,436.0,0.09163514081546868,21,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Staphylococcus epidermidis,Vancomycin,4777,2.0,0.0004186728072011723,21,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Staphylococcus haemolyticus,Amoxicillin-Clavulanic acid,225,151.0,0.6711111111111111,1,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Staphylococcus haemolyticus,Ciprofloxacin,234,142.0,0.6068376068376068,1,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Staphylococcus haemolyticus,Clindamycin,226,126.0,0.5575221238938053,1,1.0,1.0,False
+DRIAMS-A,DRIAMS-C,Staphylococcus haemolyticus,Cotrimoxazole,230,118.0,0.5130434782608696,1,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Staphylococcus haemolyticus,Fusidic acid,230,55.0,0.2391304347826087,1,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Staphylococcus haemolyticus,Gentamicin,217,132.0,0.6082949308755761,1,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Staphylococcus haemolyticus,Oxacillin,229,156.0,0.6812227074235808,1,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Staphylococcus haemolyticus,Penicillin,226,223.0,0.9867256637168141,1,1.0,1.0,False
+DRIAMS-A,DRIAMS-C,Staphylococcus haemolyticus,Rifampicin,231,18.0,0.07792207792207792,1,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Staphylococcus haemolyticus,Vancomycin,234,0.0,0.0,1,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Staphylococcus hominis,Amoxicillin-Clavulanic acid,668,223.0,0.3338323353293413,3,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Staphylococcus hominis,Ciprofloxacin,700,91.0,0.13,3,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Staphylococcus hominis,Clindamycin,685,194.0,0.2832116788321168,3,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Staphylococcus hominis,Cotrimoxazole,707,40.0,0.056577086280056574,3,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Staphylococcus hominis,Fusidic acid,692,345.0,0.4985549132947977,3,3.0,1.0,False
+DRIAMS-A,DRIAMS-C,Staphylococcus hominis,Gentamicin,683,66.0,0.09663250366032211,3,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Staphylococcus hominis,Oxacillin,685,225.0,0.3284671532846715,3,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Staphylococcus hominis,Penicillin,709,707.0,0.997179125528914,3,3.0,1.0,False
+DRIAMS-A,DRIAMS-C,Staphylococcus hominis,Rifampicin,717,12.0,0.016736401673640166,3,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Staphylococcus hominis,Vancomycin,717,0.0,0.0,3,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Staphylococcus lugdunensis,Amoxicillin-Clavulanic acid,298,9.0,0.030201342281879196,67,6.0,0.08955223880597014,False
+DRIAMS-A,DRIAMS-C,Staphylococcus lugdunensis,Ciprofloxacin,311,8.0,0.02572347266881029,67,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Staphylococcus lugdunensis,Clindamycin,305,41.0,0.13442622950819672,63,3.0,0.047619047619047616,False
+DRIAMS-A,DRIAMS-C,Staphylococcus lugdunensis,Cotrimoxazole,311,1.0,0.003215434083601286,67,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Staphylococcus lugdunensis,Fusidic acid,311,8.0,0.02572347266881029,63,1.0,0.015873015873015872,False
+DRIAMS-A,DRIAMS-C,Staphylococcus lugdunensis,Gentamicin,297,0.0,0.0,67,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Staphylococcus lugdunensis,Mupirocin,2,0.0,0.0,6,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Staphylococcus lugdunensis,Oxacillin,313,9.0,0.02875399361022364,67,6.0,0.08955223880597014,False
+DRIAMS-A,DRIAMS-C,Staphylococcus lugdunensis,Penicillin,303,118.0,0.38943894389438943,67,38.0,0.5671641791044776,False
+DRIAMS-A,DRIAMS-C,Staphylococcus lugdunensis,Rifampicin,311,0.0,0.0,63,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Staphylococcus lugdunensis,Vancomycin,311,0.0,0.0,63,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Staphylococcus pettenkoferi,Amoxicillin-Clavulanic acid,65,12.0,0.18461538461538463,1,1.0,1.0,False
+DRIAMS-A,DRIAMS-C,Staphylococcus pettenkoferi,Ciprofloxacin,72,8.0,0.1111111111111111,1,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Staphylococcus pettenkoferi,Clindamycin,65,44.0,0.676923076923077,1,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Staphylococcus pettenkoferi,Cotrimoxazole,72,0.0,0.0,1,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Staphylococcus pettenkoferi,Fusidic acid,70,16.0,0.22857142857142856,1,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Staphylococcus pettenkoferi,Gentamicin,65,0.0,0.0,1,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Staphylococcus pettenkoferi,Oxacillin,69,12.0,0.17391304347826086,1,1.0,1.0,False
+DRIAMS-A,DRIAMS-C,Staphylococcus pettenkoferi,Penicillin,65,65.0,1.0,1,1.0,1.0,False
+DRIAMS-A,DRIAMS-C,Staphylococcus pettenkoferi,Rifampicin,72,0.0,0.0,1,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Staphylococcus pettenkoferi,Vancomycin,72,0.0,0.0,1,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Staphylococcus saprophyticus,Amoxicillin-Clavulanic acid,128,5.0,0.0390625,7,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Staphylococcus saprophyticus,Ciprofloxacin,134,0.0,0.0,7,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Staphylococcus saprophyticus,Cotrimoxazole,134,1.0,0.007462686567164179,7,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Staphylococcus saprophyticus,Gentamicin,131,0.0,0.0,7,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Staphylococcus saprophyticus,Oxacillin,131,6.0,0.04580152671755725,7,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Staphylococcus saprophyticus,Penicillin,131,131.0,1.0,6,4.0,0.6666666666666666,False
+DRIAMS-A,DRIAMS-C,Stenotrophomonas maltophilia,Ciprofloxacin,6,6.0,1.0,3,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Stenotrophomonas maltophilia,Cotrimoxazole,414,16.0,0.03864734299516908,27,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Streptococcus dysgalactiae,Clarithromycin,7,0.0,0.0,2,2.0,1.0,False
+DRIAMS-A,DRIAMS-C,Streptococcus dysgalactiae,Clindamycin,133,15.0,0.11278195488721804,2,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Streptococcus dysgalactiae,Doxycycline,3,3.0,1.0,2,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Streptococcus dysgalactiae,Penicillin,135,0.0,0.0,2,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Streptococcus dysgalactiae,Vancomycin,2,0.0,0.0,2,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Streptococcus gallolyticus,Ceftriaxone,15,0.0,0.0,2,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Streptococcus gallolyticus,Clindamycin,14,3.0,0.21428571428571427,4,2.0,0.5,False
+DRIAMS-A,DRIAMS-C,Streptococcus gallolyticus,Gentamicin,2,0.0,0.0,4,4.0,1.0,False
+DRIAMS-A,DRIAMS-C,Streptococcus gallolyticus,Penicillin,24,0.0,0.0,4,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Streptococcus gallolyticus,Vancomycin,32,0.0,0.0,4,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Streptococcus oralis,Amoxicillin-Clavulanic acid,1,1.0,1.0,3,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Streptococcus oralis,Clarithromycin,4,0.0,0.0,3,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Streptococcus oralis,Clindamycin,77,34.0,0.44155844155844154,3,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Streptococcus oralis,Cotrimoxazole,2,0.0,0.0,3,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Streptococcus oralis,Doxycycline,1,1.0,1.0,3,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Streptococcus oralis,Gentamicin,5,0.0,0.0,5,5.0,1.0,False
+DRIAMS-A,DRIAMS-C,Streptococcus oralis,Moxifloxacin,5,0.0,0.0,3,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Streptococcus oralis,Oxacillin,3,1.0,0.3333333333333333,3,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Streptococcus oralis,Penicillin,201,16.0,0.07960199004975124,3,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Streptococcus oralis,Vancomycin,214,0.0,0.0,3,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Streptococcus pneumoniae,Ceftriaxone,66,10.0,0.15151515151515152,3,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Streptococcus pneumoniae,Clarithromycin,255,44.0,0.17254901960784313,24,1.0,0.041666666666666664,False
+DRIAMS-A,DRIAMS-C,Streptococcus pneumoniae,Clindamycin,10,0.0,0.0,24,1.0,0.041666666666666664,False
+DRIAMS-A,DRIAMS-C,Streptococcus pneumoniae,Cotrimoxazole,37,0.0,0.0,24,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Streptococcus pneumoniae,Gentamicin,1,0.0,0.0,24,24.0,1.0,False
+DRIAMS-A,DRIAMS-C,Streptococcus pneumoniae,Oxacillin,236,50.0,0.211864406779661,24,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Streptococcus pneumoniae,Penicillin,28,4.0,0.14285714285714285,24,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Streptococcus pneumoniae,Vancomycin,33,0.0,0.0,24,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Trueperella bernardiae,Amoxicillin-Clavulanic acid,7,0.0,0.0,1,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Trueperella bernardiae,Clindamycin,4,4.0,1.0,1,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Trueperella bernardiae,Cotrimoxazole,2,2.0,1.0,1,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Trueperella bernardiae,Doxycycline,2,0.0,0.0,1,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Trueperella bernardiae,Gentamicin,27,0.0,0.0,1,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Trueperella bernardiae,Moxifloxacin,4,0.0,0.0,1,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Trueperella bernardiae,Penicillin,29,4.0,0.13793103448275862,1,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Trueperella bernardiae,Vancomycin,27,0.0,0.0,1,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Turicella otitidis,Ciprofloxacin,18,4.0,0.2222222222222222,2,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Turicella otitidis,Clindamycin,1,1.0,1.0,2,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Turicella otitidis,Gentamicin,8,0.0,0.0,2,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Turicella otitidis,Penicillin,18,0.0,0.0,2,0.0,0.0,False
+DRIAMS-A,DRIAMS-C,Turicella otitidis,Vancomycin,18,0.0,0.0,2,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Achromobacter xylosoxidans,Amikacin,3,3.0,1.0,5,4.0,0.8,False
+DRIAMS-B,DRIAMS-C,Achromobacter xylosoxidans,Amoxicillin-Clavulanic acid,3,0.0,0.0,5,1.0,0.2,False
+DRIAMS-B,DRIAMS-C,Achromobacter xylosoxidans,Ampicillin,3,3.0,1.0,5,5.0,1.0,False
+DRIAMS-B,DRIAMS-C,Achromobacter xylosoxidans,Cefepime,3,3.0,1.0,5,5.0,1.0,False
+DRIAMS-B,DRIAMS-C,Achromobacter xylosoxidans,Ceftazidime,3,0.0,0.0,5,3.0,0.6,False
+DRIAMS-B,DRIAMS-C,Achromobacter xylosoxidans,Ceftriaxone,3,3.0,1.0,5,5.0,1.0,False
+DRIAMS-B,DRIAMS-C,Achromobacter xylosoxidans,Cefuroxime,3,3.0,1.0,5,5.0,1.0,False
+DRIAMS-B,DRIAMS-C,Achromobacter xylosoxidans,Ciprofloxacin,3,3.0,1.0,5,4.0,0.8,False
+DRIAMS-B,DRIAMS-C,Achromobacter xylosoxidans,Gentamicin,1,1.0,1.0,5,4.0,0.8,False
+DRIAMS-B,DRIAMS-C,Achromobacter xylosoxidans,Imipenem,3,0.0,0.0,5,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Achromobacter xylosoxidans,Piperacillin-Tazobactam,3,0.0,0.0,5,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Acinetobacter johnsonii,Amikacin,1,0.0,0.0,1,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Acinetobacter johnsonii,Ciprofloxacin,1,0.0,0.0,1,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Acinetobacter johnsonii,Imipenem,1,0.0,0.0,1,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Acinetobacter ursingii,Amikacin,1,0.0,0.0,9,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Acinetobacter ursingii,Ciprofloxacin,1,0.0,0.0,9,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Acinetobacter ursingii,Imipenem,1,0.0,0.0,9,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Actinomyces odontolyticus,Amoxicillin-Clavulanic acid,1,0.0,0.0,8,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Actinomyces odontolyticus,Clindamycin,1,0.0,0.0,6,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Actinomyces odontolyticus,Vancomycin,1,0.0,0.0,3,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Aerococcus sanguinicola,Ampicillin,7,0.0,0.0,10,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Aerococcus sanguinicola,Ciprofloxacin,7,0.0,0.0,10,8.0,0.8,False
+DRIAMS-B,DRIAMS-C,Aerococcus urinae,Ampicillin,44,0.0,0.0,21,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Aerococcus urinae,Ciprofloxacin,44,5.0,0.11363636363636363,15,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Aerococcus urinae,Rifampicin,44,1.0,0.022727272727272728,5,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Aeromonas caviae,Amoxicillin-Clavulanic acid,2,2.0,1.0,2,1.0,0.5,False
+DRIAMS-B,DRIAMS-C,Aeromonas caviae,Ampicillin,2,2.0,1.0,2,2.0,1.0,False
+DRIAMS-B,DRIAMS-C,Aeromonas caviae,Ceftriaxone,2,2.0,1.0,2,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Aeromonas caviae,Ciprofloxacin,2,2.0,1.0,2,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Aeromonas caviae,Imipenem,2,0.0,0.0,2,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Aeromonas caviae,Piperacillin-Tazobactam,2,2.0,1.0,2,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Anaerococcus vaginalis,Amoxicillin-Clavulanic acid,3,0.0,0.0,1,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Anaerococcus vaginalis,Clindamycin,3,0.0,0.0,1,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Anaerococcus vaginalis,Metronidazole,3,0.0,0.0,1,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Bacillus cereus,Clindamycin,1,0.0,0.0,3,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Bacillus cereus,Vancomycin,1,0.0,0.0,3,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Bacteroides fragilis,Amoxicillin-Clavulanic acid,4,0.0,0.0,26,1.0,0.038461538461538464,False
+DRIAMS-B,DRIAMS-C,Bacteroides fragilis,Clindamycin,4,3.0,0.75,26,6.0,0.23076923076923078,False
+DRIAMS-B,DRIAMS-C,Bacteroides fragilis,Metronidazole,4,0.0,0.0,27,1.0,0.037037037037037035,False
+DRIAMS-B,DRIAMS-C,Campylobacter jejuni,Ciprofloxacin,21,15.0,0.7142857142857143,52,27.0,0.5192307692307693,False
+DRIAMS-B,DRIAMS-C,Campylobacter jejuni,Erythromycin,21,0.0,0.0,52,1.0,0.019230769230769232,False
+DRIAMS-B,DRIAMS-C,Citrobacter braakii,Amikacin,3,0.0,0.0,1,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Citrobacter braakii,Amoxicillin-Clavulanic acid,3,3.0,1.0,3,2.0,0.6666666666666666,False
+DRIAMS-B,DRIAMS-C,Citrobacter braakii,Ampicillin,3,3.0,1.0,3,3.0,1.0,False
+DRIAMS-B,DRIAMS-C,Citrobacter braakii,Cefepime,3,0.0,0.0,1,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Citrobacter braakii,Ceftazidime,3,1.0,0.3333333333333333,3,1.0,0.3333333333333333,False
+DRIAMS-B,DRIAMS-C,Citrobacter braakii,Ceftriaxone,3,1.0,0.3333333333333333,3,1.0,0.3333333333333333,False
+DRIAMS-B,DRIAMS-C,Citrobacter braakii,Cefuroxime,3,1.0,0.3333333333333333,3,1.0,0.3333333333333333,False
+DRIAMS-B,DRIAMS-C,Citrobacter braakii,Ciprofloxacin,3,0.0,0.0,3,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Citrobacter braakii,Fosfomycin,3,0.0,0.0,2,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Citrobacter braakii,Gentamicin,3,0.0,0.0,3,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Citrobacter braakii,Imipenem,3,0.0,0.0,1,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Citrobacter braakii,Nitrofurantoin,3,0.0,0.0,2,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Citrobacter braakii,Norfloxacin,3,0.0,0.0,2,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Citrobacter braakii,Piperacillin-Tazobactam,3,1.0,0.3333333333333333,1,1.0,1.0,False
+DRIAMS-B,DRIAMS-C,Citrobacter freundii,Amikacin,14,0.0,0.0,37,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Citrobacter freundii,Amoxicillin-Clavulanic acid,15,15.0,1.0,57,57.0,1.0,False
+DRIAMS-B,DRIAMS-C,Citrobacter freundii,Ampicillin,15,15.0,1.0,57,57.0,1.0,False
+DRIAMS-B,DRIAMS-C,Citrobacter freundii,Cefepime,15,2.0,0.13333333333333333,34,2.0,0.058823529411764705,False
+DRIAMS-B,DRIAMS-C,Citrobacter freundii,Ceftazidime,15,5.0,0.3333333333333333,57,17.0,0.2982456140350877,False
+DRIAMS-B,DRIAMS-C,Citrobacter freundii,Ceftriaxone,15,5.0,0.3333333333333333,57,17.0,0.2982456140350877,False
+DRIAMS-B,DRIAMS-C,Citrobacter freundii,Cefuroxime,15,7.0,0.4666666666666667,57,18.0,0.3157894736842105,False
+DRIAMS-B,DRIAMS-C,Citrobacter freundii,Ciprofloxacin,15,0.0,0.0,57,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Citrobacter freundii,Ertapenem,15,0.0,0.0,3,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Citrobacter freundii,Fosfomycin,15,1.0,0.06666666666666667,28,2.0,0.07142857142857142,False
+DRIAMS-B,DRIAMS-C,Citrobacter freundii,Gentamicin,15,0.0,0.0,57,2.0,0.03508771929824561,False
+DRIAMS-B,DRIAMS-C,Citrobacter freundii,Imipenem,15,0.0,0.0,37,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Citrobacter freundii,Nitrofurantoin,15,0.0,0.0,28,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Citrobacter freundii,Norfloxacin,15,0.0,0.0,28,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Citrobacter freundii,Piperacillin-Tazobactam,15,6.0,0.4,37,9.0,0.24324324324324326,False
+DRIAMS-B,DRIAMS-C,Citrobacter koseri,Amikacin,39,0.0,0.0,67,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Citrobacter koseri,Amoxicillin-Clavulanic acid,40,0.0,0.0,119,8.0,0.06722689075630252,False
+DRIAMS-B,DRIAMS-C,Citrobacter koseri,Ampicillin,40,40.0,1.0,119,119.0,1.0,False
+DRIAMS-B,DRIAMS-C,Citrobacter koseri,Cefepime,40,0.0,0.0,67,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Citrobacter koseri,Ceftazidime,40,0.0,0.0,119,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Citrobacter koseri,Ceftriaxone,40,0.0,0.0,119,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Citrobacter koseri,Cefuroxime,40,13.0,0.325,119,21.0,0.17647058823529413,False
+DRIAMS-B,DRIAMS-C,Citrobacter koseri,Ciprofloxacin,40,0.0,0.0,119,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Citrobacter koseri,Fosfomycin,40,1.0,0.025,54,2.0,0.037037037037037035,False
+DRIAMS-B,DRIAMS-C,Citrobacter koseri,Gentamicin,40,0.0,0.0,119,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Citrobacter koseri,Imipenem,40,0.0,0.0,67,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Citrobacter koseri,Nitrofurantoin,40,0.0,0.0,54,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Citrobacter koseri,Norfloxacin,40,2.0,0.05,54,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Citrobacter koseri,Piperacillin-Tazobactam,39,2.0,0.05128205128205128,67,6.0,0.08955223880597014,False
+DRIAMS-B,DRIAMS-C,Cronobacter sakazakii,Amoxicillin-Clavulanic acid,1,0.0,0.0,2,2.0,1.0,False
+DRIAMS-B,DRIAMS-C,Cronobacter sakazakii,Ampicillin,1,1.0,1.0,2,2.0,1.0,False
+DRIAMS-B,DRIAMS-C,Cronobacter sakazakii,Ceftazidime,1,0.0,0.0,2,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Cronobacter sakazakii,Ceftriaxone,1,0.0,0.0,2,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Cronobacter sakazakii,Cefuroxime,1,1.0,1.0,2,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Cronobacter sakazakii,Ciprofloxacin,1,0.0,0.0,2,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Cronobacter sakazakii,Fosfomycin,1,1.0,1.0,2,2.0,1.0,False
+DRIAMS-B,DRIAMS-C,Cronobacter sakazakii,Gentamicin,1,0.0,0.0,2,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Cronobacter sakazakii,Nitrofurantoin,1,0.0,0.0,2,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Cronobacter sakazakii,Norfloxacin,1,0.0,0.0,2,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Enterobacter aerogenes,Amikacin,24,0.0,0.0,37,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Enterobacter aerogenes,Amoxicillin-Clavulanic acid,24,24.0,1.0,63,63.0,1.0,False
+DRIAMS-B,DRIAMS-C,Enterobacter aerogenes,Ampicillin,24,24.0,1.0,63,63.0,1.0,False
+DRIAMS-B,DRIAMS-C,Enterobacter aerogenes,Cefepime,24,1.0,0.041666666666666664,40,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Enterobacter aerogenes,Ceftazidime,24,5.0,0.20833333333333334,63,16.0,0.25396825396825395,False
+DRIAMS-B,DRIAMS-C,Enterobacter aerogenes,Ceftriaxone,24,5.0,0.20833333333333334,63,15.0,0.23809523809523808,False
+DRIAMS-B,DRIAMS-C,Enterobacter aerogenes,Cefuroxime,24,21.0,0.875,63,22.0,0.3492063492063492,False
+DRIAMS-B,DRIAMS-C,Enterobacter aerogenes,Ciprofloxacin,24,3.0,0.125,63,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Enterobacter aerogenes,Fosfomycin,24,5.0,0.20833333333333334,33,21.0,0.6363636363636364,False
+DRIAMS-B,DRIAMS-C,Enterobacter aerogenes,Gentamicin,24,0.0,0.0,63,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Enterobacter aerogenes,Imipenem,24,0.0,0.0,37,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Enterobacter aerogenes,Nitrofurantoin,24,24.0,1.0,33,11.0,0.3333333333333333,False
+DRIAMS-B,DRIAMS-C,Enterobacter aerogenes,Norfloxacin,24,3.0,0.125,33,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Enterobacter aerogenes,Piperacillin-Tazobactam,24,8.0,0.3333333333333333,37,13.0,0.35135135135135137,False
+DRIAMS-B,DRIAMS-C,Enterobacter asburiae,Amikacin,6,0.0,0.0,13,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Enterobacter asburiae,Amoxicillin-Clavulanic acid,6,6.0,1.0,19,19.0,1.0,False
+DRIAMS-B,DRIAMS-C,Enterobacter asburiae,Ampicillin,6,6.0,1.0,19,19.0,1.0,False
+DRIAMS-B,DRIAMS-C,Enterobacter asburiae,Cefepime,6,0.0,0.0,14,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Enterobacter asburiae,Ceftazidime,6,1.0,0.16666666666666666,19,5.0,0.2631578947368421,False
+DRIAMS-B,DRIAMS-C,Enterobacter asburiae,Ceftriaxone,6,1.0,0.16666666666666666,19,5.0,0.2631578947368421,False
+DRIAMS-B,DRIAMS-C,Enterobacter asburiae,Cefuroxime,6,6.0,1.0,19,5.0,0.2631578947368421,False
+DRIAMS-B,DRIAMS-C,Enterobacter asburiae,Ciprofloxacin,6,1.0,0.16666666666666666,19,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Enterobacter asburiae,Fosfomycin,6,5.0,0.8333333333333334,10,9.0,0.9,False
+DRIAMS-B,DRIAMS-C,Enterobacter asburiae,Gentamicin,6,0.0,0.0,19,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Enterobacter asburiae,Imipenem,3,0.0,0.0,14,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Enterobacter asburiae,Nitrofurantoin,6,5.0,0.8333333333333334,10,1.0,0.1,False
+DRIAMS-B,DRIAMS-C,Enterobacter asburiae,Norfloxacin,6,3.0,0.5,10,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Enterobacter asburiae,Piperacillin-Tazobactam,6,1.0,0.16666666666666666,14,5.0,0.35714285714285715,False
+DRIAMS-B,DRIAMS-C,Enterobacter cloacae,Amikacin,67,0.0,0.0,114,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Enterobacter cloacae,Amoxicillin-Clavulanic acid,69,69.0,1.0,170,170.0,1.0,False
+DRIAMS-B,DRIAMS-C,Enterobacter cloacae,Ampicillin,69,69.0,1.0,170,170.0,1.0,False
+DRIAMS-B,DRIAMS-C,Enterobacter cloacae,Cefepime,69,9.0,0.13043478260869565,114,15.0,0.13157894736842105,False
+DRIAMS-B,DRIAMS-C,Enterobacter cloacae,Ceftazidime,69,17.0,0.2463768115942029,170,44.0,0.25882352941176473,False
+DRIAMS-B,DRIAMS-C,Enterobacter cloacae,Ceftriaxone,69,17.0,0.2463768115942029,170,46.0,0.27058823529411763,False
+DRIAMS-B,DRIAMS-C,Enterobacter cloacae,Cefuroxime,69,69.0,1.0,170,68.0,0.4,False
+DRIAMS-B,DRIAMS-C,Enterobacter cloacae,Ciprofloxacin,69,1.0,0.014492753623188406,170,2.0,0.011764705882352941,False
+DRIAMS-B,DRIAMS-C,Enterobacter cloacae,Fosfomycin,69,28.0,0.4057971014492754,78,58.0,0.7435897435897436,False
+DRIAMS-B,DRIAMS-C,Enterobacter cloacae,Gentamicin,69,0.0,0.0,170,1.0,0.0058823529411764705,False
+DRIAMS-B,DRIAMS-C,Enterobacter cloacae,Imipenem,69,0.0,0.0,114,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Enterobacter cloacae,Nitrofurantoin,69,69.0,1.0,78,10.0,0.1282051282051282,False
+DRIAMS-B,DRIAMS-C,Enterobacter cloacae,Norfloxacin,69,4.0,0.057971014492753624,78,2.0,0.02564102564102564,False
+DRIAMS-B,DRIAMS-C,Enterobacter cloacae,Piperacillin-Tazobactam,68,19.0,0.27941176470588236,114,37.0,0.32456140350877194,False
+DRIAMS-B,DRIAMS-C,Enterobacter kobei,Amikacin,17,0.0,0.0,2,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Enterobacter kobei,Amoxicillin-Clavulanic acid,17,17.0,1.0,3,3.0,1.0,False
+DRIAMS-B,DRIAMS-C,Enterobacter kobei,Ampicillin,17,17.0,1.0,3,3.0,1.0,False
+DRIAMS-B,DRIAMS-C,Enterobacter kobei,Cefepime,17,1.0,0.058823529411764705,2,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Enterobacter kobei,Ceftazidime,17,3.0,0.17647058823529413,3,1.0,0.3333333333333333,False
+DRIAMS-B,DRIAMS-C,Enterobacter kobei,Ceftriaxone,17,3.0,0.17647058823529413,3,1.0,0.3333333333333333,False
+DRIAMS-B,DRIAMS-C,Enterobacter kobei,Cefuroxime,17,17.0,1.0,3,1.0,0.3333333333333333,False
+DRIAMS-B,DRIAMS-C,Enterobacter kobei,Ciprofloxacin,17,0.0,0.0,3,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Enterobacter kobei,Fosfomycin,17,9.0,0.5294117647058824,1,1.0,1.0,False
+DRIAMS-B,DRIAMS-C,Enterobacter kobei,Gentamicin,17,0.0,0.0,3,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Enterobacter kobei,Imipenem,17,0.0,0.0,2,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Enterobacter kobei,Nitrofurantoin,17,16.0,0.9411764705882353,1,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Enterobacter kobei,Norfloxacin,17,1.0,0.058823529411764705,1,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Enterobacter kobei,Piperacillin-Tazobactam,17,3.0,0.17647058823529413,2,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Enterobacter ludwigii,Amikacin,3,0.0,0.0,3,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Enterobacter ludwigii,Amoxicillin-Clavulanic acid,3,3.0,1.0,4,4.0,1.0,False
+DRIAMS-B,DRIAMS-C,Enterobacter ludwigii,Ampicillin,3,3.0,1.0,4,4.0,1.0,False
+DRIAMS-B,DRIAMS-C,Enterobacter ludwigii,Cefepime,3,0.0,0.0,3,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Enterobacter ludwigii,Ceftazidime,3,1.0,0.3333333333333333,4,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Enterobacter ludwigii,Ceftriaxone,3,1.0,0.3333333333333333,4,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Enterobacter ludwigii,Cefuroxime,3,3.0,1.0,4,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Enterobacter ludwigii,Ciprofloxacin,3,0.0,0.0,4,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Enterobacter ludwigii,Fosfomycin,3,3.0,1.0,1,1.0,1.0,False
+DRIAMS-B,DRIAMS-C,Enterobacter ludwigii,Gentamicin,3,0.0,0.0,4,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Enterobacter ludwigii,Imipenem,3,0.0,0.0,3,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Enterobacter ludwigii,Nitrofurantoin,3,3.0,1.0,1,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Enterobacter ludwigii,Norfloxacin,3,0.0,0.0,1,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Enterobacter ludwigii,Piperacillin-Tazobactam,3,1.0,0.3333333333333333,3,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Enterococcus avium,Amoxicillin-Clavulanic acid,7,0.0,0.0,8,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Enterococcus avium,Ampicillin,7,0.0,0.0,8,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Enterococcus avium,Imipenem,7,0.0,0.0,2,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Enterococcus avium,Linezolid,6,0.0,0.0,8,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Enterococcus avium,Piperacillin-Tazobactam,7,0.0,0.0,8,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Enterococcus avium,Vancomycin,6,0.0,0.0,8,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Enterococcus faecalis,Amoxicillin-Clavulanic acid,171,1.0,0.005847953216374269,530,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Enterococcus faecalis,Ampicillin,171,1.0,0.005847953216374269,530,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Enterococcus faecalis,Imipenem,170,1.0,0.0058823529411764705,9,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Enterococcus faecalis,Levofloxacin,172,14.0,0.08139534883720931,1,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Enterococcus faecalis,Linezolid,172,0.0,0.0,175,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Enterococcus faecalis,Nitrofurantoin,171,5.0,0.029239766081871343,362,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Enterococcus faecalis,Piperacillin-Tazobactam,171,1.0,0.005847953216374269,530,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Enterococcus faecalis,Teicoplanin,171,1.0,0.005847953216374269,3,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Enterococcus faecalis,Vancomycin,171,1.0,0.005847953216374269,174,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Enterococcus faecium,Amoxicillin-Clavulanic acid,41,35.0,0.8536585365853658,93,77.0,0.8279569892473119,False
+DRIAMS-B,DRIAMS-C,Enterococcus faecium,Ampicillin,41,35.0,0.8536585365853658,93,77.0,0.8279569892473119,False
+DRIAMS-B,DRIAMS-C,Enterococcus faecium,Levofloxacin,41,27.0,0.6585365853658537,3,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Enterococcus faecium,Linezolid,41,0.0,0.0,93,3.0,0.03225806451612903,False
+DRIAMS-B,DRIAMS-C,Enterococcus faecium,Nitrofurantoin,36,5.0,0.1388888888888889,9,3.0,0.3333333333333333,False
+DRIAMS-B,DRIAMS-C,Enterococcus faecium,Piperacillin-Tazobactam,41,35.0,0.8536585365853658,92,76.0,0.8260869565217391,False
+DRIAMS-B,DRIAMS-C,Enterococcus faecium,Teicoplanin,41,8.0,0.1951219512195122,3,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Enterococcus faecium,Vancomycin,41,13.0,0.3170731707317073,93,4.0,0.043010752688172046,False
+DRIAMS-B,DRIAMS-C,Enterococcus gallinarum,Amoxicillin-Clavulanic acid,1,0.0,0.0,8,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Enterococcus gallinarum,Ampicillin,1,0.0,0.0,8,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Enterococcus gallinarum,Linezolid,1,0.0,0.0,8,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Enterococcus gallinarum,Piperacillin-Tazobactam,1,0.0,0.0,8,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Enterococcus gallinarum,Vancomycin,1,1.0,1.0,8,7.0,0.875,False
+DRIAMS-B,DRIAMS-C,Escherichia coli,Amikacin,205,12.0,0.05853658536585366,624,6.0,0.009615384615384616,False
+DRIAMS-B,DRIAMS-C,Escherichia coli,Amoxicillin-Clavulanic acid,213,76.0,0.3568075117370892,902,230.0,0.2549889135254989,False
+DRIAMS-B,DRIAMS-C,Escherichia coli,Ampicillin,213,136.0,0.6384976525821596,884,544.0,0.6153846153846154,False
+DRIAMS-B,DRIAMS-C,Escherichia coli,Cefepime,213,43.0,0.20187793427230047,622,126.0,0.20257234726688103,False
+DRIAMS-B,DRIAMS-C,Escherichia coli,Ceftazidime,213,45.0,0.2112676056338028,915,146.0,0.15956284153005465,False
+DRIAMS-B,DRIAMS-C,Escherichia coli,Ceftriaxone,213,45.0,0.2112676056338028,916,151.0,0.1648471615720524,False
+DRIAMS-B,DRIAMS-C,Escherichia coli,Cefuroxime,213,54.0,0.2535211267605634,909,188.0,0.2068206820682068,False
+DRIAMS-B,DRIAMS-C,Escherichia coli,Ciprofloxacin,213,59.0,0.27699530516431925,889,191.0,0.21484814398200225,False
+DRIAMS-B,DRIAMS-C,Escherichia coli,Ertapenem,213,2.0,0.009389671361502348,4,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Escherichia coli,Fosfomycin,213,0.0,0.0,471,38.0,0.08067940552016985,False
+DRIAMS-B,DRIAMS-C,Escherichia coli,Gentamicin,213,27.0,0.1267605633802817,911,93.0,0.10208562019758508,False
+DRIAMS-B,DRIAMS-C,Escherichia coli,Imipenem,213,0.0,0.0,623,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Escherichia coli,Meropenem,205,0.0,0.0,3,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Escherichia coli,Nitrofurantoin,213,3.0,0.014084507042253521,471,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Escherichia coli,Norfloxacin,213,72.0,0.3380281690140845,446,122.0,0.273542600896861,False
+DRIAMS-B,DRIAMS-C,Escherichia coli,Piperacillin-Tazobactam,213,49.0,0.2300469483568075,623,52.0,0.08346709470304976,False
+DRIAMS-B,DRIAMS-C,Finegoldia magna,Amoxicillin-Clavulanic acid,9,0.0,0.0,6,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Finegoldia magna,Clindamycin,9,0.0,0.0,6,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Finegoldia magna,Metronidazole,9,0.0,0.0,6,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Granulicatella adiacens,Ampicillin,2,0.0,0.0,7,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Granulicatella adiacens,Clindamycin,2,0.0,0.0,7,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Granulicatella adiacens,Vancomycin,2,0.0,0.0,7,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Haemophilus influenzae,Amoxicillin-Clavulanic acid,2,0.0,0.0,60,4.0,0.06666666666666667,False
+DRIAMS-B,DRIAMS-C,Haemophilus influenzae,Ampicillin,2,1.0,0.5,60,7.0,0.11666666666666667,False
+DRIAMS-B,DRIAMS-C,Haemophilus influenzae,Ceftriaxone,2,0.0,0.0,60,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Haemophilus influenzae,Ciprofloxacin,2,0.0,0.0,60,1.0,0.016666666666666666,False
+DRIAMS-B,DRIAMS-C,Hafnia alvei,Amikacin,2,0.0,0.0,6,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Hafnia alvei,Amoxicillin-Clavulanic acid,2,2.0,1.0,6,6.0,1.0,False
+DRIAMS-B,DRIAMS-C,Hafnia alvei,Ampicillin,2,2.0,1.0,6,6.0,1.0,False
+DRIAMS-B,DRIAMS-C,Hafnia alvei,Cefepime,2,0.0,0.0,6,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Hafnia alvei,Ceftazidime,2,1.0,0.5,6,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Hafnia alvei,Ceftriaxone,2,1.0,0.5,6,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Hafnia alvei,Cefuroxime,2,1.0,0.5,6,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Hafnia alvei,Ciprofloxacin,2,0.0,0.0,6,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Hafnia alvei,Gentamicin,2,0.0,0.0,6,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Hafnia alvei,Imipenem,2,0.0,0.0,6,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Hafnia alvei,Piperacillin-Tazobactam,2,1.0,0.5,6,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Klebsiella oxytoca,Amikacin,44,0.0,0.0,83,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Klebsiella oxytoca,Amoxicillin-Clavulanic acid,46,10.0,0.21739130434782608,132,15.0,0.11363636363636363,False
+DRIAMS-B,DRIAMS-C,Klebsiella oxytoca,Ampicillin,46,46.0,1.0,132,132.0,1.0,False
+DRIAMS-B,DRIAMS-C,Klebsiella oxytoca,Cefepime,46,1.0,0.021739130434782608,83,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Klebsiella oxytoca,Ceftazidime,42,1.0,0.023809523809523808,132,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Klebsiella oxytoca,Ceftriaxone,46,7.0,0.15217391304347827,132,13.0,0.09848484848484848,False
+DRIAMS-B,DRIAMS-C,Klebsiella oxytoca,Cefuroxime,46,8.0,0.17391304347826086,132,14.0,0.10606060606060606,False
+DRIAMS-B,DRIAMS-C,Klebsiella oxytoca,Ciprofloxacin,46,2.0,0.043478260869565216,132,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Klebsiella oxytoca,Fosfomycin,42,12.0,0.2857142857142857,61,50.0,0.819672131147541,False
+DRIAMS-B,DRIAMS-C,Klebsiella oxytoca,Gentamicin,46,3.0,0.06521739130434782,132,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Klebsiella oxytoca,Imipenem,46,0.0,0.0,83,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Klebsiella oxytoca,Nitrofurantoin,42,41.0,0.9761904761904762,61,3.0,0.04918032786885246,False
+DRIAMS-B,DRIAMS-C,Klebsiella oxytoca,Norfloxacin,42,5.0,0.11904761904761904,61,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Klebsiella oxytoca,Piperacillin-Tazobactam,46,7.0,0.15217391304347827,83,14.0,0.1686746987951807,False
+DRIAMS-B,DRIAMS-C,Klebsiella pneumoniae,Amikacin,147,0.0,0.0,185,4.0,0.021621621621621623,False
+DRIAMS-B,DRIAMS-C,Klebsiella pneumoniae,Amoxicillin-Clavulanic acid,152,24.0,0.15789473684210525,365,54.0,0.14794520547945206,False
+DRIAMS-B,DRIAMS-C,Klebsiella pneumoniae,Ampicillin,152,152.0,1.0,366,366.0,1.0,False
+DRIAMS-B,DRIAMS-C,Klebsiella pneumoniae,Cefepime,152,18.0,0.11842105263157894,185,53.0,0.2864864864864865,False
+DRIAMS-B,DRIAMS-C,Klebsiella pneumoniae,Ceftazidime,152,18.0,0.11842105263157894,365,57.0,0.15616438356164383,False
+DRIAMS-B,DRIAMS-C,Klebsiella pneumoniae,Ceftriaxone,152,18.0,0.11842105263157894,366,55.0,0.15027322404371585,False
+DRIAMS-B,DRIAMS-C,Klebsiella pneumoniae,Cefuroxime,152,31.0,0.20394736842105263,360,63.0,0.175,False
+DRIAMS-B,DRIAMS-C,Klebsiella pneumoniae,Ciprofloxacin,152,22.0,0.14473684210526316,366,48.0,0.13114754098360656,False
+DRIAMS-B,DRIAMS-C,Klebsiella pneumoniae,Ertapenem,152,6.0,0.039473684210526314,2,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Klebsiella pneumoniae,Fosfomycin,152,28.0,0.18421052631578946,230,196.0,0.8521739130434782,False
+DRIAMS-B,DRIAMS-C,Klebsiella pneumoniae,Gentamicin,152,3.0,0.019736842105263157,366,23.0,0.06284153005464481,False
+DRIAMS-B,DRIAMS-C,Klebsiella pneumoniae,Imipenem,152,1.0,0.006578947368421052,185,5.0,0.02702702702702703,False
+DRIAMS-B,DRIAMS-C,Klebsiella pneumoniae,Meropenem,147,1.0,0.006802721088435374,4,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Klebsiella pneumoniae,Nitrofurantoin,152,150.0,0.9868421052631579,230,29.0,0.12608695652173912,False
+DRIAMS-B,DRIAMS-C,Klebsiella pneumoniae,Norfloxacin,152,29.0,0.19078947368421054,230,30.0,0.13043478260869565,False
+DRIAMS-B,DRIAMS-C,Klebsiella pneumoniae,Piperacillin-Tazobactam,151,32.0,0.2119205298013245,184,39.0,0.21195652173913043,False
+DRIAMS-B,DRIAMS-C,Morganella morganii,Amikacin,29,0.0,0.0,52,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Morganella morganii,Amoxicillin-Clavulanic acid,31,31.0,1.0,93,93.0,1.0,False
+DRIAMS-B,DRIAMS-C,Morganella morganii,Ampicillin,31,31.0,1.0,93,93.0,1.0,False
+DRIAMS-B,DRIAMS-C,Morganella morganii,Cefepime,31,0.0,0.0,52,1.0,0.019230769230769232,False
+DRIAMS-B,DRIAMS-C,Morganella morganii,Ceftazidime,31,1.0,0.03225806451612903,93,1.0,0.010752688172043012,False
+DRIAMS-B,DRIAMS-C,Morganella morganii,Ceftriaxone,31,1.0,0.03225806451612903,93,1.0,0.010752688172043012,False
+DRIAMS-B,DRIAMS-C,Morganella morganii,Cefuroxime,31,31.0,1.0,93,91.0,0.978494623655914,False
+DRIAMS-B,DRIAMS-C,Morganella morganii,Ciprofloxacin,31,4.0,0.12903225806451613,92,3.0,0.03260869565217391,False
+DRIAMS-B,DRIAMS-C,Morganella morganii,Fosfomycin,30,30.0,1.0,46,45.0,0.9782608695652174,False
+DRIAMS-B,DRIAMS-C,Morganella morganii,Gentamicin,31,1.0,0.03225806451612903,93,2.0,0.021505376344086023,False
+DRIAMS-B,DRIAMS-C,Morganella morganii,Imipenem,31,7.0,0.22580645161290322,50,2.0,0.04,False
+DRIAMS-B,DRIAMS-C,Morganella morganii,Nitrofurantoin,31,31.0,1.0,46,40.0,0.8695652173913043,False
+DRIAMS-B,DRIAMS-C,Morganella morganii,Norfloxacin,31,4.0,0.12903225806451613,46,3.0,0.06521739130434782,False
+DRIAMS-B,DRIAMS-C,Morganella morganii,Piperacillin-Tazobactam,31,0.0,0.0,53,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Neisseria gonorrhoeae,Ceftriaxone,2,0.0,0.0,2,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Neisseria gonorrhoeae,Ciprofloxacin,2,0.0,0.0,2,2.0,1.0,False
+DRIAMS-B,DRIAMS-C,Neisseria gonorrhoeae,Tetracycline,2,2.0,1.0,2,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Pasteurella multocida,Amoxicillin-Clavulanic acid,2,0.0,0.0,2,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Pasteurella multocida,Ciprofloxacin,2,0.0,0.0,10,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Peptoniphilus harei,Amoxicillin-Clavulanic acid,1,0.0,0.0,10,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Peptoniphilus harei,Clindamycin,1,0.0,0.0,10,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Peptoniphilus harei,Metronidazole,1,0.0,0.0,10,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Prevotella bivia,Amoxicillin-Clavulanic acid,2,0.0,0.0,12,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Prevotella bivia,Clindamycin,2,0.0,0.0,12,6.0,0.5,False
+DRIAMS-B,DRIAMS-C,Prevotella bivia,Metronidazole,2,0.0,0.0,12,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Prevotella disiens,Amoxicillin-Clavulanic acid,6,0.0,0.0,7,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Prevotella disiens,Clindamycin,6,0.0,0.0,7,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Prevotella disiens,Metronidazole,6,0.0,0.0,7,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Proteus mirabilis,Amikacin,83,0.0,0.0,105,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Proteus mirabilis,Amoxicillin-Clavulanic acid,85,4.0,0.047058823529411764,220,14.0,0.06363636363636363,False
+DRIAMS-B,DRIAMS-C,Proteus mirabilis,Ampicillin,85,29.0,0.3411764705882353,220,96.0,0.43636363636363634,False
+DRIAMS-B,DRIAMS-C,Proteus mirabilis,Cefepime,85,0.0,0.0,105,11.0,0.10476190476190476,False
+DRIAMS-B,DRIAMS-C,Proteus mirabilis,Ceftazidime,83,1.0,0.012048192771084338,220,7.0,0.031818181818181815,False
+DRIAMS-B,DRIAMS-C,Proteus mirabilis,Ceftriaxone,85,1.0,0.011764705882352941,220,16.0,0.07272727272727272,False
+DRIAMS-B,DRIAMS-C,Proteus mirabilis,Cefuroxime,84,0.0,0.0,220,11.0,0.05,False
+DRIAMS-B,DRIAMS-C,Proteus mirabilis,Ciprofloxacin,85,15.0,0.17647058823529413,220,24.0,0.10909090909090909,False
+DRIAMS-B,DRIAMS-C,Proteus mirabilis,Ertapenem,85,0.0,0.0,1,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Proteus mirabilis,Fosfomycin,85,9.0,0.10588235294117647,131,31.0,0.2366412213740458,False
+DRIAMS-B,DRIAMS-C,Proteus mirabilis,Gentamicin,85,8.0,0.09411764705882353,220,26.0,0.11818181818181818,False
+DRIAMS-B,DRIAMS-C,Proteus mirabilis,Imipenem,83,25.0,0.30120481927710846,105,6.0,0.05714285714285714,False
+DRIAMS-B,DRIAMS-C,Proteus mirabilis,Meropenem,83,0.0,0.0,6,6.0,1.0,False
+DRIAMS-B,DRIAMS-C,Proteus mirabilis,Nitrofurantoin,85,85.0,1.0,131,129.0,0.9847328244274809,False
+DRIAMS-B,DRIAMS-C,Proteus mirabilis,Norfloxacin,85,15.0,0.17647058823529413,131,21.0,0.16030534351145037,False
+DRIAMS-B,DRIAMS-C,Proteus mirabilis,Piperacillin-Tazobactam,85,1.0,0.011764705882352941,105,6.0,0.05714285714285714,False
+DRIAMS-B,DRIAMS-C,Proteus vulgaris,Amikacin,17,0.0,0.0,27,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Proteus vulgaris,Amoxicillin-Clavulanic acid,18,2.0,0.1111111111111111,68,6.0,0.08823529411764706,False
+DRIAMS-B,DRIAMS-C,Proteus vulgaris,Ampicillin,18,18.0,1.0,68,68.0,1.0,False
+DRIAMS-B,DRIAMS-C,Proteus vulgaris,Cefepime,18,0.0,0.0,27,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Proteus vulgaris,Ceftazidime,18,0.0,0.0,68,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Proteus vulgaris,Ceftriaxone,18,0.0,0.0,68,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Proteus vulgaris,Cefuroxime,18,18.0,1.0,68,65.0,0.9558823529411765,False
+DRIAMS-B,DRIAMS-C,Proteus vulgaris,Ciprofloxacin,18,0.0,0.0,68,1.0,0.014705882352941176,False
+DRIAMS-B,DRIAMS-C,Proteus vulgaris,Fosfomycin,18,1.0,0.05555555555555555,42,8.0,0.19047619047619047,False
+DRIAMS-B,DRIAMS-C,Proteus vulgaris,Gentamicin,18,0.0,0.0,68,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Proteus vulgaris,Imipenem,18,8.0,0.4444444444444444,27,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Proteus vulgaris,Nitrofurantoin,18,18.0,1.0,42,42.0,1.0,False
+DRIAMS-B,DRIAMS-C,Proteus vulgaris,Norfloxacin,18,0.0,0.0,42,1.0,0.023809523809523808,False
+DRIAMS-B,DRIAMS-C,Proteus vulgaris,Piperacillin-Tazobactam,18,0.0,0.0,27,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Providencia rettgeri,Amoxicillin-Clavulanic acid,8,8.0,1.0,9,7.0,0.7777777777777778,False
+DRIAMS-B,DRIAMS-C,Providencia rettgeri,Ampicillin,8,8.0,1.0,9,7.0,0.7777777777777778,False
+DRIAMS-B,DRIAMS-C,Providencia rettgeri,Ceftazidime,8,0.0,0.0,9,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Providencia rettgeri,Ceftriaxone,8,0.0,0.0,9,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Providencia rettgeri,Cefuroxime,8,0.0,0.0,9,2.0,0.2222222222222222,False
+DRIAMS-B,DRIAMS-C,Providencia rettgeri,Ciprofloxacin,8,0.0,0.0,9,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Providencia rettgeri,Fosfomycin,8,4.0,0.5,9,3.0,0.3333333333333333,False
+DRIAMS-B,DRIAMS-C,Providencia rettgeri,Gentamicin,8,0.0,0.0,9,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Providencia rettgeri,Nitrofurantoin,8,8.0,1.0,9,9.0,1.0,False
+DRIAMS-B,DRIAMS-C,Providencia rettgeri,Norfloxacin,8,0.0,0.0,9,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Pseudomonas aeruginosa,Amikacin,135,9.0,0.06666666666666667,357,19.0,0.05322128851540616,False
+DRIAMS-B,DRIAMS-C,Pseudomonas aeruginosa,Cefepime,142,5.0,0.035211267605633804,357,34.0,0.09523809523809523,False
+DRIAMS-B,DRIAMS-C,Pseudomonas aeruginosa,Ceftazidime,138,2.0,0.014492753623188406,357,32.0,0.0896358543417367,False
+DRIAMS-B,DRIAMS-C,Pseudomonas aeruginosa,Ciprofloxacin,142,16.0,0.11267605633802817,357,33.0,0.09243697478991597,False
+DRIAMS-B,DRIAMS-C,Pseudomonas aeruginosa,Imipenem,139,15.0,0.1079136690647482,357,31.0,0.08683473389355742,False
+DRIAMS-B,DRIAMS-C,Pseudomonas aeruginosa,Meropenem,129,10.0,0.07751937984496124,2,2.0,1.0,False
+DRIAMS-B,DRIAMS-C,Pseudomonas aeruginosa,Piperacillin-Tazobactam,142,12.0,0.08450704225352113,357,32.0,0.0896358543417367,False
+DRIAMS-B,DRIAMS-C,Pseudomonas monteilii,Amikacin,3,0.0,0.0,2,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Pseudomonas monteilii,Cefepime,3,0.0,0.0,2,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Pseudomonas monteilii,Ciprofloxacin,3,0.0,0.0,2,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Pseudomonas monteilii,Imipenem,3,0.0,0.0,2,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Pseudomonas monteilii,Piperacillin-Tazobactam,3,0.0,0.0,2,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Raoultella ornithinolytica,Amikacin,5,0.0,0.0,6,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Raoultella ornithinolytica,Amoxicillin-Clavulanic acid,6,0.0,0.0,10,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Raoultella ornithinolytica,Ampicillin,6,6.0,1.0,10,10.0,1.0,False
+DRIAMS-B,DRIAMS-C,Raoultella ornithinolytica,Cefepime,6,0.0,0.0,6,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Raoultella ornithinolytica,Ceftazidime,6,0.0,0.0,10,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Raoultella ornithinolytica,Ceftriaxone,6,0.0,0.0,10,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Raoultella ornithinolytica,Cefuroxime,6,0.0,0.0,10,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Raoultella ornithinolytica,Ciprofloxacin,6,0.0,0.0,10,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Raoultella ornithinolytica,Fosfomycin,6,2.0,0.3333333333333333,4,4.0,1.0,False
+DRIAMS-B,DRIAMS-C,Raoultella ornithinolytica,Gentamicin,6,0.0,0.0,10,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Raoultella ornithinolytica,Imipenem,6,0.0,0.0,6,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Raoultella ornithinolytica,Nitrofurantoin,6,6.0,1.0,4,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Raoultella ornithinolytica,Norfloxacin,6,0.0,0.0,4,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Raoultella ornithinolytica,Piperacillin-Tazobactam,6,0.0,0.0,6,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Serratia marcescens,Amikacin,15,2.0,0.13333333333333333,61,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Serratia marcescens,Amoxicillin-Clavulanic acid,16,16.0,1.0,87,87.0,1.0,False
+DRIAMS-B,DRIAMS-C,Serratia marcescens,Ampicillin,16,16.0,1.0,87,87.0,1.0,False
+DRIAMS-B,DRIAMS-C,Serratia marcescens,Cefepime,16,0.0,0.0,59,6.0,0.1016949152542373,False
+DRIAMS-B,DRIAMS-C,Serratia marcescens,Ceftazidime,16,0.0,0.0,85,7.0,0.08235294117647059,False
+DRIAMS-B,DRIAMS-C,Serratia marcescens,Ceftriaxone,16,2.0,0.125,85,8.0,0.09411764705882353,False
+DRIAMS-B,DRIAMS-C,Serratia marcescens,Cefuroxime,16,16.0,1.0,87,87.0,1.0,False
+DRIAMS-B,DRIAMS-C,Serratia marcescens,Ciprofloxacin,16,0.0,0.0,87,3.0,0.034482758620689655,False
+DRIAMS-B,DRIAMS-C,Serratia marcescens,Fosfomycin,16,4.0,0.25,27,12.0,0.4444444444444444,False
+DRIAMS-B,DRIAMS-C,Serratia marcescens,Gentamicin,16,2.0,0.125,87,6.0,0.06896551724137931,False
+DRIAMS-B,DRIAMS-C,Serratia marcescens,Imipenem,14,0.0,0.0,61,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Serratia marcescens,Nitrofurantoin,16,16.0,1.0,27,27.0,1.0,False
+DRIAMS-B,DRIAMS-C,Serratia marcescens,Norfloxacin,16,1.0,0.0625,27,1.0,0.037037037037037035,False
+DRIAMS-B,DRIAMS-C,Serratia marcescens,Piperacillin-Tazobactam,16,2.0,0.125,61,13.0,0.21311475409836064,False
+DRIAMS-B,DRIAMS-C,Staphylococcus aureus,Amoxicillin-Clavulanic acid,346,21.0,0.06069364161849711,738,41.0,0.05555555555555555,True
+DRIAMS-B,DRIAMS-C,Staphylococcus aureus,Ciprofloxacin,348,26.0,0.07471264367816093,738,33.0,0.044715447154471545,True
+DRIAMS-B,DRIAMS-C,Staphylococcus aureus,Clindamycin,348,37.0,0.10632183908045977,651,79.0,0.12135176651305683,True
+DRIAMS-B,DRIAMS-C,Staphylococcus aureus,Daptomycin,338,0.0,0.0,7,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Staphylococcus aureus,Fusidic acid,346,20.0,0.057803468208092484,651,17.0,0.026113671274961597,True
+DRIAMS-B,DRIAMS-C,Staphylococcus aureus,Gentamicin,348,8.0,0.022988505747126436,738,15.0,0.02032520325203252,False
+DRIAMS-B,DRIAMS-C,Staphylococcus aureus,Linezolid,346,0.0,0.0,2,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Staphylococcus aureus,Mupirocin,346,1.0,0.002890173410404624,25,1.0,0.04,False
+DRIAMS-B,DRIAMS-C,Staphylococcus aureus,Oxacillin,346,21.0,0.06069364161849711,738,41.0,0.05555555555555555,True
+DRIAMS-B,DRIAMS-C,Staphylococcus aureus,Rifampicin,348,0.0,0.0,648,4.0,0.006172839506172839,False
+DRIAMS-B,DRIAMS-C,Staphylococcus aureus,Vancomycin,346,0.0,0.0,651,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Staphylococcus capitis,Amoxicillin-Clavulanic acid,26,2.0,0.07692307692307693,4,1.0,0.25,False
+DRIAMS-B,DRIAMS-C,Staphylococcus capitis,Ciprofloxacin,26,2.0,0.07692307692307693,4,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Staphylococcus capitis,Clindamycin,26,10.0,0.38461538461538464,4,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Staphylococcus capitis,Fusidic acid,26,12.0,0.46153846153846156,4,1.0,0.25,False
+DRIAMS-B,DRIAMS-C,Staphylococcus capitis,Gentamicin,26,0.0,0.0,4,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Staphylococcus capitis,Oxacillin,26,2.0,0.07692307692307693,4,1.0,0.25,False
+DRIAMS-B,DRIAMS-C,Staphylococcus capitis,Rifampicin,26,0.0,0.0,4,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Staphylococcus capitis,Vancomycin,26,0.0,0.0,4,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Staphylococcus epidermidis,Amoxicillin-Clavulanic acid,220,129.0,0.5863636363636363,21,5.0,0.23809523809523808,False
+DRIAMS-B,DRIAMS-C,Staphylococcus epidermidis,Ciprofloxacin,220,94.0,0.42727272727272725,21,5.0,0.23809523809523808,False
+DRIAMS-B,DRIAMS-C,Staphylococcus epidermidis,Clindamycin,216,89.0,0.41203703703703703,21,2.0,0.09523809523809523,False
+DRIAMS-B,DRIAMS-C,Staphylococcus epidermidis,Daptomycin,214,1.0,0.004672897196261682,1,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Staphylococcus epidermidis,Fusidic acid,218,101.0,0.463302752293578,21,9.0,0.42857142857142855,False
+DRIAMS-B,DRIAMS-C,Staphylococcus epidermidis,Gentamicin,220,59.0,0.2681818181818182,21,8.0,0.38095238095238093,False
+DRIAMS-B,DRIAMS-C,Staphylococcus epidermidis,Oxacillin,220,129.0,0.5863636363636363,21,5.0,0.23809523809523808,False
+DRIAMS-B,DRIAMS-C,Staphylococcus epidermidis,Rifampicin,220,3.0,0.013636363636363636,21,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Staphylococcus epidermidis,Vancomycin,218,0.0,0.0,21,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Staphylococcus haemolyticus,Amoxicillin-Clavulanic acid,27,20.0,0.7407407407407407,1,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Staphylococcus haemolyticus,Ciprofloxacin,27,19.0,0.7037037037037037,1,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Staphylococcus haemolyticus,Clindamycin,23,16.0,0.6956521739130435,1,1.0,1.0,False
+DRIAMS-B,DRIAMS-C,Staphylococcus haemolyticus,Fusidic acid,27,10.0,0.37037037037037035,1,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Staphylococcus haemolyticus,Gentamicin,27,19.0,0.7037037037037037,1,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Staphylococcus haemolyticus,Oxacillin,27,20.0,0.7407407407407407,1,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Staphylococcus haemolyticus,Rifampicin,27,6.0,0.2222222222222222,1,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Staphylococcus haemolyticus,Vancomycin,27,0.0,0.0,1,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Staphylococcus hominis,Amoxicillin-Clavulanic acid,35,10.0,0.2857142857142857,3,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Staphylococcus hominis,Ciprofloxacin,38,1.0,0.02631578947368421,3,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Staphylococcus hominis,Clindamycin,37,14.0,0.3783783783783784,3,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Staphylococcus hominis,Fusidic acid,38,16.0,0.42105263157894735,3,3.0,1.0,False
+DRIAMS-B,DRIAMS-C,Staphylococcus hominis,Gentamicin,38,0.0,0.0,3,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Staphylococcus hominis,Oxacillin,35,10.0,0.2857142857142857,3,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Staphylococcus hominis,Rifampicin,38,0.0,0.0,3,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Staphylococcus hominis,Vancomycin,38,0.0,0.0,3,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Staphylococcus lugdunensis,Amoxicillin-Clavulanic acid,25,1.0,0.04,67,6.0,0.08955223880597014,False
+DRIAMS-B,DRIAMS-C,Staphylococcus lugdunensis,Ciprofloxacin,25,0.0,0.0,67,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Staphylococcus lugdunensis,Clindamycin,24,0.0,0.0,63,3.0,0.047619047619047616,False
+DRIAMS-B,DRIAMS-C,Staphylococcus lugdunensis,Fusidic acid,25,0.0,0.0,63,1.0,0.015873015873015872,False
+DRIAMS-B,DRIAMS-C,Staphylococcus lugdunensis,Gentamicin,25,0.0,0.0,67,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Staphylococcus lugdunensis,Mupirocin,25,0.0,0.0,6,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Staphylococcus lugdunensis,Oxacillin,22,1.0,0.045454545454545456,67,6.0,0.08955223880597014,False
+DRIAMS-B,DRIAMS-C,Staphylococcus lugdunensis,Rifampicin,25,0.0,0.0,63,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Staphylococcus lugdunensis,Vancomycin,25,0.0,0.0,63,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Staphylococcus pettenkoferi,Amoxicillin-Clavulanic acid,2,2.0,1.0,1,1.0,1.0,False
+DRIAMS-B,DRIAMS-C,Staphylococcus pettenkoferi,Ciprofloxacin,2,0.0,0.0,1,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Staphylococcus pettenkoferi,Clindamycin,2,0.0,0.0,1,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Staphylococcus pettenkoferi,Fusidic acid,2,0.0,0.0,1,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Staphylococcus pettenkoferi,Gentamicin,2,0.0,0.0,1,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Staphylococcus pettenkoferi,Oxacillin,2,2.0,1.0,1,1.0,1.0,False
+DRIAMS-B,DRIAMS-C,Staphylococcus pettenkoferi,Rifampicin,2,0.0,0.0,1,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Staphylococcus pettenkoferi,Vancomycin,2,0.0,0.0,1,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Staphylococcus saprophyticus,Amoxicillin-Clavulanic acid,8,1.0,0.125,7,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Staphylococcus saprophyticus,Ciprofloxacin,9,0.0,0.0,7,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Staphylococcus saprophyticus,Gentamicin,9,0.0,0.0,7,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Staphylococcus saprophyticus,Oxacillin,8,1.0,0.125,7,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Streptococcus dysgalactiae,Amoxicillin-Clavulanic acid,27,0.0,0.0,2,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Streptococcus dysgalactiae,Ampicillin,27,0.0,0.0,2,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Streptococcus dysgalactiae,Clarithromycin,27,6.0,0.2222222222222222,2,2.0,1.0,False
+DRIAMS-B,DRIAMS-C,Streptococcus dysgalactiae,Clindamycin,27,6.0,0.2222222222222222,2,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Streptococcus dysgalactiae,Vancomycin,24,0.0,0.0,2,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Streptococcus gallolyticus,Ampicillin,6,0.0,0.0,4,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Streptococcus gallolyticus,Ceftriaxone,6,0.0,0.0,2,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Streptococcus gallolyticus,Clindamycin,6,2.0,0.3333333333333333,4,2.0,0.5,False
+DRIAMS-B,DRIAMS-C,Streptococcus gallolyticus,Vancomycin,6,0.0,0.0,4,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Streptococcus oralis,Amoxicillin-Clavulanic acid,1,0.0,0.0,3,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Streptococcus oralis,Ampicillin,17,0.0,0.0,3,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Streptococcus oralis,Clarithromycin,2,0.0,0.0,3,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Streptococcus oralis,Clindamycin,17,0.0,0.0,3,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Streptococcus oralis,Gentamicin,2,2.0,1.0,5,5.0,1.0,False
+DRIAMS-B,DRIAMS-C,Streptococcus oralis,Vancomycin,17,0.0,0.0,3,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Streptococcus pneumoniae,Amoxicillin-Clavulanic acid,18,1.0,0.05555555555555555,24,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Streptococcus pneumoniae,Ampicillin,18,1.0,0.05555555555555555,24,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Streptococcus pneumoniae,Ceftriaxone,23,1.0,0.043478260869565216,3,0.0,0.0,False
+DRIAMS-B,DRIAMS-C,Streptococcus pneumoniae,Clarithromycin,23,2.0,0.08695652173913043,24,1.0,0.041666666666666664,False
+DRIAMS-B,DRIAMS-C,Streptococcus pneumoniae,Clindamycin,18,2.0,0.1111111111111111,24,1.0,0.041666666666666664,False
+DRIAMS-B,DRIAMS-C,Streptococcus pneumoniae,Vancomycin,18,0.0,0.0,24,0.0,0.0,False

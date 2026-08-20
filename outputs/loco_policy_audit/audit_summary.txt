@@ -1,0 +1,32 @@
+LOCO POLICY AUDIT
+========================================================================
+Goal: determine whether poor held-out-cluster policy performance coincides with descriptor-space extrapolation.
+
+BUDGET 20
+------------------------------------------------------------------------
+Worst-regret cluster: DRIAMS-A->DRIAMS-C|Klebsiella pneumoniae | regret=0.010481 | gain_vs_random=+0.000000 | direction_acc=0.000
+Most descriptor-OOD cluster: DRIAMS-A->DRIAMS-C|Proteus mirabilis | nearest standardized cluster distance=3.881 | outside-range descriptors=3
+Spearman(OOD nearest-distance, regret) across clusters = +0.090
+
+BUDGET 30
+------------------------------------------------------------------------
+Worst-regret cluster: DRIAMS-A->DRIAMS-B|Staphylococcus epidermidis | regret=0.007619 | gain_vs_random=-0.007113 | direction_acc=0.143
+Most descriptor-OOD cluster: DRIAMS-A->DRIAMS-C|Proteus mirabilis | nearest standardized cluster distance=3.881 | outside-range descriptors=3
+Spearman(OOD nearest-distance, regret) across clusters = +0.204
+
+BUDGET 50
+------------------------------------------------------------------------
+Worst-regret cluster: DRIAMS-A->DRIAMS-B|Staphylococcus epidermidis | regret=0.007889 | gain_vs_random=-0.007540 | direction_acc=0.143
+Most descriptor-OOD cluster: DRIAMS-A->DRIAMS-C|Proteus mirabilis | nearest standardized cluster distance=3.881 | outside-range descriptors=3
+Spearman(OOD nearest-distance, regret) across clusters = -0.089
+
+FOCUS: DRIAMS-A->DRIAMS-B|Staphylococcus epidermidis
+------------------------------------------------------------------------
+Budget 20 | obsΔ=-0.004521 | predΔ=+0.000099 | acc=0.286 | regret=0.004165 | nearest_dist=2.763 | outside=5 | nearest=DRIAMS-A->DRIAMS-B|Escherichia coli
+Budget 30 | obsΔ=-0.007113 | predΔ=+0.009560 | acc=0.143 | regret=0.007619 | nearest_dist=2.763 | outside=5 | nearest=DRIAMS-A->DRIAMS-B|Escherichia coli
+Budget 50 | obsΔ=-0.007540 | predΔ=+0.008615 | acc=0.143 | regret=0.007889 | nearest_dist=2.763 | outside=5 | nearest=DRIAMS-A->DRIAMS-B|Escherichia coli
+
+INTERPRETATION GUIDE
+------------------------------------------------------------------------
+If the worst-policy clusters also have high standardized nearest-cluster distance and/or descriptors outside the training range, failure is compatible with descriptor-space extrapolation.
+If poor performance occurs despite low OOD distance and all descriptors lying inside the training range, the current five descriptors are insufficient to distinguish acquisition regimes, rather than the failure being explained simply by extrapolation.

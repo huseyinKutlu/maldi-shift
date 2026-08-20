@@ -1,0 +1,2 @@
+analysis,site,species,drug,ncomp,auroc,prauc,brier,slope,n,positives,prevalence
+within_site_tested_vs_untested,DRIAMS-A,Staphylococcus aureus,Oxacillin,100,0.6970806610470421,0.7229470360960898,0.2153965078947996,1.045191491586092,6994,3790,0.5418930511867315

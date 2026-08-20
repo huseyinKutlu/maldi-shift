@@ -1,0 +1,34 @@
+MALDI-DRIAMS FINAL MANUSCRIPT RESULTS
+==========================================
+
+Transfer tasks: 20
+Species-site transfer clusters: 7
+
+SHIFT PREDICTOR CONFIRMATION
+----------------------------
+domain_auc_svd: Spearman rho=-0.783, 95% CI [-0.903, -0.499], p=4.39223e-05
+source_internal_diversity: Spearman rho=0.709, 95% CI [0.343, 0.901], p=0.000461827
+centroid_distance_svd: Spearman rho=-0.656, 95% CI [-0.840, -0.278], p=0.00169837
+covariance_distance_svd: Spearman rho=-0.618, 95% CI [-0.804, -0.244], p=0.00368142
+source_to_target_nn_distance: Spearman rho=-0.594, 95% CI [-0.801, -0.161], p=0.00575425
+source_only_auroc_mean: Spearman rho=-0.511, 95% CI [-0.760, -0.116], p=0.0212206
+Best Ridge LOGO: alpha=10.0, RMSE=0.0079, Pearson r=0.687, Spearman rho=0.597
+Ridge permutation p=0.00019996
+
+LEAKAGE-FREE SELECTIVE POLICY
+------------------------------
+20 labels: Random=0.5481, Hybrid=0.5485, Policy=0.5504, Oracle=0.5507; Policy-Random=+0.0023 [+0.0005, +0.0044]; direction accuracy=80%
+30 labels: Random=0.5517, Hybrid=0.5535, Policy=0.5553, Oracle=0.5561; Policy-Random=+0.0037 [+0.0017, +0.0062]; direction accuracy=85%
+50 labels: Random=0.5577, Hybrid=0.5597, Policy=0.5619, Oracle=0.5629; Policy-Random=+0.0042 [+0.0014, +0.0074]; direction accuracy=80%
+
+CLUSTER-AWARE ROBUSTNESS
+-------------------------
+20 labels: Policy-Random delta PR-AUC=+0.0023, cluster 95% CI [+0.0004, +0.0048], p-style=0.0413
+30 labels: Policy-Random delta PR-AUC=+0.0037, cluster 95% CI [+0.0008, +0.0083], p-style=0.0053
+50 labels: Policy-Random delta PR-AUC=+0.0042, cluster 95% CI [+0.0015, +0.0110], p-style=0.0003
+
+FINAL INTERPRETATION
+--------------------
+No single target-acquisition strategy is universally optimal across transfers.
+Unlabeled spectral shift descriptors predict whether Hybrid or Random acquisition is preferable.
+The leakage-free selective policy outperforms Always-Random at 20, 30, and 50 labels, and these gains remain positive under species-site cluster-aware bootstrap.

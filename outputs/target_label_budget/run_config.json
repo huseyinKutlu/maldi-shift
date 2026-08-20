@@ -1,0 +1,15 @@
+{
+  "species": "Staphylococcus aureus",
+  "drug": "Oxacillin",
+  "source": "DRIAMS-A",
+  "target": "DRIAMS-C",
+  "labels": "outputs/driams_long.parquet",
+  "matrices": "matrices",
+  "root": "~/data/DRIAMS",
+  "out": "outputs/target_label_budget",
+  "budgets": "0.01,0.025,0.05,0.10,0.20,0.50,1.00",
+  "reps": 20,
+  "test_fraction": 0.5,
+  "bootstrap_reps": 5000,
+  "min_pos": 2
+}

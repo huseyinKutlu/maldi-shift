@@ -1,0 +1,18 @@
+{
+  "multitask_dir": "outputs/multitask_active_validation_final",
+  "shift_dir": "outputs/shift_predictors",
+  "out": "outputs/policy_cluster_permutation",
+  "budgets": "20,30,50",
+  "permutations": 500,
+  "alphas": "0.01,0.1,1,10,100",
+  "seed": 0,
+  "predictors": [
+    "domain_auc_svd",
+    "centroid_distance_svd",
+    "covariance_distance_svd",
+    "source_to_target_nn_distance",
+    "source_internal_diversity"
+  ],
+  "cluster_unit": "source->target|species",
+  "note": "Cluster-level permutation sensitivity; limited to seven species-site clusters."
+}

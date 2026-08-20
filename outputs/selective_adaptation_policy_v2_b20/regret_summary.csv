@@ -1,0 +1,2 @@
+mean_regret,median_regret,ci_low,ci_high,zero_regret_fraction,correct_direction_fraction
+0.000308002323761461,0.0,4.32039823636321e-05,0.0006739859899328432,0.8,0.8

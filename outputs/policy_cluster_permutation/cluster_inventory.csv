@@ -1,0 +1,22 @@
+cluster_id,n_transfers,budget_n
+DRIAMS-A->DRIAMS-B|Escherichia coli,1,20
+DRIAMS-A->DRIAMS-B|Staphylococcus epidermidis,7,20
+DRIAMS-A->DRIAMS-C|Escherichia coli,7,20
+DRIAMS-A->DRIAMS-C|Klebsiella pneumoniae,1,20
+DRIAMS-A->DRIAMS-C|Proteus mirabilis,1,20
+DRIAMS-A->DRIAMS-C|Staphylococcus aureus,2,20
+DRIAMS-B->DRIAMS-C|Staphylococcus aureus,1,20
+DRIAMS-A->DRIAMS-B|Escherichia coli,1,30
+DRIAMS-A->DRIAMS-B|Staphylococcus epidermidis,7,30
+DRIAMS-A->DRIAMS-C|Escherichia coli,7,30
+DRIAMS-A->DRIAMS-C|Klebsiella pneumoniae,1,30
+DRIAMS-A->DRIAMS-C|Proteus mirabilis,1,30
+DRIAMS-A->DRIAMS-C|Staphylococcus aureus,2,30
+DRIAMS-B->DRIAMS-C|Staphylococcus aureus,1,30
+DRIAMS-A->DRIAMS-B|Escherichia coli,1,50
+DRIAMS-A->DRIAMS-B|Staphylococcus epidermidis,7,50
+DRIAMS-A->DRIAMS-C|Escherichia coli,7,50
+DRIAMS-A->DRIAMS-C|Klebsiella pneumoniae,1,50
+DRIAMS-A->DRIAMS-C|Proteus mirabilis,1,50
+DRIAMS-A->DRIAMS-C|Staphylococcus aureus,2,50
+DRIAMS-B->DRIAMS-C|Staphylococcus aureus,1,50

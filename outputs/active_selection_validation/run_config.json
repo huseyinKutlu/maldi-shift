@@ -1,0 +1,5 @@
+{
+  "raw": "outputs/active_target_selection/Staphylococcus_aureus__Oxacillin__DRIAMS-A_to_DRIAMS-C__raw.csv",
+  "out": "outputs/active_selection_validation",
+  "bootstrap_reps": 10000
+}

@@ -1,0 +1,3 @@
+class_label,class_name,n_source,n_target,domain_auroc,centroid_distance
+0,susceptible,3064,697,0.9935175369262524,0.016016222536563873
+1,resistant,726,41,0.9671101256467111,0.01904171332716942

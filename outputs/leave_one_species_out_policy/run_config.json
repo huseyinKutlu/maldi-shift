@@ -1,0 +1,15 @@
+{
+  "multitask_dir": "outputs/multitask_active_validation_final",
+  "shift_dir": "outputs/shift_predictors",
+  "out": "outputs/leave_one_species_out_policy",
+  "budgets": "20,30,50",
+  "alphas": "0.01,0.1,1,10,100",
+  "predictors": [
+    "domain_auc_svd",
+    "centroid_distance_svd",
+    "covariance_distance_svd",
+    "source_to_target_nn_distance",
+    "source_internal_diversity"
+  ],
+  "primary_sensitivity_question": "Does Policy-Random remain positive after excluding each species?"
+}

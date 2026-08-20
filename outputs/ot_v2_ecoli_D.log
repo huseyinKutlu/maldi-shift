@@ -1,0 +1,82 @@
+nohup: ignoring input
+Escherichia coli/Ceftriaxone: kaynak n=4,961 | hedef n=1,994 direnc=0.099
+  tekrar 1/10 (adapt=1329, test=665)
+  tekrar 2/10 (adapt=1329, test=665)
+  tekrar 3/10 (adapt=1329, test=665)
+  tekrar 4/10 (adapt=1329, test=665)
+  tekrar 5/10 (adapt=1329, test=665)
+  tekrar 6/10 (adapt=1329, test=665)
+  tekrar 7/10 (adapt=1329, test=665)
+  tekrar 8/10 (adapt=1329, test=665)
+  tekrar 9/10 (adapt=1329, test=665)
+  tekrar 10/10 (adapt=1329, test=665)
+
+=== TABAN CIZGILERI ===
+  raw6000    PR-AUC 0.446 [0.425-0.464]
+  svd_none   PR-AUC 0.443 [0.431-0.456]
+
+=== OT: ETIKETSIZ HEDEF SPEKTRUM EGRISI (PR-AUC) ===
+yontem  sinkhorn                            sinkhorn_l1l2                             
+reg         0.05            0.50                     0.05              0.50           
+reg_cl       0.1 1.0    NaN  0.1 1.0    NaN           0.1    1.0 NaN    0.1    1.0 NaN
+n_unlab                                                                               
+100          NaN NaN  0.136  NaN NaN  0.121         0.302  0.322 NaN  0.312  0.318 NaN
+250          NaN NaN  0.159  NaN NaN  0.122         0.330  0.332 NaN  0.337  0.358 NaN
+500          NaN NaN  0.165  NaN NaN  0.120         0.350  0.374 NaN  0.360  0.366 NaN
+1329         NaN NaN  0.201  NaN NaN  0.139         0.359  0.363 NaN  0.363  0.363 NaN
+
+=== ALAN AYIRT EDILEBILIRLIGI (once -> sonra) ===
+                                   dom_once  dom_sonra
+yontem        reg  reg_cl n_unlab                     
+sinkhorn      0.05 NaN    100         0.989      0.951
+                          250         0.993      0.976
+                          500         0.995      0.982
+                          1329        0.995      0.989
+              0.50 NaN    100         0.989      1.000
+                          250         0.993      1.000
+                          500         0.995      1.000
+                          1329        0.995      1.000
+sinkhorn_l1l2 0.05 0.1    100         0.989      0.998
+                          250         0.993      0.998
+                          500         0.995      0.999
+                          1329        0.995      0.999
+                   1.0    100         0.989      0.998
+                          250         0.993      0.999
+                          500         0.995      0.999
+                          1329        0.995      0.999
+              0.50 0.1    100         0.989      0.998
+                          250         0.993      0.999
+                          500         0.995      0.999
+                          1329        0.995      0.999
+                   1.0    100         0.989      0.998
+                          250         0.993      0.999
+                          500         0.995      0.999
+                          1329        0.995      0.999
+
+=== ESLESTIRILMIS FARK (OT - svd_none, ayni n_unlab) ===
+  sinkhorn       reg=0.05 rc=nan nu= 100 | dPR -0.282 [-0.306,-0.259] | EVET
+  sinkhorn       reg=0.05 rc=nan nu= 250 | dPR -0.275 [-0.296,-0.253] | EVET
+  sinkhorn       reg=0.05 rc=nan nu= 500 | dPR -0.297 [-0.314,-0.281] | EVET
+  sinkhorn       reg=0.05 rc=nan nu=1329 | dPR -0.257 [-0.299,-0.214] | EVET
+  sinkhorn       reg=0.5 rc=nan nu= 100 | dPR -0.298 [-0.322,-0.276] | EVET
+  sinkhorn       reg=0.5 rc=nan nu= 250 | dPR -0.313 [-0.340,-0.285] | EVET
+  sinkhorn       reg=0.5 rc=nan nu= 500 | dPR -0.341 [-0.359,-0.322] | EVET
+  sinkhorn       reg=0.5 rc=nan nu=1329 | dPR -0.320 [-0.351,-0.287] | EVET
+  sinkhorn_l1l2  reg=0.05 rc=0.1 nu= 100 | dPR -0.116 [-0.160,-0.081] | EVET
+  sinkhorn_l1l2  reg=0.05 rc=0.1 nu= 250 | dPR -0.105 [-0.141,-0.073] | EVET
+  sinkhorn_l1l2  reg=0.05 rc=0.1 nu= 500 | dPR -0.112 [-0.145,-0.079] | EVET
+  sinkhorn_l1l2  reg=0.05 rc=0.1 nu=1329 | dPR -0.100 [-0.140,-0.059] | EVET
+  sinkhorn_l1l2  reg=0.05 rc=1.0 nu= 100 | dPR -0.097 [-0.135,-0.064] | EVET
+  sinkhorn_l1l2  reg=0.05 rc=1.0 nu= 250 | dPR -0.102 [-0.136,-0.066] | EVET
+  sinkhorn_l1l2  reg=0.05 rc=1.0 nu= 500 | dPR -0.087 [-0.125,-0.048] | EVET
+  sinkhorn_l1l2  reg=0.05 rc=1.0 nu=1329 | dPR -0.096 [-0.132,-0.059] | EVET
+  sinkhorn_l1l2  reg=0.5 rc=0.1 nu= 100 | dPR -0.107 [-0.149,-0.069] | EVET
+  sinkhorn_l1l2  reg=0.5 rc=0.1 nu= 250 | dPR -0.097 [-0.134,-0.063] | EVET
+  sinkhorn_l1l2  reg=0.5 rc=0.1 nu= 500 | dPR -0.101 [-0.134,-0.071] | EVET
+  sinkhorn_l1l2  reg=0.5 rc=0.1 nu=1329 | dPR -0.095 [-0.122,-0.068] | EVET
+  sinkhorn_l1l2  reg=0.5 rc=1.0 nu= 100 | dPR -0.101 [-0.147,-0.060] | EVET
+  sinkhorn_l1l2  reg=0.5 rc=1.0 nu= 250 | dPR -0.076 [-0.113,-0.041] | EVET
+  sinkhorn_l1l2  reg=0.5 rc=1.0 nu= 500 | dPR -0.095 [-0.139,-0.055] | EVET
+  sinkhorn_l1l2  reg=0.5 rc=1.0 nu=1329 | dPR -0.096 [-0.124,-0.072] | EVET
+
+kayit: outputs/ot_v2/Escherichia_coli__Ceftriaxone__DRIAMS-D_raw.csv

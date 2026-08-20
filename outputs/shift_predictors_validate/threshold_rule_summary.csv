@@ -1,0 +1,7 @@
+predictor,n,accuracy,balanced_accuracy,mean_threshold,modal_direction
+source_internal_diversity,20,0.9,0.8901098901098901,8.306799565309888,ge
+domain_auc_svd,20,0.85,0.8516483516483516,0.9943536770237609,le
+centroid_distance_svd,20,0.85,0.8516483516483516,0.8516481593251228,le
+source_to_target_nn_distance,20,0.85,0.8186813186813187,12.656275784868676,le
+covariance_distance_svd,20,0.8,0.8131868131868132,0.7790454828319635,le
+source_only_auroc_mean,20,0.6,0.6263736263736264,0.6629004860690587,le

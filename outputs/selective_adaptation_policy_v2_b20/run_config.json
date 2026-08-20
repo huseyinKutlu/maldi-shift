@@ -1,0 +1,16 @@
+{
+  "multitask_dir": "outputs/multitask_active_validation_final",
+  "shift_dir": "outputs/shift_predictors",
+  "out": "outputs/selective_adaptation_policy_v2_b20",
+  "budget": 20,
+  "bootstrap_reps": 10000,
+  "alphas": "0.01,0.1,1,10,100",
+  "leakage_free_predictors": [
+    "domain_auc_svd",
+    "centroid_distance_svd",
+    "covariance_distance_svd",
+    "source_to_target_nn_distance",
+    "source_internal_diversity"
+  ],
+  "policy": "Outer LOTO; inner LOTO alpha selection; Hybrid if predicted delta PR-AUC > 0, else Random."
+}

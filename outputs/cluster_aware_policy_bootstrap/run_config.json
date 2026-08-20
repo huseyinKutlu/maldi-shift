@@ -1,0 +1,8 @@
+{
+  "b20": "outputs/selective_adaptation_policy_v2_b20/policy_predictions.csv",
+  "b30": "outputs/selective_adaptation_policy_v2/policy_predictions.csv",
+  "b50": "outputs/selective_adaptation_policy_v2_b50/policy_predictions.csv",
+  "out": "outputs/cluster_aware_policy_bootstrap",
+  "bootstrap_reps": 20000,
+  "cluster_definition": "source->target|species"
+}

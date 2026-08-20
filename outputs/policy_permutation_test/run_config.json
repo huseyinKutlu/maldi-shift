@@ -1,0 +1,18 @@
+{
+  "multitask_dir": "outputs/multitask_active_validation_final",
+  "shift_dir": "outputs/shift_predictors",
+  "out": "outputs/policy_permutation_test",
+  "budgets": "20,30,50",
+  "permutations": 10000,
+  "alphas": "0.01,0.1,1,10,100",
+  "seed": 0,
+  "predictors": [
+    "domain_auc_svd",
+    "centroid_distance_svd",
+    "covariance_distance_svd",
+    "source_to_target_nn_distance",
+    "source_internal_diversity"
+  ],
+  "permutation_target": "delta_prauc_hybrid_random across transfer tasks",
+  "evaluation": "Observed random/hybrid PR-AUC retained; only the policy-learning target is permuted."
+}

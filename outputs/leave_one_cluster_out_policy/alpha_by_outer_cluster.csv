@@ -1,0 +1,22 @@
+budget_n,outer_held_cluster,selected_alpha,n_train_clusters,n_test_tasks
+20,DRIAMS-A->DRIAMS-B|Escherichia coli,100.0,6,1
+20,DRIAMS-A->DRIAMS-B|Staphylococcus epidermidis,100.0,6,7
+20,DRIAMS-A->DRIAMS-C|Escherichia coli,1.0,6,7
+20,DRIAMS-A->DRIAMS-C|Klebsiella pneumoniae,100.0,6,1
+20,DRIAMS-A->DRIAMS-C|Proteus mirabilis,100.0,6,1
+20,DRIAMS-A->DRIAMS-C|Staphylococcus aureus,1.0,6,2
+20,DRIAMS-B->DRIAMS-C|Staphylococcus aureus,1.0,6,1
+30,DRIAMS-A->DRIAMS-B|Escherichia coli,100.0,6,1
+30,DRIAMS-A->DRIAMS-B|Staphylococcus epidermidis,100.0,6,7
+30,DRIAMS-A->DRIAMS-C|Escherichia coli,100.0,6,7
+30,DRIAMS-A->DRIAMS-C|Klebsiella pneumoniae,100.0,6,1
+30,DRIAMS-A->DRIAMS-C|Proteus mirabilis,100.0,6,1
+30,DRIAMS-A->DRIAMS-C|Staphylococcus aureus,100.0,6,2
+30,DRIAMS-B->DRIAMS-C|Staphylococcus aureus,100.0,6,1
+50,DRIAMS-A->DRIAMS-B|Escherichia coli,100.0,6,1
+50,DRIAMS-A->DRIAMS-B|Staphylococcus epidermidis,100.0,6,7
+50,DRIAMS-A->DRIAMS-C|Escherichia coli,1.0,6,7
+50,DRIAMS-A->DRIAMS-C|Klebsiella pneumoniae,10.0,6,1
+50,DRIAMS-A->DRIAMS-C|Proteus mirabilis,1.0,6,1
+50,DRIAMS-A->DRIAMS-C|Staphylococcus aureus,100.0,6,2
+50,DRIAMS-B->DRIAMS-C|Staphylococcus aureus,100.0,6,1

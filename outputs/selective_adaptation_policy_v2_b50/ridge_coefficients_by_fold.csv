@@ -1,0 +1,101 @@
+transfer_id,predictor,coefficient,alpha
+DRIAMS-A->DRIAMS-B|Escherichia coli|Amoxicillin-Clavulanic acid,domain_auc_svd,-0.002703303665977021,10.0
+DRIAMS-A->DRIAMS-B|Escherichia coli|Amoxicillin-Clavulanic acid,centroid_distance_svd,-0.0013062755090296563,10.0
+DRIAMS-A->DRIAMS-B|Escherichia coli|Amoxicillin-Clavulanic acid,covariance_distance_svd,-0.00020657806119469296,10.0
+DRIAMS-A->DRIAMS-B|Escherichia coli|Amoxicillin-Clavulanic acid,source_to_target_nn_distance,-0.001470227876164662,10.0
+DRIAMS-A->DRIAMS-B|Escherichia coli|Amoxicillin-Clavulanic acid,source_internal_diversity,0.0011576538879649548,10.0
+DRIAMS-A->DRIAMS-B|Staphylococcus epidermidis|Amoxicillin-Clavulanic acid,domain_auc_svd,-0.008124776369837529,1.0
+DRIAMS-A->DRIAMS-B|Staphylococcus epidermidis|Amoxicillin-Clavulanic acid,centroid_distance_svd,0.0020337846843757183,1.0
+DRIAMS-A->DRIAMS-B|Staphylococcus epidermidis|Amoxicillin-Clavulanic acid,covariance_distance_svd,0.0024631073014505264,1.0
+DRIAMS-A->DRIAMS-B|Staphylococcus epidermidis|Amoxicillin-Clavulanic acid,source_to_target_nn_distance,-0.0029316844539739612,1.0
+DRIAMS-A->DRIAMS-B|Staphylococcus epidermidis|Amoxicillin-Clavulanic acid,source_internal_diversity,0.00017164348230095698,1.0
+DRIAMS-A->DRIAMS-B|Staphylococcus epidermidis|Cefepime,domain_auc_svd,-0.008079991375897586,1.0
+DRIAMS-A->DRIAMS-B|Staphylococcus epidermidis|Cefepime,centroid_distance_svd,0.0020192724159890426,1.0
+DRIAMS-A->DRIAMS-B|Staphylococcus epidermidis|Cefepime,covariance_distance_svd,0.002409919623816488,1.0
+DRIAMS-A->DRIAMS-B|Staphylococcus epidermidis|Cefepime,source_to_target_nn_distance,-0.003032678461526701,1.0
+DRIAMS-A->DRIAMS-B|Staphylococcus epidermidis|Cefepime,source_internal_diversity,0.0002135229413738374,1.0
+DRIAMS-A->DRIAMS-B|Staphylococcus epidermidis|Ciprofloxacin,domain_auc_svd,-0.00836685089817513,1.0
+DRIAMS-A->DRIAMS-B|Staphylococcus epidermidis|Ciprofloxacin,centroid_distance_svd,0.0019061641786233628,1.0
+DRIAMS-A->DRIAMS-B|Staphylococcus epidermidis|Ciprofloxacin,covariance_distance_svd,0.0025459443782267473,1.0
+DRIAMS-A->DRIAMS-B|Staphylococcus epidermidis|Ciprofloxacin,source_to_target_nn_distance,-0.003133562913440225,1.0
+DRIAMS-A->DRIAMS-B|Staphylococcus epidermidis|Ciprofloxacin,source_internal_diversity,0.00024902035590110424,1.0
+DRIAMS-A->DRIAMS-B|Staphylococcus epidermidis|Clindamycin,domain_auc_svd,-0.00793037626983542,1.0
+DRIAMS-A->DRIAMS-B|Staphylococcus epidermidis|Clindamycin,centroid_distance_svd,0.001990206498431174,1.0
+DRIAMS-A->DRIAMS-B|Staphylococcus epidermidis|Clindamycin,covariance_distance_svd,0.0023706866038904146,1.0
+DRIAMS-A->DRIAMS-B|Staphylococcus epidermidis|Clindamycin,source_to_target_nn_distance,-0.0026344360122675745,1.0
+DRIAMS-A->DRIAMS-B|Staphylococcus epidermidis|Clindamycin,source_internal_diversity,0.00017006853824914832,1.0
+DRIAMS-A->DRIAMS-B|Staphylococcus epidermidis|Erythromycin,domain_auc_svd,-0.007779785156214315,1.0
+DRIAMS-A->DRIAMS-B|Staphylococcus epidermidis|Erythromycin,centroid_distance_svd,0.0013681257700776486,1.0
+DRIAMS-A->DRIAMS-B|Staphylococcus epidermidis|Erythromycin,covariance_distance_svd,0.0025053906346764365,1.0
+DRIAMS-A->DRIAMS-B|Staphylococcus epidermidis|Erythromycin,source_to_target_nn_distance,-0.0015034355043619192,1.0
+DRIAMS-A->DRIAMS-B|Staphylococcus epidermidis|Erythromycin,source_internal_diversity,-2.1961585234202003e-05,1.0
+DRIAMS-A->DRIAMS-B|Staphylococcus epidermidis|Fusidic acid,domain_auc_svd,-0.007926282576849393,1.0
+DRIAMS-A->DRIAMS-B|Staphylococcus epidermidis|Fusidic acid,centroid_distance_svd,0.0020104222315224397,1.0
+DRIAMS-A->DRIAMS-B|Staphylococcus epidermidis|Fusidic acid,covariance_distance_svd,0.0023738299581449068,1.0
+DRIAMS-A->DRIAMS-B|Staphylococcus epidermidis|Fusidic acid,source_to_target_nn_distance,-0.002648832815376419,1.0
+DRIAMS-A->DRIAMS-B|Staphylococcus epidermidis|Fusidic acid,source_internal_diversity,0.0001280090551362201,1.0
+DRIAMS-A->DRIAMS-B|Staphylococcus epidermidis|Oxacillin,domain_auc_svd,-0.008113577290791017,1.0
+DRIAMS-A->DRIAMS-B|Staphylococcus epidermidis|Oxacillin,centroid_distance_svd,0.0020626761516661075,1.0
+DRIAMS-A->DRIAMS-B|Staphylococcus epidermidis|Oxacillin,covariance_distance_svd,0.002453475043874441,1.0
+DRIAMS-A->DRIAMS-B|Staphylococcus epidermidis|Oxacillin,source_to_target_nn_distance,-0.0029206680634633994,1.0
+DRIAMS-A->DRIAMS-B|Staphylococcus epidermidis|Oxacillin,source_internal_diversity,0.0001833941453399496,1.0
+DRIAMS-A->DRIAMS-C|Escherichia coli|Amoxicillin-Clavulanic acid,domain_auc_svd,-0.0025331131773875483,10.0
+DRIAMS-A->DRIAMS-C|Escherichia coli|Amoxicillin-Clavulanic acid,centroid_distance_svd,-0.0012275865091880798,10.0
+DRIAMS-A->DRIAMS-C|Escherichia coli|Amoxicillin-Clavulanic acid,covariance_distance_svd,-0.0004872979818005385,10.0
+DRIAMS-A->DRIAMS-C|Escherichia coli|Amoxicillin-Clavulanic acid,source_to_target_nn_distance,-0.0018365960914590827,10.0
+DRIAMS-A->DRIAMS-C|Escherichia coli|Amoxicillin-Clavulanic acid,source_internal_diversity,0.0009346109027510416,10.0
+DRIAMS-A->DRIAMS-C|Escherichia coli|Cefepime,domain_auc_svd,-0.008102959095946178,1.0
+DRIAMS-A->DRIAMS-C|Escherichia coli|Cefepime,centroid_distance_svd,0.0018733742011614004,1.0
+DRIAMS-A->DRIAMS-C|Escherichia coli|Cefepime,covariance_distance_svd,0.0024337158712913853,1.0
+DRIAMS-A->DRIAMS-C|Escherichia coli|Cefepime,source_to_target_nn_distance,-0.002711339560060365,1.0
+DRIAMS-A->DRIAMS-C|Escherichia coli|Cefepime,source_internal_diversity,0.00025585712198220224,1.0
+DRIAMS-A->DRIAMS-C|Escherichia coli|Ceftazidime,domain_auc_svd,-0.008150312547123046,1.0
+DRIAMS-A->DRIAMS-C|Escherichia coli|Ceftazidime,centroid_distance_svd,0.001988241008969417,1.0
+DRIAMS-A->DRIAMS-C|Escherichia coli|Ceftazidime,covariance_distance_svd,0.002392991754679046,1.0
+DRIAMS-A->DRIAMS-C|Escherichia coli|Ceftazidime,source_to_target_nn_distance,-0.0029206732957459737,1.0
+DRIAMS-A->DRIAMS-C|Escherichia coli|Ceftazidime,source_internal_diversity,0.00017938999841113208,1.0
+DRIAMS-A->DRIAMS-C|Escherichia coli|Ceftriaxone,domain_auc_svd,-0.009552195735879296,1.0
+DRIAMS-A->DRIAMS-C|Escherichia coli|Ceftriaxone,centroid_distance_svd,0.002657665150378951,1.0
+DRIAMS-A->DRIAMS-C|Escherichia coli|Ceftriaxone,covariance_distance_svd,0.0029151737989710977,1.0
+DRIAMS-A->DRIAMS-C|Escherichia coli|Ceftriaxone,source_to_target_nn_distance,-0.0023409391372246325,1.0
+DRIAMS-A->DRIAMS-C|Escherichia coli|Ceftriaxone,source_internal_diversity,0.0001869037917101797,1.0
+DRIAMS-A->DRIAMS-C|Escherichia coli|Ciprofloxacin,domain_auc_svd,-0.00806361696376644,1.0
+DRIAMS-A->DRIAMS-C|Escherichia coli|Ciprofloxacin,centroid_distance_svd,0.0019240490771530493,1.0
+DRIAMS-A->DRIAMS-C|Escherichia coli|Ciprofloxacin,covariance_distance_svd,0.0023184153685409125,1.0
+DRIAMS-A->DRIAMS-C|Escherichia coli|Ciprofloxacin,source_to_target_nn_distance,-0.002937356961493542,1.0
+DRIAMS-A->DRIAMS-C|Escherichia coli|Ciprofloxacin,source_internal_diversity,0.00020289710330632143,1.0
+DRIAMS-A->DRIAMS-C|Escherichia coli|Cotrimoxazole,domain_auc_svd,-0.0028130762370878015,10.0
+DRIAMS-A->DRIAMS-C|Escherichia coli|Cotrimoxazole,centroid_distance_svd,-0.001158446757442897,10.0
+DRIAMS-A->DRIAMS-C|Escherichia coli|Cotrimoxazole,covariance_distance_svd,-0.0003733096825757339,10.0
+DRIAMS-A->DRIAMS-C|Escherichia coli|Cotrimoxazole,source_to_target_nn_distance,-0.001724475393531259,10.0
+DRIAMS-A->DRIAMS-C|Escherichia coli|Cotrimoxazole,source_internal_diversity,0.000897096329245719,10.0
+DRIAMS-A->DRIAMS-C|Escherichia coli|Norfloxacin,domain_auc_svd,-0.013045415823926794,0.1
+DRIAMS-A->DRIAMS-C|Escherichia coli|Norfloxacin,centroid_distance_svd,0.007215374180573905,0.1
+DRIAMS-A->DRIAMS-C|Escherichia coli|Norfloxacin,covariance_distance_svd,0.006226258432136744,0.1
+DRIAMS-A->DRIAMS-C|Escherichia coli|Norfloxacin,source_to_target_nn_distance,-0.007606187864358978,0.1
+DRIAMS-A->DRIAMS-C|Escherichia coli|Norfloxacin,source_internal_diversity,0.00011265046864270632,0.1
+DRIAMS-A->DRIAMS-C|Klebsiella pneumoniae|Cotrimoxazole,domain_auc_svd,-0.009556340600864145,0.1
+DRIAMS-A->DRIAMS-C|Klebsiella pneumoniae|Cotrimoxazole,centroid_distance_svd,0.010302280588119826,0.1
+DRIAMS-A->DRIAMS-C|Klebsiella pneumoniae|Cotrimoxazole,covariance_distance_svd,0.0016683842163412966,0.1
+DRIAMS-A->DRIAMS-C|Klebsiella pneumoniae|Cotrimoxazole,source_to_target_nn_distance,-0.008920617996749897,0.1
+DRIAMS-A->DRIAMS-C|Klebsiella pneumoniae|Cotrimoxazole,source_internal_diversity,0.001089526320907539,0.1
+DRIAMS-A->DRIAMS-C|Proteus mirabilis|Cotrimoxazole,domain_auc_svd,-0.008536161729691103,1.0
+DRIAMS-A->DRIAMS-C|Proteus mirabilis|Cotrimoxazole,centroid_distance_svd,0.0016048905702187827,1.0
+DRIAMS-A->DRIAMS-C|Proteus mirabilis|Cotrimoxazole,covariance_distance_svd,0.001697804852270346,1.0
+DRIAMS-A->DRIAMS-C|Proteus mirabilis|Cotrimoxazole,source_to_target_nn_distance,-0.0009465562309940989,1.0
+DRIAMS-A->DRIAMS-C|Proteus mirabilis|Cotrimoxazole,source_internal_diversity,3.6020652030299725e-05,1.0
+DRIAMS-A->DRIAMS-C|Staphylococcus aureus|Clindamycin,domain_auc_svd,-0.006273353636128932,1.0
+DRIAMS-A->DRIAMS-C|Staphylococcus aureus|Clindamycin,centroid_distance_svd,0.0011147621653906886,1.0
+DRIAMS-A->DRIAMS-C|Staphylococcus aureus|Clindamycin,covariance_distance_svd,0.0022204390732891988,1.0
+DRIAMS-A->DRIAMS-C|Staphylococcus aureus|Clindamycin,source_to_target_nn_distance,-0.002775742174336112,1.0
+DRIAMS-A->DRIAMS-C|Staphylococcus aureus|Clindamycin,source_internal_diversity,0.0008969186919314005,1.0
+DRIAMS-A->DRIAMS-C|Staphylococcus aureus|Penicillin,domain_auc_svd,-0.009238761579202996,1.0
+DRIAMS-A->DRIAMS-C|Staphylococcus aureus|Penicillin,centroid_distance_svd,0.0026006324311715024,1.0
+DRIAMS-A->DRIAMS-C|Staphylococcus aureus|Penicillin,covariance_distance_svd,0.002622839199383593,1.0
+DRIAMS-A->DRIAMS-C|Staphylococcus aureus|Penicillin,source_to_target_nn_distance,-0.0030624949318975797,1.0
+DRIAMS-A->DRIAMS-C|Staphylococcus aureus|Penicillin,source_internal_diversity,-0.0002221545638058779,1.0
+DRIAMS-B->DRIAMS-C|Staphylococcus aureus|Clindamycin,domain_auc_svd,-0.01449599766250052,0.1
+DRIAMS-B->DRIAMS-C|Staphylococcus aureus|Clindamycin,centroid_distance_svd,0.005464277865605513,0.1
+DRIAMS-B->DRIAMS-C|Staphylococcus aureus|Clindamycin,covariance_distance_svd,0.005481662301986673,0.1
+DRIAMS-B->DRIAMS-C|Staphylococcus aureus|Clindamycin,source_to_target_nn_distance,-0.004401890565896461,0.1
+DRIAMS-B->DRIAMS-C|Staphylococcus aureus|Clindamycin,source_internal_diversity,-0.0022570487257096063,0.1

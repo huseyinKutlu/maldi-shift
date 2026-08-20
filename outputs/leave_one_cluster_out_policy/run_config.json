@@ -1,0 +1,27 @@
+{
+  "outer_validation": "leave-one-source-target-species-cluster-out",
+  "inner_validation": "leave-one-cluster-out",
+  "cluster_balanced_training": true,
+  "predictors": [
+    "domain_auc_svd",
+    "centroid_distance_svd",
+    "covariance_distance_svd",
+    "source_to_target_nn_distance",
+    "source_internal_diversity"
+  ],
+  "budgets": [
+    20,
+    30,
+    50
+  ],
+  "alphas": [
+    0.01,
+    0.1,
+    1.0,
+    10.0,
+    100.0
+  ],
+  "bootstrap_reps": 10000,
+  "multitask_dir": "outputs/multitask_active_validation_final",
+  "shift_dir": "outputs/shift_predictors"
+}

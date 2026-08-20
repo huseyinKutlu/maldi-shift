@@ -8,3 +8,8 @@ outputs/*.csv.gz
 data/
 matrices/
 DRIAMS-*/
+__pycache__/
+*.pyc
+matrices/
+*.npy
+DRIAMS-*/

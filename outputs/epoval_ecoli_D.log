@@ -1,0 +1,28 @@
+nohup: ignoring input
+Protokol B | D: 24 tur, 3 merkez
+Escherichia coli/Ceftriaxone: kaynak n=4,961 | hedef n=1,994 direnc=0.099
+  tekrar 1/10 (test n=665)
+  tekrar 2/10 (test n=665)
+  tekrar 3/10 (test n=665)
+  tekrar 4/10 (test n=665)
+  tekrar 5/10 (test n=665)
+  tekrar 6/10 (test n=665)
+  tekrar 7/10 (test n=665)
+  tekrar 8/10 (test n=665)
+  tekrar 9/10 (test n=665)
+  tekrar 10/10 (test n=665)
+
+=== ORTALAMALAR (%95 GA) ===
+  k=  0 rho=0.00 | PR-AUC 0.446 [0.425-0.464] | site 0.9928 [0.9924-0.9933]
+  k=  2 rho=0.50 | PR-AUC 0.462 [0.439-0.484] | site 0.9915 [0.9910-0.9920]
+  k= 20 rho=0.50 | PR-AUC 0.466 [0.447-0.484] | site 0.9907 [0.9900-0.9913]
+  k= 20 rho=1.00 | PR-AUC 0.495 [0.461-0.525] | site 0.9883 [0.9875-0.9889]
+  k= 30 rho=0.75 | PR-AUC 0.456 [0.426-0.482] | site 0.9900 [0.9891-0.9908]
+
+=== ESLESTIRILMIS FARK (ayar - taban), %95 GA ===
+  k=  2 rho=0.50 | dPR +0.016 [-0.004,+0.037] | dSite -0.0013 [-0.0018,-0.0009] | anlamli: hayir
+  k= 20 rho=0.50 | dPR +0.020 [+0.007,+0.032] | dSite -0.0021 [-0.0028,-0.0017] | anlamli: EVET
+  k= 20 rho=1.00 | dPR +0.049 [+0.029,+0.066] | dSite -0.0046 [-0.0053,-0.0040] | anlamli: EVET
+  k= 30 rho=0.75 | dPR +0.010 [-0.012,+0.029] | dSite -0.0029 [-0.0036,-0.0024] | anlamli: hayir
+
+kayit: outputs/epo_val/Escherichia_coli__Ceftriaxone__DRIAMS-D__protB_diff.csv

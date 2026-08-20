@@ -1,0 +1,12 @@
+{
+  "multitask_dir": "outputs/multitask_active_validation_final",
+  "shift_validate_dir": "outputs/shift_predictors_validate",
+  "policy20_dir": "outputs/selective_adaptation_policy_v2_b20",
+  "policy30_dir": "outputs/selective_adaptation_policy_v2",
+  "policy50_dir": "outputs/selective_adaptation_policy_v2_b50",
+  "cluster_dir": "outputs/cluster_aware_policy_bootstrap",
+  "shift_dir": "outputs/shift_predictors",
+  "out": "outputs/final_results",
+  "bootstrap_reps": 10000,
+  "critical_inputs_found": true
+}

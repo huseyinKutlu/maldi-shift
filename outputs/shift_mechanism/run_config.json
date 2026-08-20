@@ -1,0 +1,17 @@
+{
+  "species": "Staphylococcus aureus",
+  "drug": "Oxacillin",
+  "target": "DRIAMS-C",
+  "labels": "outputs/driams_long.parquet",
+  "matrices": "matrices",
+  "ncomp": 100,
+  "knn_k": 10,
+  "clusters": 8,
+  "topk_peaks": 100,
+  "seed": 0,
+  "analyses": [
+    "invariant_peaks_target_blind",
+    "source_defined_clusters",
+    "invariant_density_weight"
+  ]
+}

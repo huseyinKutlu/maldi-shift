@@ -1,0 +1,16 @@
+{
+  "shift_dir": "outputs/shift_predictors",
+  "multitask_dir": "outputs/multitask_active_validation",
+  "out": "outputs/shift_predictors_validate",
+  "budgets": "20,30,50",
+  "bootstrap_reps": 10000,
+  "permutation_reps": 5000,
+  "primary_predictors": [
+    "domain_auc_svd",
+    "centroid_distance_svd",
+    "covariance_distance_svd",
+    "source_to_target_nn_distance",
+    "source_internal_diversity",
+    "source_only_auroc_mean"
+  ]
+}

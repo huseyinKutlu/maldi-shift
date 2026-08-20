@@ -1,0 +1,8 @@
+{
+  "labels": "outputs/driams_long.parquet",
+  "matrices": "matrices",
+  "input_dir": "outputs/multitask_active_validation",
+  "out": "outputs/shift_predictors",
+  "ncomp": 100,
+  "knn_k": 10
+}
