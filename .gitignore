@@ -13,3 +13,6 @@ __pycache__/
 matrices/
 *.npy
 DRIAMS-*/
+*:Zone.Identifier
+*.parquet
+outputs/driams_long.parquet
