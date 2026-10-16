@@ -43,3 +43,5 @@ Lisans: CC0. Ham veri bu depoda yer almaz.
 ## Ortam
 
 Python 3.11, PyTorch 2.11+cu128, LightGBM 4.7, PyWavelets 1.8, SHAP 0.51
+
+Full code and outputs for this version are archived at Zenodo: https://doi.org/10.5281/zenodo.23412896
